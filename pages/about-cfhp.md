@@ -1,7 +1,6 @@
 ---
 title: About Cfhp
 permalink: /about-cfhp/
-layout: simple-page
 ---
 # About the Climate Friendly Households Programme
 Launched on 31 October 2020, the Climate Friendly Households Programme (CFHP) is a joint initiative by NEA and PUB which aims to encourage households to take climate actions to reduce energy and water consumption, while saving costs in the long run.
