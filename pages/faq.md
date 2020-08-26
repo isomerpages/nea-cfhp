@@ -24,7 +24,7 @@ Alternatively, you can visit www.go.gov.sg/register-cfhp-vouchers (or scan the Q
 
 **4.	How can I retrieve my vouchers?**
 
-You may scan the QR code (see right) ![FormSG QR Code](/images/FormSG QR Code.png =100x100 "www.go.gov.sg/register-cfhp-vouchers") and log in with Singpass to access the online form. Upon completion of the form, you will receive a SMS containing links to your e-vouchers. Do note that you will only receive the SMS if you are ascertained to be eligible for the programme.
+You may scan the QR code (see right) ![FormSG QR Code](/images/FormSG QR Code.png =250x250) and log in with Singpass to access the online form. Upon completion of the form, you will receive a SMS containing links to your e-vouchers. Do note that you will only receive the SMS if you are ascertained to be eligible for the programme.
 
 **5.	I will be moving into my 1-/ 2-/3-room BTO soon. Am I eligible for the programme?**
 
