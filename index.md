@@ -2,14 +2,14 @@
 layout: homepage
 title: Climate Friendly Household Programme
 description: A NEA and PUB initiative to encourage all 1-, 2- and 3-room HDB households to be energy and water efficient
-image: /images/thumbnail_Climate friendly RF Label.jpg
+image: /images/cfhp logo draft.png
 permalink: /
 notification: This site is still under maintenance
 sections:
     - hero:
         title: Fight Climate-change and Save Money
         subtitle: Climate vouchers available from September 2020 to December 2023
-        background: /images/energy-efficiency-package_resized.jpg
+        background: /images/Mosaic Background draft.png
         button: APPLY NOW
         url: /how-to-apply/
         key_highlights:
