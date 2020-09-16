@@ -17,5 +17,7 @@ links:
     collection: resources
   - title: News
     resource_room: true
+  - title: FAQ
+    url: /faq/
   - title: Contact Us
     url: /contact-us/
