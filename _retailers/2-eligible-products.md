@@ -20,6 +20,6 @@ You may refer to [PUB's List of WELS Rated Rroducts](https://app.pub.gov.sg/wels
 ## $25 LED Lights Voucher
 
 - Registered LED self-ballasted lamps
-- Registered direct LED replacements for CFL$_{ni}$ or LFL lights
+- Registered direct LED replacements for CFL or LFL lights
 
 You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov.sg/els/Pages/Search/PublicSearchProduct.aspx?param=goods&type=p) for a full list of eligible products, remember to use the correct filters!
