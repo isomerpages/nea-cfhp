@@ -41,5 +41,3 @@ NEA will extend the SSUL programme to three-room HDB households. There are curre
 Among the key uses of water in a household, showers make up the largest component of water usage, accounting for close to 30 per cent of a household’s total water consumption. To encourage households to make the switch to more water-efficient fittings, a once-off $50 voucher will be given to all one-, two- and three-room public housing households to offset the cost of changing their shower fittings to more water-efficient 3-tick models. Potential water savings of up to 400 million gallons of water can be reaped annually if all eligible households make the switch. 
 
 NEA and PUB are currently working on the details of the Climate-friendly Household Package, including the mode of dissemination to eligible households. More details will be announced when ready.
-
-*~~ End ~~*
