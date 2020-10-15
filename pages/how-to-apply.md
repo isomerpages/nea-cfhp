@@ -11,11 +11,11 @@ You will need to login to your SingPass to submit an application form. Only resi
 
 ## Step 2: Sign in with your SingPass
 
-[![sign in with SingPass](/images/Step 2 - Sign in with SingPass.png)]
+![sign in with SingPass](/images/Step 2 - Sign in with SingPass.png)
 
 ## Step 3: Complete the online form
 
-[![Complete Online Form](/images/Step 3 - Complete Form.png)]
+![Complete Online Form](/images/Step 3 - Complete Form.png)
 
 ## Step 4: Receive e-Vouchers via SMS
 
