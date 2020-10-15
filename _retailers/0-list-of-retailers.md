@@ -9,8 +9,8 @@ permalink: /retailers/list-of-retailers/
 | [![shengsiong](/images/Shengsiong.JPG){:height="36px" width="36px"}](https://corporate.shengsiong.com.sg/store-locator/) |-|-|yes|
 |xxx|-|-|-
 |xxx|-|-|-
-| ![Gaincity](/images/Gaincity.jpg){:height="36" width="36"}| Yes |yes|yes
-| ![shengsiong](/images/Shengsiong.JPG){:height="36px" width="36px"} |-|-|yes|
+| ![Gaincity](/images/Gaincity.jpg){: height=36 width=36}| Yes |yes|yes
+| ![shengsiong](/images/Shengsiong.JPG){: height=36px width=36px} |-|-|yes|
 |xxx|-|-|-
 |xxx|-|-|-
 |xxx|-|-|-
