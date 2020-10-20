@@ -1,6 +1,6 @@
 ---
 title: Voucher Terms and Conditions
-permalink: /faq/
+permalink: /voucher-tc/
 ---
 
 # Voucher T&Cs
