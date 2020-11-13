@@ -8,7 +8,7 @@ sections:
     - hero:
         title: Climate Friendly Households Programme
         subtitle: e-Vouchers for energy- and water-efficient appliances, available from November 2020 to December 2023.
-        background: /images/mosaic.png
+        background: /images/herobanner3.png
         button: Retrieve your e-Vouchers here
         url: /how-to-apply/
     - infobar:
