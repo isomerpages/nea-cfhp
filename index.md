@@ -17,7 +17,7 @@ sections:
         description: If all eligible households make the switch, we can save 400 million gallons of water and avoid as much carbon emissions as is produced by 31,000 cars, while saving $40-$120 per household—every year!
         button: Find out how
         url: /resources/programme-brochures/
-    - resources:
+    - infobar:
         title: Where can I use my e-Vouchers?
         button: List of retailers 
         url: /list-of-retailers/
