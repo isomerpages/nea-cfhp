@@ -19,6 +19,8 @@ sections:
         url: /resources/programme-brochures/
     - infobar:
         title: Where can I use my e-Vouchers?
+        subtitle: Redeeming your e-Vouchers
+        description: CFHP is supported by a range of participating merchants island-wide. Find out where you can go to use your e-Vouchers at the link below.
         button: List of retailers 
-        url: /list-of-retailers/
+        url: /retailers/list-of-retailers/
 ---
