@@ -18,7 +18,7 @@ locations:
     - phone: +65 6225 5632
     - Other: https://www.nea.gov.sg/corporate-functions/feedback
   - title: PUB General Enquiries & Feedback
-    Content
+    Content:
     - phone: 1800-2255-782
     - other: https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx
 ---
