@@ -3,7 +3,7 @@ title: About CFHP
 permalink: /about-cfhp/
 ---
 # About the Climate Friendly Households Programme
-Launched on 28 November 2020, the Climate Friendly Households Programme (CFHP) is a joint initiative by NEA and PUB which aims to encourage households to take climate actions to reduce energy and water consumption, while saving costs in the long run.
+Launched on 28 November 2020, the Climate Friendly Households (CFH) Programme is a joint initiative by NEA and PUB which aims to encourage households to take climate actions to reduce energy and water consumption, while saving costs in the long run.
 
 Under the Climate Friendly Households Programme, all 1-, 2- and 3-room HDB households can receive 3 separate e-Vouchers:
 - **one $150 e-voucher** to offset the cost of an energy efficient and climate-friendly refrigerator,
