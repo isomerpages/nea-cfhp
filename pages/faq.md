@@ -34,7 +34,7 @@ Upon applying for your voucher via this [link](https://go.gov.sg/register-cfhp-v
 
 If you are not eligible or if your household has previously applied, you will be notified by NEA/PUB. 
 
-If you still had not received your vouchers, please contact us at [NEA_CFHP@nea.gov.sg](NEA_CFHP@nea.gov.sg). 
+If you still had not received your vouchers, please contact us at <NEA_CFHP@nea.gov.sg>
 
 
 **5.	How can I retrieve my vouchers?**
@@ -67,14 +67,14 @@ If your son/daughter resides at the same residential address as you, then they w
 If your son/daughter does not reside at the same address as you, they will have to produce a copy of your original NRIC to the retail assistant at the point of purchase.
 
 
-**10.	Can vouchers be resold online? **
+**10.	Can vouchers be resold online?**
 
 No, vouchers cannot be resold online. All vouchers that are found to be resold online will be voided immediately. 
 
 
 ### Redeeming Vouchers
 
-**11.	What is the process for redeeming vouchers? **
+**11.	What is the process for redeeming vouchers?**
 
 Simply open up the voucher link, and present the voucher together with your NRIC at any of the participating retail stores. The cashier will scan the barcode on your voucher or key in the voucher number for you to be able to use the voucher. 
 
