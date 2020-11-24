@@ -30,7 +30,7 @@ No refund shall be given if the value of the Voucher exceeds the amount payable 
 8. This Voucher must be redeemed by 31 December 2023.
 
 
-9. This Voucher can be redeemed at participating merchants’ retail stores. For a full list of retail stores and eligible products, please visit [go.gov.sg/cfhp](www.go.gov.sg/cfhp)
+9. This Voucher can be redeemed at participating merchants’ retail stores. For a full list of retail stores and eligible products, please visit [go.gov.sg/cfhp](https://www.climate-friendly-households.gov.sg/)
 
 
 10. The use of this Voucher is subject to the terms and conditions of the participating merchants.
