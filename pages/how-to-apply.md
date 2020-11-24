@@ -13,6 +13,8 @@ You will need to login to your SingPass to submit an application form. Only resi
 
 ![formslogin](/images/Step2-formsglogin.jpg){:style="width: 600px"}
 
+If you have forgot your SingPass password or do not have SingPass, click [here](https://www.singpass.gov.sg/)
+
 ### Step 3: Complete the online form
 
 ![Complete Online Form](/images/step3-completeform.jpg){:style="width: 620px"} ![Complete Online Form](/images/step3-mobileotp.jpg){:style="width: 637px"}
