@@ -8,3 +8,6 @@ Use the online [Life Cycle Cost Calculator](https://www.e2singapore.gov.sg/overv
 Learn how to green your home with NEA's [Resource Efficiency Guide for Homeowners](https://www.e2singapore.gov.sg/docs/default-source/default-document-library/Resources/Households/Guide.pdf)
 
 Find more resources on Household Energy Efficiency [here](https://www.e2singapore.gov.sg/resources/resources/households-resources).
+
+
+<a href="_resources/Resource Efficiency Guide.pdf" target="_blank">Resource Efficiency Guide</a>
