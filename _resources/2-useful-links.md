@@ -10,4 +10,4 @@ Learn how to green your home with NEA's [Resource Efficiency Guide for Homeowner
 Find more resources on Household Energy Efficiency [here](https://www.e2singapore.gov.sg/resources/resources/households-resources).
 
 
-<a href="resources/Resource Efficiency Guide.pdf" target="_blank">Resource Efficiency Guide</a>
+<a href="/files/Resource Efficiency Guide.pdf" target="_blank">Resource Efficiency Guide</a>
