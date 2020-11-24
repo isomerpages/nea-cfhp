@@ -15,8 +15,6 @@ links:
     collection: retailers
   - title: Resources
     collection: resources
-  - title: News
-    resource_room: true
   - title: FAQ
     url: /faq/
   - title: Contact Us
