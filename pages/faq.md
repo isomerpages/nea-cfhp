@@ -25,7 +25,7 @@ Alternatively, you can visit [www.go.gov.sg/register-cfhp-vouchers](www.go.gov.s
 
 **4.	How can I retrieve my vouchers?**
 
-![FormSG QR Code](/images/Registration QR Code.png)
+![FormSG QR Code](/images/Registration QR Code.png){:style="height: 236px; width: 236px"}
 
 You may scan the QR code (see above) and log in with Singpass to access the online form. Upon completion of the form, you will receive a SMS containing links to your e-vouchers. Do note that you will only receive the SMS if you are ascertained to be eligible for the programme.
 
