@@ -2,45 +2,48 @@
 title: Voucher Terms and Conditions
 permalink: /voucher-tc/
 ---
+## Voucher T&Cs
 
-# Voucher T&Cs
+For FAQs, click [here](https://www.climate-friendly-households.gov.sg/faq/)
 
-**1 Agreement - Terms**  
-All access of any area of [<a href="https://www.cimate-friendly-households.gov.sg/" target="_blank">https://www.cimate-friendly-households.gov.sg/</a>](https://www.cimate-friendly-households.gov.sg/) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
 
-In these Terms, the words "we", "our" and "us" refers to the Government of Singapore.
+1. The value of the e-Vouchers is denominated in Singapore currency and is not transferable, replaceable or exchangeable for cash. Any outstanding amount that is not utilized will be forfeited.
 
-**2 Access To The Website**  
-The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation of The Website.
 
-**3 Relying On Information**  
-We provide The Website as a general information source only and we are not involved in giving professional advice here. The Website may not cover all information available on a particular issue. Before relying on The Website, you should do your own checks or obtain professional advice relevant to your particular circumstances.
+2. The $150 Refrigerator e-Voucher is only valid for the purchase of any refrigerator that carries the NEA’s Energy Label with 3 or 4 ticks, and the Climate-Friendly label.
 
-**4 Security**  
-Where appropriate, we use available technology to protect the security of communications made through The Website. However, we do not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through The Website.
 
-Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that The Website is free of infection by computer viruses or other unauthorised software.
+3. The $50 Shower Fitting e-Voucher is only valid for the purchase of any shower taps, mixers or hand showers that are rated 3-ticks under PUB’s Water Efficiency Labelling Scheme and related installation services by a licensed plumber.
 
-**5 Hyperlinks**  
-We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from The Website. Access to any other Internet site is at your own risk. If you create a link or frame to The Website, you do so at your own risk.
 
-We reserve the right to object or disable any link or frame to or from The Website.
+4. The $25 LED e-Voucher is only valid for the purchase of any LED lights that carry NEA’s Energy Label, or other LED products approved under the Climate-friendly Households Programme.
 
-We reserve the right to change the URL of The Website.
 
-**6 Intellectual Property**  
-Materials, including source code, pages, documents and online graphics, audio and video in The Website are protected by law. The intellectual property rights in the materials is owned by or licensed to us. All rights reserved. (Government of Singapore © 2004).
+5. This Voucher must be presented to the participating merchant at the point of payment in its original form i.e. screenshots of the Voucher will not be accepted.
 
-Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.
 
-**7 General Disclaimer And Limitation Of Liability**  
-We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in The Website, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses The Website.
+6. The voucher-holder is required to present his/her NRIC at the point of purchase for verification purposes (address stated on the Voucher corresponds to the address on the NRIC).
 
-**8 Fees**  
-There are currently no fees for using any part of The Website.] We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
 
-**9 Applicable Laws**  
-Use of The Website and these Terms are governed by the laws of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.
+7. This Voucher is only good for a single transaction. Only one e-Voucher can be used per transaction. No refund shall be given if the value of the Voucher exceeds the amount payable for the transaction. If the value of the Voucher(s) used in a transaction does not cover the full cost of the transaction, the balance must be paid by the Voucher holder.
 
-**10 Variation**  
-We may revise these Terms at any time by updating this page. You should visit this page from time to time and review the then current Terms because they are binding on you. We may modify or discontinue any information or features that form part of The Website at any time, with or without notice to you, and without liability.
+
+8. This Voucher must be redeemed by 31 December 2023.
+
+
+9. This Voucher can be redeemed at participating merchants’ retail stores. For a full list of retail stores and eligible products, please visit [go.gov.sg/cfhp](https://www.climate-friendly-households.gov.sg/)
+
+
+10. The use of this Voucher is subject to the terms and conditions of the participating merchants.
+
+
+11. Notwithstanding participating merchants’ refund/exchange policy, in the event the participating merchant offers a refund, the value of this Voucher will not be refunded in cash or in any other form. This Voucher will be deemed as void.
+
+
+12. In the event of an exchange, the replacement product must be listed as an eligible product under the Climate Friendly Household Programme.
+
+
+13. The National Environment Agency (NEA) and PUB reserves the right to vary and amend these terms and conditions at any time without prior notice. In the event of any dispute, NEA or PUB’s decision is final.
+
+
+14. Neither NEA nor PUB shall not be responsible for any claim, demand, loss, cost, expense or liability of any kind whatsoever, arising from or in connection with any transaction or dealing between participating merchant(s) and the Voucher holder.
