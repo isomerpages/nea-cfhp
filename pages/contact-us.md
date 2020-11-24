@@ -14,9 +14,9 @@ contacts:
   - title: NEA General Enquiries & Feedback
     content:
     - phone: +65 6225 5632
-    - other: Feedback Form<a href="url">https://www.nea.gov.sg/corporate-functions/feedback</a>
+    - other: <a href="https://www.nea.gov.sg/corporate-functions/feedback">Feedback Form</a> 
   - title: PUB General Enquiries & Feedback
     content:
     - phone: 1800-2255-782
-    - other: https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx
+    - other: <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx">Feedback Form</a> 
 ---
