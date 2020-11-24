@@ -12,4 +12,4 @@ Under the Climate Friendly Households Programme, all 1-, 2- and 3-room HDB house
 
 If all eligible households make the switch, the collective reduction in carbon emissions is equivalent to taking 31,000 cars off the road and the water savings amount to 400 million gallons of water annually. Not only will this help fight climate change, households can benefit from utility savings from around $40 to $120 per household annually.
 
-Click [here](www.go.gov.sg/register-cfhp-vouchers) to apply for your vouchers today!
+Click [here](https://go.gov.sg/register-cfhp-vouchers) to apply for your vouchers today!
