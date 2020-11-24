@@ -12,6 +12,8 @@ locations:
     maps_link: https://www.google.com/maps/place/NEA/@1.3102445,103.8340043,17z/data=!3m1!4b1!4m5!3m4!1s0x31da19ec53b2ebfb:0x1eaefdb0131ac1e!8m2!3d1.3102391!4d103.836193
     
 contacts:
+  - title: CFH Programme Team Enquiries & Feedback
+    - Email: [NEA_CFHP@nea.gov.sg](NEA_CFHP@nea.gov.sg)
   - title: NEA General Enquiries & Feedback
     - phone: +65 6225 5632
     - Feedback Form: https://www.nea.gov.sg/corporate-functions/feedback
