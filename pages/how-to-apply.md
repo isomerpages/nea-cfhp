@@ -11,7 +11,7 @@ You will need to login to your SingPass to submit an application form. Only resi
 
 ### Step 2: Sign in with your SingPass
 
-![formslogin](/images/Step2-formsglogin.jpg) ![sign in with SingPass](/images/step2-singpasslogin.jpg)
+![formslogin](/images/Step2-formsglogin.jpg)
 
 ### Step 3: Complete the online form
 
