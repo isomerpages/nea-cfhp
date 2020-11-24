@@ -11,15 +11,15 @@ You will need to login to your SingPass to submit an application form. Only resi
 
 ### Step 2: Sign in with your SingPass
 
-![formslogin](/images/Step2-formsglogin.jpg)![sign in with SingPass](/images/step2-singpasslogin.jpg)
+[![formslogin](/images/Step2-formsglogin.jpg){:style="width: 400px"}] [![sign in with SingPass](/images/step2-singpasslogin.jpg){:style="width: 400px"}]
 
 ### Step 3: Complete the online form
 
-![Complete Online Form](/images/step3-completeform.jpg)![Complete Online Form](/images/step3-mobileotp.jpg)
+[![Complete Online Form](/images/step3-completeform.jpg){:style="width: 400px"}] [![Complete Online Form](/images/step3-mobileotp.jpg){:style="width: 400px"}]
 
 ### Step 4: Receive e-Vouchers via SMS
 
-![Complete Online Form](/images/Step4-receive-vouchers.png)
+[![Complete Online Form](/images/Step4-receive-vouchers.png){:style="width: 400px"}]
 
 ### Step 5: Redeem at any participating store
 
