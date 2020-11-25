@@ -55,7 +55,7 @@ At any participating retail stores. You may refer to the full list of participat
 
 **7.	Can I let my son/daughter help me redeem my voucher?**
 
-Yes, you may.
+Yes, you can.
 
 If your son/daughter resides at the same residential address as you, then they will have to produce their own NRIC to the retail assistant at the point of purchase.
 
