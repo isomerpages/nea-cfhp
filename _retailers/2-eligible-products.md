@@ -7,7 +7,7 @@ permalink: /retailers/eligible-products/
 - Registered 3-ticks & above under [MELS](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/household-sector/about-mandatory-energy-labelling-and-minimum-energy-performance-standards) (Mandatory Energy Labelling Scheme)
 - Uses [Climate-Friendly Refrigerants](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/reducing-ghg-emissions-from-the-use-of-refrigerants-in-rac-sector#:~:text=Climate%2Dfriendly%20Label%20for%20household,that%20use%20climate%2Dfriendly%20refrigerants.)
 
-![3tickrfmels](/images/3tickrfmels.png){:style="width: 200px"}   ![cflabel](/images/Climate friendly RF Label.jpg){:style="width: 200px"}
+![3tickrfmels](/images/rflabels.jpg){:style="width: 400px"}
 
 You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov.sg/els/Pages/Search/PublicSearchProduct.aspx?param=goods&type=p) for a full list of eligible products, remember to use the correct filters!
 
