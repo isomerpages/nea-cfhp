@@ -21,6 +21,8 @@ If you have forgot your SingPass password or do not have SingPass, click [here](
 
 ### Step 4: Receive e-Vouchers via SMS
 
+Your vouchers will be sent via an SMS by RedeemSG. The SMS should look like this, with a link starting with https://v.redeem.gov.sg/. Please do not trust any links which start differently.
+
 ![Complete Online Form](/images/step4-smsvoucher.jpg){:style="width: 587px"}
 
 ### Step 5: Redeem at any participating store
