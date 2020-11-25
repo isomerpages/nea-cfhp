@@ -21,7 +21,7 @@ If you have forgot your SingPass password or do not have SingPass, click [here](
 
 ### Step 4: Receive e-Vouchers via SMS
 
-![Complete Online Form](/images/Step4-receive-vouchers.png){:style="width: 587px"}
+![Complete Online Form](/images/step4-smsvoucher.jpg){:style="width: 587px"}
 
 ### Step 5: Redeem at any participating store
 
