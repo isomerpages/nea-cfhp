@@ -6,6 +6,8 @@ permalink: /voucher-tc/
 
 For FAQs, click [here](https://www.climate-friendly-households.gov.sg/faq/)
 
+For a list of participating retailers, click [here](https://www.climate-friendly-households.gov.sg/retailers/list-of-retailers/)
+
 
 1. The value of the e-Vouchers is denominated in Singapore currency and is not transferable, replaceable or exchangeable for cash. Any outstanding amount that is not utilized will be forfeited.
 
