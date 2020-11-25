@@ -7,7 +7,7 @@
 logo: /images/Main Logo.jpg
 links:
 
-  - title: About CFHP
+  - title: About
     url: /about-cfhp/
   - title: How To Apply
     url: /how-to-apply/
@@ -15,8 +15,6 @@ links:
     collection: retailers
   - title: Resources
     collection: resources
-  - title: News
-    resource_room: true
   - title: FAQ
     url: /faq/
   - title: Contact Us
