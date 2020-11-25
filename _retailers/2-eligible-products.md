@@ -15,7 +15,7 @@ You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov
 - Registered 3-ticks shower taps/mixers under [MWELS](https://www.pub.gov.sg/wels/welsproducts)
 - Installation services of the said shower fittings by licensed plumbers
 
-You may refer to [PUB's List of WELS Rated Rroducts](https://app.pub.gov.sg/wels/Pages/ListOfProducts.aspx) for a full list of eligible products, remember to use the correct filters!
+You may refer to [PUB's List of WELS Rated Products](https://app.pub.gov.sg/wels/Pages/ListOfProducts.aspx) for a full list of eligible products, remember to use the correct filters!
 
 ## $25 LED Lights Voucher
 
