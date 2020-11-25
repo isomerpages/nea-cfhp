@@ -20,7 +20,7 @@ Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers durin
 **3.	What e-vouchers will i receive?**
 
 - 1 x $25 voucher to purchase LED bulbs and/or tubes
-- 1 x $50 voucher to purchase shower fittings with 3 ticks on the water efficiency label
+- 1 x $50 voucher to purchase shower fittings with 3 ticks on the water efficiency labelling scheme (WELS) label
 - 1 x $150 voucher to offset the purchase of a refrigerator that carries 3 ticks or more on the energy label and uses a climate-friendly refrigerant
 
 For a full list of eligible products under the programme, click [here](https://www.climate-friendly-households.gov.sg/retailers/eligible-products/).
