@@ -1,5 +1,5 @@
 ---
-title: About CFHP
+title: About
 permalink: /about-cfhp/
 ---
 # About the Climate Friendly Households Programme

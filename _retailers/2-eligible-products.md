@@ -9,17 +9,17 @@ permalink: /retailers/eligible-products/
 
 ![3tickrfmels](/images/rflabels.jpg){:style="width: 400px"}
 
-You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov.sg/els/Pages/Search/PublicSearchProduct.aspx?param=goods&type=p) for a full list of eligible products, remember to use the correct filters!
+You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov.sg/els/Pages/Search/PublicSearchProduct.aspx?param=goods&type=p) to search for eligible products, remember to use the correct filters!
 
 ## $50 Shower Fittings Voucher
 
-- Registered 3-ticks showerheads under [VWELS](https://www.pub.gov.sg/wels/welsproducts)
-- Registered 3-ticks shower taps/mixers under [MWELS](https://www.pub.gov.sg/wels/welsproducts)
+- Registered 3-ticks showerheads under [VWELS](https://www.pub.gov.sg/wels/labelratings/typesoflabel) (Voluntary Water Efficiency Labelling Scheme)
+- Registered 3-ticks shower taps/mixers under [MWELS](https://www.pub.gov.sg/wels/welsproducts) (Mandatory Water Efficiency Labelling Scheme)
 - Installation services of the said shower fittings by licensed plumbers
 
 ![3tickwels](/images/wels3tick.png){:style="width: 200px"}
 
-You may refer to [PUB's List of WELS Rated Products](https://app.pub.gov.sg/wels/Pages/ListOfProducts.aspx) for a full list of eligible products, remember to use the correct filters!
+You may refer to [PUB's List of WELS Rated Products](https://app.pub.gov.sg/wels/Pages/ListOfProducts.aspx) to search for eligible products, remember to use the correct filters!
 
 ## $25 LED Lights Voucher
 
@@ -28,4 +28,4 @@ You may refer to [PUB's List of WELS Rated Products](https://app.pub.gov.sg/wels
 
 ![ledlights](/images/light3tick.jpg){:style="width: 200px"}
 
-You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov.sg/els/Pages/Search/PublicSearchProduct.aspx?param=goods&type=p) for a full list of eligible products, remember to use the correct filters!
+You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov.sg/els/Pages/Search/PublicSearchProduct.aspx?param=goods&type=p) to search for eligible products, remember to use the correct filters!
