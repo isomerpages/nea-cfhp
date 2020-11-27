@@ -28,3 +28,5 @@ Your vouchers will be sent via an SMS by RedeemSG. The SMS should look like this
 ### Step 5: Redeem at any participating store
 
 See a list of participating retailers [here](/retailers/list-of-retailers/)
+
+<https://youtu.be/xn-5hOWIRhs>
