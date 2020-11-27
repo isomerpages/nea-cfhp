@@ -20,7 +20,7 @@ permalink: /retailers/list-of-retailers/
 
 **Bathroom Warehouse**
 
-[![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 100px"}](https://bathroomwarehouse.com.sg/contact/)
+[![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 150px"}](https://bathroomwarehouse.com.sg/contact/)
 
 Click [here](https://bathroomwarehouse.com.sg/contact/) to find a store near you
 
@@ -30,7 +30,7 @@ Vouchers Accepted in Stores:
 
 **Best Denki**
 
-[![Best Denki](/images/bestdenki.jpg){:style="width: 130px"}](https://www.bestdenki.com.sg/store-locator)
+[![Best Denki](/images/bestdenki.jpg){:style="width: 150px"}](https://www.bestdenki.com.sg/store-locator)
 
 Click [here](https://www.bestdenki.com.sg/store-locator) to find a store near you
 
@@ -41,7 +41,7 @@ Vouchers Accepted in Stores:
 
 **Courts**
 
-[![Courts](/images/Courtslogo.png){:style="width: 250px"}](https://www.courts.com.sg/)
+[![Courts](/images/Courtslogo.png){:style="width: 300px"}](https://www.courts.com.sg/)
 
 Click [here](https://www.courts.com.sg/storelocator) to find a store near you
 
@@ -51,7 +51,7 @@ Vouchers Accepted in Stores:
 
 **Gain City**
 
-[![Gain City](/images/Gaincity 145 x 250.jpg){:style="width: 100px"}](https://www.gaincity.com/customer-service/store-locations)
+[![Gain City](/images/Gaincity 145 x 250.jpg){:style="width: 150px"}](https://www.gaincity.com/customer-service/store-locations)
 
 Click [here](https://www.gaincity.com/customer-service/store-locations) to find a store near you
 
@@ -63,7 +63,7 @@ Vouchers Accepted in Stores:
 
 **Harvey Norman**
 
-[![Harvey Norman](/images/HN-Logo.png){:style="width: 300px"}](https://www.harveynorman.com.sg/store-finder.html) 
+[![Harvey Norman](/images/HN-Logo.png){:style="width: 330px"}](https://www.harveynorman.com.sg/store-finder.html) 
 
 Click [here](https://www.harveynorman.com.sg/store-finder.html) to find a store near you
 
