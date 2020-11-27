@@ -7,10 +7,11 @@ permalink: /faq/
 
 ### Applying and receiving vouchers
 
-**1. Am I eligible for the Climate-Friendly Households Programme?**
-
+<details>
+<summary>**1. Am I eligible for the Climate-Friendly Households Programme?**</summary>
+<br>
 To be eligible for the programme, you should be a registered owner or tenant of a 1-, 2- or 3- room HDB flat. If you are unsure whether you fall in this category, you may check your details on [MyInfo](https://safe.menlosecurity.com/https://www.singpass.gov.sg/myinfo/intro).
-
+</details>
 
 **2.	I will be moving into my 1-/ 2-/3-room BTO soon. Am I eligible for the programme?**
 
