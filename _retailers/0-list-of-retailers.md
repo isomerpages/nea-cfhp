@@ -3,15 +3,25 @@ title: List of Retailers
 permalink: /retailers/list-of-retailers/
 ---
 
-### Participating Retailers
+### Where can you use your e-Vouchers?
+
+|Name of Retailer|$150 Refrigerator|$50 Shower Fitting|$25 LED|
+|-|-|-|
+|**Bathroom Warehouse**| |yes|
+|**Best Denki**|yes| |yes
+|**Courts**| |yes|
+|**Gain City**|yes|yes|yes
+|**Harvey Norman**|yes| |
+|**Mega Discount Store**|yes| |yes
+|**NTUC FairPrice**| | |yes
+|**Sheng Siong**| | |yes
+
 
 **Bathroom Warehouse**
 
 [![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 100px"}](https://bathroomwarehouse.com.sg/contact/)
 
 List of Stores: click [here](https://bathroomwarehouse.com.sg/contact/)
-
-
 Vouchers Accepted in Stores:
 
 ![shower logo](/images/Shower Fitting Only.png){:style="width: 100px"}    
