@@ -14,4 +14,3 @@ If all eligible households make the switch, the collective reduction in carbon e
 
 Click [here](https://go.gov.sg/register-cfhp-vouchers) to apply for your vouchers today!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wZbvUokJTNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
