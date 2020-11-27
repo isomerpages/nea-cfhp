@@ -7,14 +7,12 @@ permalink: /retailers/list-of-retailers/
 
 **Bathroom Warehouse**
 
-[![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 100px"}{:align="left"}](https://bathroomwarehouse.com.sg/contact/)
-
+[![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 100px"}](https://bathroomwarehouse.com.sg/contact/)
 
 List of Stores: click [here](https://bathroomwarehouse.com.sg/contact/)
 
 
 Vouchers Accepted in Stores:
-
 
 ![shower logo](/images/Shower Fitting Only.png){:style="width: 100px"}    
 
