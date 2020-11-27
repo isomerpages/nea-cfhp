@@ -7,11 +7,17 @@ permalink: /retailers/list-of-retailers/
 
 **Bathroom Warehouse**
 
-| [![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 100px"}](https://bathroomwarehouse.com.sg/contact/)|List of Stores: [https://bathroomwarehouse.com.sg/contact/](https://bathroomwarehouse.com.sg/contact/)
+| [![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 100px"}](https://bathroomwarehouse.com.sg/contact/)|List of Stores: click [here](https://bathroomwarehouse.com.sg/contact/)
 | **Vouchers Accepted in Stores**  |  ![shower logo](/images/Shower Fitting Only.png){:style="width: 100px"}    
 
+**Best Denki**
+
+| [![Best Denki](/images/bestdenki.jpg){:style="width: 130px"}](https://www.bestdenki.com.sg/store-locator)|List of Stores: click [here](https://www.bestdenki.com.sg/store-locator)
+| **Vouchers Accepted in Stores**  |  ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} |![LED logo](/images/LED Only.png){:style="width: 100px"}  
 
 
+
+> nothing below this line
 | [![Best Denki](/images/bestdenki.jpg){:style="width: 130px"}](https://www.bestdenki.com.sg/store-locator) | ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} | |![LED logo](/images/LED Only.png){:style="width: 100px"}
 | [![Courts](/images/Courtslogo.png){:style="width: 250px"}](https://www.courts.com.sg/) | ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} | | 
 | [![Gain City](/images/Gaincity 145 x 250.jpg){:style="width: 100px"}](https://www.gaincity.com/customer-service/store-locations) | ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} |![shower logo](/images/Shower Fitting Only.png){:style="width: 100px"}|![LED logo](/images/LED Only.png){:style="width: 100px"}
