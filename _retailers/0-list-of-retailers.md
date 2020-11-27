@@ -9,7 +9,7 @@ permalink: /retailers/list-of-retailers/
 |-|-|-|
 |**Bathroom Warehouse**| |yes|
 |**Best Denki**|yes| |yes
-|**Courts**| |yes|
+|**Courts**|yes| |
 |**Gain City**|yes|yes|yes
 |**Harvey Norman**|yes| |
 |**Mega Discount Store**|yes| |yes
