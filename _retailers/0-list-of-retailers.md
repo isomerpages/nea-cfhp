@@ -22,29 +22,81 @@ permalink: /retailers/list-of-retailers/
 
 [![Bathroom Warehouse](/images/bathroomwarehouse-logo.png){:style="width: 100px"}](https://bathroomwarehouse.com.sg/contact/)
 
-List of Stores: click [here](https://bathroomwarehouse.com.sg/contact/)
+Click [here](https://bathroomwarehouse.com.sg/contact/) to find a store near you
 
 Vouchers Accepted in Stores:
-
-![shower logo](/images/Shower Fitting Only.png){:style="width: 100px"}    
+- $50 Shower Fitting e-Voucher    
 
 
 **Best Denki**
 
 [![Best Denki](/images/bestdenki.jpg){:style="width: 130px"}](https://www.bestdenki.com.sg/store-locator)
 
-List of Stores: click [here](https://www.bestdenki.com.sg/store-locator)
+Click [here](https://www.bestdenki.com.sg/store-locator) to find a store near you
 
 Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
+- $25 LED Lights e-Voucher
 
-![fridge logo](/images/Fridge Only.png){:style="width: 100px"}![LED logo](/images/LED Only.png){:style="width: 100px"}  
+
+**Courts**
+
+[![Courts](/images/Courtslogo.png){:style="width: 250px"}](https://www.courts.com.sg/)
+
+Click [here](https://www.courts.com.sg/storelocator) to find a store near you
+
+Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
 
 
-> nothing below this line
-| [![Best Denki](/images/bestdenki.jpg){:style="width: 130px"}](https://www.bestdenki.com.sg/store-locator) | ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} | |![LED logo](/images/LED Only.png){:style="width: 100px"}
-| [![Courts](/images/Courtslogo.png){:style="width: 250px"}](https://www.courts.com.sg/) | ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} | | 
-| [![Gain City](/images/Gaincity 145 x 250.jpg){:style="width: 100px"}](https://www.gaincity.com/customer-service/store-locations) | ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} |![shower logo](/images/Shower Fitting Only.png){:style="width: 100px"}|![LED logo](/images/LED Only.png){:style="width: 100px"}
-| [![Harvey Norman](/images/HN-Logo.png){:style="width: 300px"}](https://www.harveynorman.com.sg/store-finder.html) | ![fridge logo](/images/Fridge Only.png){:style="width: 100px"} | | 
-| [![Mega Discount Store](/images/megadiscountstore.png){:style="width: 250px"}](https://megadiscountstore.com.sg/pages/contact-us) |![fridge logo](/images/Fridge Only.png){:style="width: 100px"} | |![LED logo](/images/LED Only.png){:style="width: 100px"}
-| [![NTUC Fairprice](/images/U FairPrice logo.jpg){:style="width: 300px"}](https://www.fairprice.com.sg/store-locator) | | |![LED logo](/images/LED Only.png){:style="width: 100px"}
-| [![Sheng Siong](/images/ShengSiongWT(Centre).jpg){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/) | | |![LED logo](/images/LED Only.png){:style="width: 100px"}
+**Gain City**
+
+[![Gain City](/images/Gaincity 145 x 250.jpg){:style="width: 100px"}](https://www.gaincity.com/customer-service/store-locations)
+
+Click [here](https://www.gaincity.com/customer-service/store-locations) to find a store near you
+
+Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
+- $50 Shower Fitting e-Voucher
+- $25 LED Lights e-Voucher
+
+
+**Harvey Norman**
+
+[![Harvey Norman](/images/HN-Logo.png){:style="width: 300px"}](https://www.harveynorman.com.sg/store-finder.html) 
+
+Click [here](https://www.harveynorman.com.sg/store-finder.html) to find a store near you
+
+Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
+
+
+**Mega Discount Store**
+
+ [![Mega Discount Store](/images/megadiscountstore.png){:style="width: 250px"}](https://megadiscountstore.com.sg/pages/contact-us)
+
+Click [here](https://megadiscountstore.com.sg/pages/contact-us) to find a store near you
+
+Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
+- $25 LED Lights e-Voucher
+
+
+**NTUC FairPrice**
+
+[![NTUC Fairprice](/images/U FairPrice logo.jpg){:style="width: 300px"}](https://www.fairprice.com.sg/store-locator)
+
+Click [here](https://www.fairprice.com.sg/store-locator) to find a store near you
+
+Vouchers Accepted in Stores:
+- $25 LED Lights e-Voucher
+
+
+**Sheng Siong**
+
+[![Sheng Siong](/images/ShengSiongWT(Centre).jpg){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
+
+Click [here](https://corporate.shengsiong.com.sg/store-locator/) to find a store near you
+
+Vouchers Accepted in Stores:
+- $25 LED Lights e-Voucher
