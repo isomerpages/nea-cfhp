@@ -2,10 +2,13 @@
 title: How To Apply
 permalink: /how-to-apply/
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZbvUokJTNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> {:style="width: 600px"}
+
+
 ## To redeem your e-Vouchers, follow these 5 simple steps
 You will need to login to your SingPass to submit an application form. Only residents registered in 1-, 2- and 3-room HDB households are eligible to retrieve their vouchers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wZbvUokJTNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> {:style="width: 600px"}
 
 ### Step 1: Visit the online registration form at [www.go.gov.sg/register-cfhp-vouchers](https://go.gov.sg/register-cfhp-vouchers)
 
