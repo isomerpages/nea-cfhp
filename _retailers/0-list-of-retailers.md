@@ -7,14 +7,14 @@ permalink: /retailers/list-of-retailers/
 
 |  |$150 Refrigerator|$50 Shower Fitting|$25 LED|
 |-|-|-|
-|**Bathroom Warehouse**| |yes|
-|**Best Denki**|yes| |yes
-|**Courts**|yes| |
-|**Gain City**|yes|yes|yes
-|**Harvey Norman**|yes| |
-|**Mega Discount Store**|yes| |yes
-|**NTUC FairPrice**| | |yes
-|**Sheng Siong**| | |yes
+|**Bathroom Warehouse**| |Yes|
+|**Best Denki**|Yes| |Yes
+|**Courts**|Yes| |
+|**Gain City**|Yes|Yes|Yes
+|**Harvey Norman**|Yes| |
+|**Mega Discount Store**|Yes| |Yes
+|**NTUC FairPrice**| | |Yes
+|**Sheng Siong**| | |Yes
 
 ## Find a store near you
 
