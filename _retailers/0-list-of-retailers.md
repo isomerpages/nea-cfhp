@@ -9,7 +9,7 @@ permalink: /retailers/list-of-retailers/
 |-|-|-|
 |**Bathroom Warehouse**| |yes|
 |**Best Denki**|yes| |yes
-|**Courts**| |yes|
+|**Courts**|yes| |
 |**Gain City**|yes|yes|yes
 |**Harvey Norman**|yes| |
 |**Mega Discount Store**|yes| |yes
@@ -88,6 +88,8 @@ Vouchers Accepted in Stores:
 ### Mega Discount Store
 
 Click [here](https://megadiscountstore.com.sg/pages/contact-us) to find a store near you
+
+ *Note: The e-Vouchers are accepted at the Kallang Branch only for now.
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
