@@ -89,6 +89,8 @@ Vouchers Accepted in Stores:
 
 Click [here](https://megadiscountstore.com.sg/pages/contact-us) to find a store near you
 
+ *Note: Mega Discount Store's United Square outlet is not accepting the e-Vouchers at the moment.
+
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
 - $25 LED Lights e-Voucher
