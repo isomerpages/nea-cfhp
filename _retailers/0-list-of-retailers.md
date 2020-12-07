@@ -89,8 +89,6 @@ Vouchers Accepted in Stores:
 
 Click [here](https://megadiscountstore.com.sg/pages/contact-us) to find a store near you
 
- *Note: The e-Vouchers are accepted at the Kallang Branch only for now.
-
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
 - $25 LED Lights e-Voucher
