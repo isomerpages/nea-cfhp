@@ -16,7 +16,7 @@ sections:
         subtitle: How do I redeem my e-Vouchers?
         description: Find out how to redeem your e-Vouchers by watching this video below.
         button: 5 steps to redeem your e-vouchers
-        url: https://www.youtube.com/watch?v=wZbvUokJTN
+        url: https://youtu.be/wZbvUokJTNI
     - infobar:  
         title: Using your e-Vouchers
         subtitle: Where can I use my e-Vouchers?
