@@ -7,8 +7,8 @@ permalink: /retailers/list-of-retailers/
 
 |  |$150 Refrigerator|$50 Shower Fitting|$25 LED|
 |-|-|-|
-|**Bathroom Warehouse**| |Yes|
-|**Best Denki**|Yes| |Yes
+|[**Bathroom Warehouse**](https://bathroomwarehouse.com.sg/contact/)| |Yes|
+|[**Best Denki**](https://www.bestdenki.com.sg/store-locator)|Yes| |Yes
 |**Courts**|Yes| |
 |**Gain City**|Yes|Yes|Yes
 |**Harvey Norman**|Yes| |
