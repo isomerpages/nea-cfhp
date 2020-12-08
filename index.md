@@ -12,8 +12,14 @@ sections:
         button: Retrieve your e-Vouchers here
         url: https://go.gov.sg/register-cfhp-vouchers
     - infobar:
-        title: Where can I use my e-Vouchers?
-        subtitle: Redeeming your e-Vouchers
+        title: Redeeming your e-Vouchers
+        subtitle: How do I redeem my e-Vouchers?
+        description: Find out how to redeem your e-Vouchers by watching this video below.
+        button: 5 steps to redeem your e-vouchers
+        url: https://youtu.be/wZbvUokJTNI
+    - infobar:  
+        title: Using your e-Vouchers
+        subtitle: Where can I use my e-Vouchers?
         description: CFHP is supported by a range of participating merchants island-wide. Find out where you can go to use your e-Vouchers at the link below.
         button: List of retailers
         url: /retailers/list-of-retailers/
