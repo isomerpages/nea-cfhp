@@ -9,12 +9,12 @@ permalink: /retailers/list-of-retailers/
 |-|-|-|
 |[**Bathroom Warehouse**](https://bathroomwarehouse.com.sg/contact/)| |Yes|
 |[**Best Denki**](https://www.bestdenki.com.sg/store-locator)|Yes| |Yes
-|**Courts**|Yes| |
-|**Gain City**|Yes|Yes|Yes
-|**Harvey Norman**|Yes| |
-|**Mega Discount Store**|Yes| |Yes
-|**NTUC FairPrice**| | |Yes
-|**Sheng Siong**| | |Yes
+|[**Courts**](https://www.courts.com.sg/)|Yes| |
+|[**Gain City**](https://www.gaincity.com/customer-service/store-locations)|Yes|Yes|Yes
+|[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
+|[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
+|[**NTUC FairPrice**](https://www.fairprice.com.sg/store-locator)| | |Yes
+|[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 
 ## Find a store near you
 
