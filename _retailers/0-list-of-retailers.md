@@ -12,6 +12,7 @@ permalink: /retailers/list-of-retailers/
 |[**Courts**](https://www.courts.com.sg/)|Yes| |
 |[**Gain City**](https://www.gaincity.com/customer-service/store-locations)|Yes|Yes|Yes
 |[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
+|[**Maayrise**](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)|Yes| |
 |[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
 |[**NTUC FairPrice**](https://www.fairprice.com.sg/store-locator)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
@@ -80,7 +81,14 @@ Click [here](https://www.harveynorman.com.sg/store-finder.html) to find a store 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
 
+[![Maayrise](/images/Maayrise-logo.png){:style="width: 330px"}](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore) 
 
+### Maayrise
+
+Click [here](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore) to find a store near you
+
+Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
 
 
  [![Mega Discount Store](/images/megadiscountstore.png){:style="width: 250px"}](https://megadiscountstore.com.sg/pages/contact-us)
