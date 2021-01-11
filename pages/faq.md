@@ -92,7 +92,7 @@ You may present an official letter (e.g. utilities bill, credit card bill) addre
 
 **13.	I have completed my purchase without redeeming the e-Voucher, can I get reimbursed directly from NEA or PUB?**
 
-Neither NEA nor PUB can reimburse members of the public directly. Only participating merchants can redeem/accept the e-Vouchers and the use of the e-Voucher is still subject to the retailer’s own terms and conditions. You may check with your retailer if they can accommodate any request to redeem the e-Vouchers retrospectively.
+Only participating merchants can redeem/accept the e-Vouchers and the use of the e-Voucher is also subject to the retailer’s own terms and conditions. You may check with your retailer if they can accommodate any request to redeem the e-Vouchers.
 
 ### Further Assistance
 
