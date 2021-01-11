@@ -90,31 +90,34 @@ You are required to show the voucher in its original form (i.e. display your vou
 
 You may present an official letter (e.g. utilities bill, credit card bill) addressed to you and indicating your residential address.
 
+**13.	I have completed my purchase without redeeming the e-Voucher, can I get reimbursed directly from NEA or PUB?**
+
+Neither NEA nor PUB can reimburse members of the public directly. Only participating merchants can redeem/accept the e-Vouchers and the use of the e-Voucher is still subject to the retailer’s own terms and conditions. You may check with your retailer if they can accommodate any request to redeem the e-Vouchers retrospectively.
 
 ### Further Assistance
 
-**13.	I don’t have Singpass. What should I do?**
+**14.	I don’t have Singpass. What should I do?**
 
 Option 1: You may [register](https://www.singpass.gov.sg/) for Singpass online. Do note that the pin will be mailed to your residential address in 5 working days.
 
 Option 2: To receive your Singpass immediately, you may proceed to your nearest SingPass counter location. Click [here](https://www.singpass.gov.sg/singpass/common/counter) to find a counter near you.
 
 
-**14.	I don’t have a mobile phone. What should I do?**
+**15.	I don’t have a mobile phone. What should I do?**
 
 IMDA’s Mobile Access for Seniors is a scheme that provides subsidised smartphone and mobile plan to lower-income seniors who want to go digital but lack the financial means to do so. For more information of eligibility criteria and how to apply, please visit [http://www.imda.gov.sg/programme-listing/Mobile-Access-for-Seniors](http://www.imda.gov.sg/programme-listing/Mobile-Access-for-Seniors)
 
 
-**15.	Do I need a smartphone to access the vouchers?**
+**16.	Do I need a smartphone to access the vouchers?**
 
 You only need a mobile phone with basic internet access.
 
 
-**16.	I am a senior citizen and am not tech-savvy. Please help!**
+**17.	I am a senior citizen and am not tech-savvy. Please help!**
 
 You may wish to approach IMDA’s SG Digital Offices to learn how to go digital. For more information and to find your nearest SG Digital Office, call 6377 3800 or visit [https://www.imda.gov.sg/seniorsgodigital](https://www.imda.gov.sg/seniorsgodigital/Language-Selector)
 
 
-**17.	I would like to find out more about how the e-vouchers work and about the system that is behind the e-vouchers.**
+**18.	I would like to find out more about how the e-vouchers work and about the system that is behind the e-vouchers.**
 
 For more information, please refer to the [redeem.gov.sg](https://redeem.gov.sg/) website and FAQs [here](https://redeem.gov.sg/general-faq.html). 
