@@ -15,6 +15,7 @@ permalink: /retailers/list-of-retailers/
 |[**Maayrise**](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)|Yes| |
 |[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
 |[**NTUC FairPrice**](https://www.fairprice.com.sg/store-locator)| | |Yes
+|[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 
 ## Find a store near you
@@ -113,14 +114,22 @@ Click [here](https://www.fairprice.com.sg/store-locator) to find a store near yo
 Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
 
-
-
-
-[![Sheng Siong](/images/ShengSiongWT(Centre).jpg){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
+[![Signify](/images/Philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
 
 ### Sheng Siong
 
 Click [here](https://corporate.shengsiong.com.sg/store-locator/) to find a store near you
+
+Vouchers Accepted in Stores:
+- $25 LED Lights e-Voucher
+
+
+
+[![Sheng Siong](/images/ShengSiongWT(Centre).jpg){:style="width: 250px"}](https://www.signify.com/en-sg/contact)
+
+### Signify Lighting
+
+Click [here](https://www.signify.com/en-sg/contact) to find a store near you
 
 Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
