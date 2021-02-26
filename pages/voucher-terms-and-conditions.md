@@ -42,7 +42,7 @@ For a list of participating retailers, click [here](https://www.climate-friendly
 
 
 
-9. This Voucher can be redeemed at participating merchants’ retail stores. For a full list of retail stores and eligible products, please visit [go.gov.sg/cfhp](https://www.climate-friendly-households.gov.sg/)
+9. This Voucher can only be redeemed at participating merchants’ retail stores. For a full list of retail stores and eligible products, please visit [go.gov.sg/cfhp](https://www.climate-friendly-households.gov.sg/)
 
 
 10. The use of this Voucher is subject to the terms and conditions of the participating merchants.
@@ -61,4 +61,4 @@ For a list of participating retailers, click [here](https://www.climate-friendly
 
 
 
-14. Neither NEA nor PUB shall not be responsible for any claim, demand, loss, cost, expense or liability of any kind whatsoever, arising from or in connection with any transaction or dealing between participating merchant(s) and the Voucher holder.
+14. Neither NEA nor PUB shall be held responsible for any claim, demand, loss, cost, expense or liability of any kind whatsoever, arising from or in connection with any transaction or dealing between participating merchant(s) and the Voucher holder.
