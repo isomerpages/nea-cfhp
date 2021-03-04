@@ -14,7 +14,7 @@ permalink: /retailers/list-of-retailers/
 |[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
 |[**Maayrise**](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)|Yes| |
 |[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
-|[**NTUC FairPrice**](https://www.fairprice.com.sg/store-locator)| | |Yes
+|[**FairPrice**](https://www.fairprice.com.sg/store-locator)| | |Yes
 |[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 
@@ -107,7 +107,7 @@ Vouchers Accepted in Stores:
 
 [![NTUC Fairprice](/images/U FairPrice logo.jpg){:style="width: 300px"}](https://www.fairprice.com.sg/store-locator)
 
-### NTUC FairPrice
+### FairPrice
 
 Click [here](https://www.fairprice.com.sg/store-locator) to find a store near you
 
