@@ -7,6 +7,7 @@ permalink: /retailers/list-of-retailers/
 
 |  |$150 Refrigerator|$50 Shower Fitting|$25 LED|
 |-|-|-|
+|[**Audiohouse**](https://audiohouse.com.sg/#footer)|Yes| |
 |[**Bathroom Warehouse**](https://bathroomwarehouse.com.sg/contact/)| |Yes|
 |[**Best Denki**](https://www.bestdenki.com.sg/store-locator)|Yes| |Yes
 |[**Courts**](https://www.courts.com.sg/)|Yes| |
@@ -17,8 +18,18 @@ permalink: /retailers/list-of-retailers/
 |[**FairPrice**](https://www.fairprice.com.sg/store-locator)| | |Yes
 |[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
+|[**T. S. Yong Trading**](https://www.facebook.com/tsyongtrading/about/)|Yes|Yes|Yes
 
 ## Find a store near you
+
+[![Audiohouse](/images/Audiohouse-logo.jpg){:style="width: 300px"}](https://audiohouse.com.sg/#footer)
+
+### Audiohouse
+
+Click [here](https://audiohouse.com.sg/#footer) to find a store near you
+
+Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
 
 
 
@@ -132,4 +143,16 @@ Vouchers Accepted in Stores:
 Click [here](https://www.signify.com/en-sg/contact) to find a store near you
 
 Vouchers Accepted in Stores:
+- $25 LED Lights e-Voucher
+
+
+[![T. S. Yong Trading](/images/TSY logo.png){:style="width: 150px"}](https://www.facebook.com/tsyongtrading/about/)
+
+### T. S. Yong Trading
+
+Click [here](https://www.facebook.com/tsyongtrading/about/) to find a store near you
+
+Vouchers Accepted in Stores:
+- $150 Refrigerator e-Voucher
+- $50 Shower Fitting e-Voucher
 - $25 LED Lights e-Voucher
