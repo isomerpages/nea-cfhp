@@ -10,6 +10,7 @@ permalink: /retailers/list-of-retailers/
 |[**Audiohouse**](https://audiohouse.com.sg/#footer)|Yes| |
 |[**Bathroom Warehouse**](https://bathroomwarehouse.com.sg/contact/)| |Yes|
 |[**Best Denki**](https://www.bestdenki.com.sg/store-locator)|Yes| |Yes
+|[**Chuan Heng Hardware Trading**](https://www.chuanheng.sg/)| |Yes|
 |[**Courts**](https://www.courts.com.sg/)|Yes| |
 |[**Gain City**](https://www.gaincity.com/customer-service/store-locations)|Yes|Yes|Yes
 |[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
@@ -19,7 +20,7 @@ permalink: /retailers/list-of-retailers/
 |[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 |[**T. S. Yong Trading**](https://www.facebook.com/tsyongtrading/about/)|Yes|Yes|Yes
-|[**Chuan Heng Hardware Trading**](https://www.chuanheng.sg/)| |Yes|
+
 
 ## Find a store near you
 
