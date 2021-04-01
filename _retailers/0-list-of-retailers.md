@@ -59,6 +59,18 @@ Vouchers Accepted in Stores:
 
 
 
+[![Chuan Heng Hardware Trading](/images/Chuan Heng Logo (Shortened)_1.jpg){:style="width: 300px"}](https://chuanheng.sg)
+
+### Chuan Heng Hardware Trading
+
+Click [here](https://chuanheng.sg) to find a store near you
+
+Vouchers Accepted in Stores:
+- $50 Shower Fitting e-Voucher    
+
+
+
+
 [![Courts](/images/Courtslogo.png){:style="width: 300px"}](https://www.courts.com.sg/)
 
 ### Courts
@@ -159,13 +171,6 @@ Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
 
 
-[![Chuan Heng Hardware Trading](/images/Chuan Heng Logo (Shortened)_1.jpg){:style="width: 150px"}](https://chuanheng.sg)
 
-### Chuan Heng Hardware Trading
-
-Click [here](https://chuanheng.sg) to find a store near you
-
-Vouchers Accepted in Stores:
-- $50 Shower Fitting e-Voucher    
 
 
