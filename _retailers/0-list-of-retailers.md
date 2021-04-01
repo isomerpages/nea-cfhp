@@ -19,6 +19,7 @@ permalink: /retailers/list-of-retailers/
 |[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 |[**T. S. Yong Trading**](https://www.facebook.com/tsyongtrading/about/)|Yes|Yes|Yes
+|[**Chuan Heng Hardware Trading**](https://www.chuanheng.sg/)| |Yes|
 
 ## Find a store near you
 
