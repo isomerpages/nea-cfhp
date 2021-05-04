@@ -20,11 +20,6 @@ colors:
       color: '#00838f'
 
 
-collections:
-  retailers:
-    output: true
-  resources:
-    output: true
 resources_name: news
 
 ##################################################################################################################
@@ -45,10 +40,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://nea-cfhp-staging.netlify.app
+prod: https://nea-cfhp-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme
