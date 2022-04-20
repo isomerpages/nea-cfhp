@@ -16,7 +16,7 @@ permalink: /retailers/list-of-retailers/
 |[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
 |[**Maayrise**](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)|Yes| |
 |[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
-|[**FairPrice**](https://www.fairprice.com.sg/store-locator)| | |Yes
+|[**FairPrice**](https://www.fairprice.com.sg/store-locator)| |Yes |Yes
 |[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 |[**T. S. Yong Trading**](https://www.facebook.com/tsyongtrading/about/)|Yes|Yes|Yes
@@ -138,6 +138,7 @@ Click [here](https://www.fairprice.com.sg/store-locator) to find a store near yo
 
 Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
+- $50 Shower Fitting e-Voucher 
 
 [![Signify](/images/Philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
 
