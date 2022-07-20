@@ -137,7 +137,7 @@ Vouchers Accepted in Stores:
 
 Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
-- $50 Shower Fitting e-Voucher 
+- $50 Shower Fitting e-Voucher
 
 [![Signify](/images/Philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
 
