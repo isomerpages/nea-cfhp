@@ -4,9 +4,9 @@ permalink: /voucher-tc/
 ---
 ## Voucher T&Cs
 
-For FAQs, click [here](https://www.climate-friendly-households.gov.sg/faq/)
+[Click here for FAQs](https://www.climate-friendly-households.gov.sg/faq/)
 
-For a list of participating retailers, click [here](https://www.climate-friendly-households.gov.sg/retailers/list-of-retailers/)
+[Click here for the list of participating retailers](https://www.climate-friendly-households.gov.sg/retailers/list-of-retailers/)
 
 
 

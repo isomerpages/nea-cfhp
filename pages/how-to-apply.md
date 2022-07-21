@@ -2,7 +2,6 @@
 title: How To Apply
 permalink: /how-to-apply/
 ---
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZbvUokJTNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> {:style="width: 600px"}
 
 
@@ -18,7 +17,7 @@ You will need to login to your SingPass to submit an application form. Only resi
 
 ![formslogin](/images/Step2-formsglogin.jpg){:style="width: 600px"}
 
-If you have forgot your SingPass password or do not have SingPass, click [here](https://www.singpass.gov.sg/)
+[Click here if you have forgot your SingPass password or do not have SingPass](https://www.singpass.gov.sg/)
 
 ### Step 3: Complete the online form
 
@@ -32,4 +31,4 @@ Your vouchers will be sent via an SMS by RedeemSG. The SMS should look like this
 
 ### Step 5: Redeem at any participating store
 
-See a list of participating retailers [here](/retailers/list-of-retailers/)
+[Click here for the list of participating retailers here](/retailers/list-of-retailers/)

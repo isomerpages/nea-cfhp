@@ -2,7 +2,6 @@
 title: List of Retailers
 permalink: /retailers/list-of-retailers/
 ---
-
 ## Where can you use your e-Vouchers?
 
 |  |$150 Refrigerator|$50 Shower Fitting|$25 LED|
@@ -16,7 +15,7 @@ permalink: /retailers/list-of-retailers/
 |[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
 |[**Maayrise**](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)|Yes| |
 |[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
-|[**FairPrice**](https://www.fairprice.com.sg/store-locator)| |Yes|Yes
+|[**FairPrice**](https://www.fairprice.com.sg/store-locator)| |Yes |Yes
 |[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 |[**T. S. Yong Trading**](https://www.facebook.com/tsyongtrading/about/)|Yes|Yes|Yes
@@ -28,7 +27,7 @@ permalink: /retailers/list-of-retailers/
 
 ### Audiohouse
 
-Click [here](https://audiohouse.com.sg/#footer) to find a store near you
+[Click here to find a store near you](https://audiohouse.com.sg/#footer) 
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
@@ -39,7 +38,7 @@ Vouchers Accepted in Stores:
 
 ### Bathroom Warehouse
 
-Click [here](https://bathroomwarehouse.com.sg/contact/) to find a store near you
+[Click here to find a store near you](https://bathroomwarehouse.com.sg/contact/) 
 
 Vouchers Accepted in Stores:
 - $50 Shower Fitting e-Voucher    
@@ -51,7 +50,7 @@ Vouchers Accepted in Stores:
 
 ### Best Denki
 
-Click [here](https://www.bestdenki.com.sg/store-locator) to find a store near you
+[Click here to find a store near you](https://www.bestdenki.com.sg/store-locator)
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
@@ -64,7 +63,7 @@ Vouchers Accepted in Stores:
 
 ### Chuan Heng Hardware Trading
 
-Click [here](https://chuanheng.sg) to find a store near you
+[Click here to find a store near you](https://chuanheng.sg)
 
 Vouchers Accepted in Stores:
 - $50 Shower Fitting e-Voucher    
@@ -76,7 +75,7 @@ Vouchers Accepted in Stores:
 
 ### Courts
 
-Click [here](https://www.courts.com.sg/storelocator) to find a store near you
+[Click here to find a store near you](https://www.courts.com.sg/storelocator)
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
@@ -88,7 +87,7 @@ Vouchers Accepted in Stores:
 
 ### Gain City
 
-Click [here](https://www.gaincity.com/customer-service/store-locations) to find a store near you
+[Click here to find a store near you](https://www.gaincity.com/customer-service/store-locations) 
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
@@ -102,7 +101,7 @@ Vouchers Accepted in Stores:
 
 ### Harvey Norman
 
-Click [here](https://www.harveynorman.com.sg/store-finder.html) to find a store near you
+[Click here to find a store near you](https://www.harveynorman.com.sg/store-finder.html)
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
@@ -111,7 +110,7 @@ Vouchers Accepted in Stores:
 
 ### Maayrise
 
-Click [here](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore) to find a store near you
+[Click here to find a store near you](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
@@ -121,7 +120,7 @@ Vouchers Accepted in Stores:
 
 ### Mega Discount Store
 
-Click [here](https://megadiscountstore.com.sg/pages/contact-us) to find a store near you
+[Click here to find a store near you](https://megadiscountstore.com.sg/pages/contact-us) 
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
@@ -134,7 +133,7 @@ Vouchers Accepted in Stores:
 
 ### FairPrice
 
-Click [here](https://www.fairprice.com.sg/store-locator) to find a store near you
+[Click here to find a store near you](https://www.fairprice.com.sg/store-locator)
 
 Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
@@ -144,7 +143,7 @@ Vouchers Accepted in Stores:
 
 ### Sheng Siong
 
-Click [here](https://corporate.shengsiong.com.sg/store-locator/) to find a store near you
+[Click here to find a store near you](https://corporate.shengsiong.com.sg/store-locator/) 
 
 Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
@@ -155,7 +154,7 @@ Vouchers Accepted in Stores:
 
 ### Signify Lighting
 
-Click [here](https://www.signify.com/en-sg/contact) to find a store near you
+[Click here to find a store near you](https://www.signify.com/en-sg/contact)
 
 Vouchers Accepted in Stores:
 - $25 LED Lights e-Voucher
@@ -165,14 +164,9 @@ Vouchers Accepted in Stores:
 
 ### T. S. Yong Trading
 
-Click [here](https://www.facebook.com/tsyongtrading/about/) to find a store near you
+[Click here to find a store near you](https://www.facebook.com/tsyongtrading/about/)
 
 Vouchers Accepted in Stores:
 - $150 Refrigerator e-Voucher
 - $50 Shower Fitting e-Voucher
 - $25 LED Lights e-Voucher
-
-
-
-
-

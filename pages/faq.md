@@ -2,7 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-
 # Frequently Asked Questions
 
 ### Applying and receiving vouchers
@@ -23,7 +22,7 @@ Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers durin
 - 1 x $50 voucher to purchase shower fittings with 3 ticks on the water efficiency labelling scheme (WELS) label
 - 1 x $150 voucher to offset the purchase of a refrigerator that carries 3 ticks or more on the energy label and uses a climate-friendly refrigerant
 
-For a full list of eligible products under the programme, click [here](https://www.climate-friendly-households.gov.sg/retailers/eligible-products/).
+[Click here for the list of eligible products](https://www.climate-friendly-households.gov.sg/retailers/eligible-products/)
 
 
 **4.	How and when will I receive my vouchers?**
@@ -41,7 +40,7 @@ Do note that you will only receive the SMS if you are ascertained to be eligible
 
 ### Voucher terms and conditions
 
-For a full list of the Voucher T&Cs, click [here](https://www.climate-friendly-households.gov.sg/voucher-tc/)
+[Click here for a full list of the Voucher T&Cs](https://www.climate-friendly-households.gov.sg/voucher-tc/)
 
 **5.	When do the vouchers expire?**
 
@@ -100,7 +99,7 @@ Only participating merchants can redeem/accept the e-Vouchers and the use of the
 
 Option 1: You may [register](https://www.singpass.gov.sg/) for Singpass online. Do note that the pin will be mailed to your residential address in 5 working days.
 
-Option 2: To receive your Singpass immediately, you may proceed to your nearest SingPass counter location. Click [here](https://www.singpass.gov.sg/singpass/common/counter) to find a counter near you.
+Option 2: To receive your Singpass immediately, you may proceed to your nearest SingPass counter location. [Click here to find a counter near you](https://www.singpass.gov.sg/singpass/common/counter).
 
 
 **15.	I don’t have a mobile phone. What should I do?**
@@ -120,4 +119,4 @@ You may wish to approach IMDA’s SG Digital Offices to learn how to go digital.
 
 **18.	I would like to find out more about how the e-vouchers work and about the system that is behind the e-vouchers.**
 
-For more information, please refer to the [redeem.gov.sg](https://redeem.gov.sg/) website and FAQs [here](https://redeem.gov.sg/general-faq.html). 
+For more information, please refer to the [redeem.gov.sg](https://redeem.gov.sg/) website and [FAQs](https://redeem.gov.sg/general-faq.html).

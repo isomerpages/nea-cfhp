@@ -12,7 +12,7 @@ Learn how to green your home with NEA's [Resource Efficiency Guide for Homeowner
 
 ### Households Resources for Energy Efficiency
 
-Find more resources on Household Energy Efficiency [here](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/household-sector).
+Find more resources on Household Energy Efficiency [here](https://www.nea.gov.sg/docs/default-source/our-services/energy-efficiency/household-sector/guide.pdf).
 
 
 
