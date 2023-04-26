@@ -8,8 +8,8 @@ permalink: /
 sections:
   - hero:
       title: Climate Friendly Households Programme
-      subtitle: Get your e-Vouchers for energy- and water-efficient appliances today,
-        expires 31 Dec 2023.
+      subtitle: Get your Climate Vouchers for energy- and water-efficient appliances
+        today, expires 31 Dec 2023.
       background: /images/CFHP banner-02.png
       button: Retrieve your e-Vouchers here
       url: https://go.gov.sg/register-cfhp-vouchers
