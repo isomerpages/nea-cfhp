@@ -2,7 +2,7 @@
 title: List of Retailers
 permalink: /retailers/list-of-retailers/
 ---
-## Where can you use your e-Vouchers?
+## Where can you use your Climate Vouchers?
 
 |  |$150 Refrigerator|$50 Shower Fitting|$25 LED|
 |-|-|-|
@@ -13,7 +13,6 @@ permalink: /retailers/list-of-retailers/
 |[**Courts**](https://www.courts.com.sg/)|Yes| |
 |[**Gain City**](https://www.gaincity.com/customer-service/store-locations)|Yes|Yes|Yes
 |[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
-|[**Maayrise**](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)|Yes| |
 |[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
 |[**FairPrice**](https://www.fairprice.com.sg/store-locator)| |Yes |Yes
 |[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
@@ -30,7 +29,7 @@ permalink: /retailers/list-of-retailers/
 [Click here to find a store near you](https://audiohouse.com.sg/#footer) 
 
 Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
+- $150 Refrigerator Climate Voucher
 
 
 
@@ -41,7 +40,7 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://bathroomwarehouse.com.sg/contact/) 
 
 Vouchers Accepted in Stores:
-- $50 Shower Fitting e-Voucher    
+- $50 Shower Fitting Climate Voucher    
 
 
 
@@ -53,8 +52,8 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://www.bestdenki.com.sg/store-locator)
 
 Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
-- $25 LED Lights e-Voucher
+- $150 Refrigerator Climate Voucher
+- $25 LED Lights Climate Voucher
 
 
 
@@ -63,10 +62,10 @@ Vouchers Accepted in Stores:
 
 ### Chuan Heng Hardware Trading
 
-[Click here to find a store near you](https://chuanheng.sg)
+[Click here to find a store near you](https://www.chuanheng.sg/contact-us)
 
 Vouchers Accepted in Stores:
-- $50 Shower Fitting e-Voucher    
+- $50 Shower Fitting Climate Voucher    
 
 
 
@@ -78,7 +77,7 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://www.courts.com.sg/storelocator)
 
 Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
+- $150 Refrigerator Climate Voucher
 
 
 
@@ -90,9 +89,9 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://www.gaincity.com/customer-service/store-locations) 
 
 Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
-- $50 Shower Fitting e-Voucher
-- $25 LED Lights e-Voucher
+- $150 Refrigerator Climate Voucher
+- $50 Shower Fitting Climate Voucher
+- $25 LED Lights Climate Voucher
 
 
 
@@ -104,16 +103,7 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://www.harveynorman.com.sg/store-finder.html)
 
 Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
-
-[![Maayrise](/images/Maayrise-logo.png){:style="width: 330px"}](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore) 
-
-### Maayrise
-
-[Click here to find a store near you](https://www.maayrise.com.sg/Contact-Us-Furniture-Shop-Singapore)
-
-Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
+- $150 Refrigerator Climate Voucher
 
 
  [![Mega Discount Store](/images/megadiscountstore.png){:style="width: 250px"}](https://megadiscountstore.com.sg/pages/contact-us)
@@ -123,8 +113,8 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://megadiscountstore.com.sg/pages/contact-us) 
 
 Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
-- $25 LED Lights e-Voucher
+- $150 Refrigerator Climate Voucher
+- $25 LED Lights Climate Voucher
 
 
 
@@ -136,28 +126,29 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://www.fairprice.com.sg/store-locator)
 
 Vouchers Accepted in Stores:
-- $25 LED Lights e-Voucher
-- $50 Shower Fitting e-Voucher
+- $25 LED Lights Climate Voucher
+- $50 Shower Fitting Climate Voucher
 
-[![Signify](/images/Philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
+
+
+[![Sheng Siong](/images/ShengSiongWT(Centre).jpg){:style="width: 250px"}](https://www.signify.com/en-sg/contact)
 
 ### Sheng Siong
 
 [Click here to find a store near you](https://corporate.shengsiong.com.sg/store-locator/) 
 
 Vouchers Accepted in Stores:
-- $25 LED Lights e-Voucher
+- $25 LED Lights Climate Voucher
 
 
-
-[![Sheng Siong](/images/ShengSiongWT(Centre).jpg){:style="width: 250px"}](https://www.signify.com/en-sg/contact)
+[![Signify](/images/Philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
 
 ### Signify Lighting
 
 [Click here to find a store near you](https://www.signify.com/en-sg/contact)
 
 Vouchers Accepted in Stores:
-- $25 LED Lights e-Voucher
+- $25 LED Lights Climate Voucher
 
 
 [![T. S. Yong Trading](/images/TSY logo.png){:style="width: 150px"}](https://www.facebook.com/tsyongtrading/about/)
@@ -167,6 +158,6 @@ Vouchers Accepted in Stores:
 [Click here to find a store near you](https://www.facebook.com/tsyongtrading/about/)
 
 Vouchers Accepted in Stores:
-- $150 Refrigerator e-Voucher
-- $50 Shower Fitting e-Voucher
-- $25 LED Lights e-Voucher
+- $150 Refrigerator Climate Voucher
+- $50 Shower Fitting Climate Voucher
+- $25 LED Lights Climate Voucher
