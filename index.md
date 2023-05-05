@@ -8,23 +8,24 @@ permalink: /
 sections:
   - hero:
       title: Climate Friendly Households Programme
-      subtitle: Get your Climate Vouchers for energy- and water-efficient appliances
-        today, expires 31 Dec 2023.
+      subtitle: Get your electronic Climate Vouchers for energy- and water-efficient
+        appliances today. Electronic Climate Vouchers will expire on 31 Dec
+        2023.
       background: /images/CFHP banner-02.png
-      button: Retrieve your e-Vouchers here
+      button: Retrieve your electronic Climate Vouchers here
       url: https://go.gov.sg/register-cfhp-vouchers
   - infobar:
-      title: Redeeming your e-Vouchers
-      subtitle: How do I redeem my e-Vouchers?
-      description: Find out how to redeem your e-Vouchers by watching this video below.
-      button: 5 steps to redeem your e-vouchers
+      title: Redeeming your Climate Vouchers
+      subtitle: HOW TO REDEEM
+      description: Find out how to redeem your vouchers by watching this video below.
+      button: 5 steps to redeem the vouchers
       url: https://youtu.be/wZbvUokJTNI
   - infobar:
-      title: Using your e-Vouchers
-      subtitle: Where can I use my e-Vouchers?
+      title: Using your Climate Vouchers
+      subtitle: Participating merchants
       description: CFHP is supported by a range of participating merchants
-        island-wide. Find out where you can go to use your e-Vouchers at the
-        link below.
+        island-wide. Find out where you can go to use your Climate Vouchers at
+        the link below.
       button: List of retailers
       url: /retailers/list-of-retailers/
   - infobar:
