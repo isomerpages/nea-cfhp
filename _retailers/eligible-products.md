@@ -9,7 +9,7 @@ permalink: /retailers/eligible-products/
 
 ![3tickrfmels](/images/rflabels.jpg){:style="width: 400px"}
 
-You may refer to [NEA's Database of Registered Goods](https://e-services.nea.gov.sg/els/Pages/Search/PublicSearchProduct.aspx?param=goods&type=p) to search for eligible products, remember to use the correct filters!
+You may refer to [NEA's Database of Registered Goods](https://wrms2.nea.gov.sg/els/process/WRMS/GHG_ProductSearch#wrms) to search for eligible products, remember to use the correct filters!
 
 ## $50 Shower Fittings e-Voucher
 
