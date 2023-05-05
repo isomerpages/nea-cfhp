@@ -17,15 +17,16 @@ sections:
   - infobar:
       title: Redeeming your Climate Vouchers
       subtitle: HOW TO REDEEM
-      description: Find out how to redeem your vouchers by watching this video below.
+      description: Find out how to redeem your Climate Vouchers by watching this video
+        below.
       button: 5 steps to redeem the vouchers
       url: https://youtu.be/wZbvUokJTNI
   - infobar:
       title: Using your Climate Vouchers
       subtitle: Participating merchants
       description: CFHP is supported by a range of participating merchants
-        island-wide. Find out where you can go to use your vouchers at the link
-        below.
+        island-wide. Find out where you can go to use your Climate Vouchers at
+        the link below.
       button: List of retailers
       url: /retailers/list-of-retailers/
   - infobar:
