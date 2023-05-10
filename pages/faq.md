@@ -87,7 +87,7 @@ You are required to show the voucher in its original form (i.e. display your vou
 
 **12.	I forgot to bring my NRIC. What other forms of identification are acceptable?**
 
-You may present an official letter (e.g. utilities bill, credit card bill) addressed to you and indicating your residential address.
+You may present your digital NRIC on the Singpass mobile application.
 
 **13.	I have completed my purchase without redeeming the e-Voucher, can I get reimbursed directly from NEA or PUB?**
 
@@ -97,9 +97,9 @@ Only participating merchants can redeem/accept the e-Vouchers and the use of the
 
 **14.	I don’t have Singpass. What should I do?**
 
-Option 1: You may [register](https://www.singpass.gov.sg/) for Singpass online. Do note that the pin will be mailed to your residential address in 5 working days.
+Option 1: You may [register](https://www.singpass.gov.sg/home/ui/register/instructions) for Singpass online. Do note that the pin will be mailed to your residential address in 5 working days.
 
-Option 2: To receive your Singpass immediately, you may proceed to your nearest SingPass counter location. [Click here to find a counter near you](https://www.singpass.gov.sg/singpass/common/counter).
+Option 2: To receive your Singpass immediately, you may proceed to your nearest SingPass counter location. [Click here to find a counter near you](https://www.singpass.gov.sg/home/ui/counter-locations).
 
 
 **15.	I don’t have a mobile phone. What should I do?**
@@ -119,4 +119,4 @@ You may wish to approach IMDA’s SG Digital Offices to learn how to go digital.
 
 **18.	I would like to find out more about how the e-vouchers work and about the system that is behind the e-vouchers.**
 
-For more information, please refer to the [redeem.gov.sg](https://redeem.gov.sg/) website and [FAQs](https://redeem.gov.sg/general-faq.html).
+For more information, please refer to the [redeem.gov.sg](https://redeem.gov.sg/) website and [FAQs](https://redeem.gov.sg/faq.html).
