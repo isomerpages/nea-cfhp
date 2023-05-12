@@ -8,7 +8,7 @@ permalink: /faq/
 
 **1. Am I eligible for the Climate-Friendly Households Programme?**
 
-To be eligible for the programme, your address should be registered at a 1-, 2- or 3- room HDB flat. If you are unsure whether you fall in this category, you may check your details on [MyInfo](https://safe.menlosecurity.com/https://www.singpass.gov.sg/myinfo/intro).
+To be eligible for the programme, your address should be registered at a 1-, 2- or 3- room HDB flat. If you are unsure whether you fall in this category, you may check your details on the Singpass mobile application.
 
 
 **2.	I will be moving into my 1-/ 2-/3-room BTO soon. Am I eligible for the programme?**
