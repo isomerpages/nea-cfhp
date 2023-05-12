@@ -10,19 +10,19 @@ permalink: /voucher-tc/
 
 
 
-1. The value of the e-Vouchers is denominated in Singapore currency and is not transferable, replaceable or exchangeable for cash. Any outstanding amount that is not utilized will be forfeited.
+1. The value of the electronic Climate Vouchers is denominated in Singapore currency and is not transferable, replaceable or exchangeable for cash. Any outstanding amount that is not utilized will be forfeited.
 
 
 
-2. The $150 Refrigerator e-Voucher is only valid for the purchase of any refrigerator that carries the NEA’s Energy Label with 3 or 4 ticks, and the Climate-Friendly label.
+2. The $150 Refrigerator Climate Voucher is only valid for the purchase of any refrigerator that carries the NEA’s Energy Label with 3 or 4 ticks, and the Climate-Friendly label.
 
 
 
-3. The $50 Shower Fitting e-Voucher is only valid for the purchase of any shower taps, mixers or hand showers that are rated 3-ticks under PUB’s Water Efficiency Labelling Scheme and related installation services by a licensed plumber.
+3. The $50 Shower Fitting Climate Voucher is only valid for the purchase of any shower taps, mixers or hand showers that are rated 3-ticks under PUB’s Water Efficiency Labelling Scheme and related installation services by a licensed plumber.
 
 
 
-4. The $25 LED e-Voucher is only valid for the purchase of any LED lights that carry NEA’s Energy Label, or other LED products approved under the Climate-friendly Households Programme.
+4. The $25 LED Climate Voucher is only valid for the purchase of any LED lights that carry NEA’s Energy Label, or other LED products approved under the Climate-friendly Households Programme.
 
 
 
@@ -34,7 +34,7 @@ permalink: /voucher-tc/
 
 
 
-7. This Voucher is only good for a single transaction. Only one e-Voucher can be used per transaction. No refund shall be given if the value of the Voucher exceeds the amount payable for the transaction. If the value of the Voucher(s) used in a transaction does not cover the full cost of the transaction, the balance must be paid by the Voucher holder.
+7. This Voucher is only good for a single transaction. Only one Voucher can be used per transaction. No refund shall be given if the value of the Voucher exceeds the amount payable for the transaction. If the value of the Voucher(s) used in a transaction does not cover the full cost of the transaction, the balance must be paid by the Voucher holder.
 
 
 
