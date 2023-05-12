@@ -10,7 +10,7 @@ permalink: /voucher-tc/
 
 
 
-1. The value of the electronic Climate Vouchers is denominated in Singapore currency and is not transferable, replaceable or exchangeable for cash. Any outstanding amount that is not utilized will be forfeited.
+1. The value of the Climate Vouchers is denominated in Singapore currency and is not transferable, replaceable or exchangeable for cash. Any outstanding amount that is not utilized will be forfeited.
 
 
 
