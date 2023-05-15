@@ -8,7 +8,7 @@ permalink: /faq/
 
 **1. Am I eligible for the Climate-Friendly Households Programme?**
 
-To be eligible for the programme, your address should be registered at a 1-, 2- or 3- room HDB flat. If you are unsure whether you fall in this category, you may check your details on [MyInfo](https://safe.menlosecurity.com/https://www.singpass.gov.sg/myinfo/intro).
+To be eligible for the programme, your address should be registered at a 1-, 2- or 3- room HDB flat. If you are unsure whether you fall in this category, you may check your details on the Singpass mobile application.
 
 
 **2.	I will be moving into my 1-/ 2-/3-room BTO soon. Am I eligible for the programme?**
@@ -49,7 +49,7 @@ Do note that you will only receive the SMS if you are ascertained to be eligible
 
 **6.	Where can I redeem my vouchers?**
 
-You can redeem your e-Vouchers at any participating retail stores. You may refer to the full list of participating retailers on [www.climate-friendly-households.gov.sg/retailers/list-of-retailers/](https://www.climate-friendly-households.gov.sg/retailers/list-of-retailers/).
+You can redeem your Climate Vouchers at any participating retail stores. You may refer to the full list of participating retailers on [www.climate-friendly-households.gov.sg/retailers/list-of-retailers/](https://www.climate-friendly-households.gov.sg/retailers/list-of-retailers/).
 
 
 **7.	Can I let my son/daughter help me redeem my voucher?**
@@ -66,9 +66,9 @@ If your son/daughter does not reside at the same address as you, they will have 
 No, vouchers cannot be resold online. All vouchers that are found to be resold online will be voided immediately. 
 
 
-**9.	Can I use the balance of the e-Voucher if I do not fully utilise it?**
+**9.	Can I use the balance of the voucher if I do not fully utilise it?**
 
-The e-Voucher is for one-time use only. Once it is redeemed, it cannot be used again even if it is only claimed partially.
+The voucher is for one-time use only. Once it is redeemed, it cannot be used again even if it is only claimed partially.
 
 
 ### Redeeming Vouchers
@@ -89,9 +89,9 @@ You are required to show the voucher in its original form (i.e. display your vou
 
 You may present your digital NRIC on the Singpass mobile application.
 
-**13.	I have completed my purchase without redeeming the e-Voucher, can I get reimbursed directly from NEA or PUB?**
+**13.	I have completed my purchase without redeeming the Climate Voucher, can I get reimbursed directly from NEA or PUB?**
 
-Only participating merchants can redeem/accept the e-Vouchers and the use of the e-Voucher is also subject to the retailer’s own terms and conditions. You may check with your retailer if they can accommodate any request to redeem the e-Vouchers.
+Only participating merchants can redeem/accept the Climate Vouchers and the use of the voucher is also subject to the retailer’s own terms and conditions. You may check with your retailer if they can accommodate any request to redeem the vouchers.
 
 ### Further Assistance
 
@@ -117,6 +117,6 @@ You only need a mobile phone with basic internet access.
 You may wish to approach IMDA’s SG Digital Offices to learn how to go digital. For more information and to find your nearest SG Digital Office, call 6377 3800 or visit [https://www.imda.gov.sg/seniorsgodigital](https://www.imda.gov.sg/seniorsgodigital/Language-Selector)
 
 
-**18.	I would like to find out more about how the e-vouchers work and about the system that is behind the e-vouchers.**
+**18.	I would like to find out more about how the Climate Vouchers work and about the system that is behind the Climate Vouchers.**
 
 For more information, please refer to the [redeem.gov.sg](https://redeem.gov.sg/) website and [FAQs](https://redeem.gov.sg/faq.html).
