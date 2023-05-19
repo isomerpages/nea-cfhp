@@ -6,7 +6,7 @@ permalink: /faq/
 
 ### Applying and receiving vouchers
 
-**1. Am I eligible for the Climate-Friendly Households Programme?**
+**1. Am I eligible for the Climate Friendly Households Programme?**
 
 To be eligible for the programme, your address should be registered at a 1-, 2- or 3- room HDB flat. If you are unsure whether you fall in this category, you may check your details on the Singpass mobile application.
 
