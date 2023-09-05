@@ -22,7 +22,7 @@ permalink: /retailers/list-of-retailers/
 
 ## Find a store near you
 
-[![Audiohouse](/images/Audiohouse-logo.jpg){:style="width: 300px"}](https://audiohouse.com.sg/#footer)
+[![Audiohouse](/images/audiohouse-logo.jpg){:style="width: 300px"}](https://audiohouse.com.sg/#footer)
 
 ### Audiohouse
 
@@ -70,7 +70,7 @@ Vouchers Accepted in Stores:
 
 
 
-[![Courts](/images/Courtslogo.png){:style="width: 300px"}](https://www.courts.com.sg/)
+[![Courts](/images/courtslogo.png){:style="width: 300px"}](https://www.courts.com.sg/)
 
 ### Courts
 
@@ -82,7 +82,7 @@ Vouchers Accepted in Stores:
 
 
 
-[![Gain City](/images/Gaincity 145 x 250.jpg){:style="width: 150px"}](https://www.gaincity.com/customer-service/store-locations)
+[![Gain City](/images/gaincity 145 x 250.jpg){:style="width: 150px"}](https://www.gaincity.com/customer-service/store-locations)
 
 ### Gain City
 
@@ -96,7 +96,7 @@ Vouchers Accepted in Stores:
 
 
 
-[![Harvey Norman](/images/HN-Logo.png){:style="width: 330px"}](https://www.harveynorman.com.sg/store-finder.html) 
+[![Harvey Norman](/images/hn-logo.png){:style="width: 330px"}](https://www.harveynorman.com.sg/store-finder.html) 
 
 ### Harvey Norman
 
@@ -119,7 +119,7 @@ Vouchers Accepted in Stores:
 
 
 
-[![NTUC Fairprice](/images/U FairPrice logo.jpg){:style="width: 300px"}](https://www.fairprice.com.sg/store-locator)
+[![NTUC Fairprice](/images/u fairprice logo.jpg){:style="width: 300px"}](https://www.fairprice.com.sg/store-locator)
 
 ### FairPrice
 
@@ -141,7 +141,7 @@ Vouchers Accepted in Stores:
 - $25 LED Lights Climate Voucher
 
 
-[![Signify](/images/Philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
+[![Signify](/images/philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
 
 ### Signify Lighting
 
@@ -151,7 +151,7 @@ Vouchers Accepted in Stores:
 - $25 LED Lights Climate Voucher
 
 
-[![T. S. Yong Trading](/images/TSY logo.png){:style="width: 150px"}](https://www.facebook.com/tsyongtrading/about/)
+[![T. S. Yong Trading](/images/tsy logo.png){:style="width: 150px"}](https://www.facebook.com/tsyongtrading/about/)
 
 ### T. S. Yong Trading
 

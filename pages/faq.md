@@ -29,7 +29,7 @@ Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers durin
 
 You can click on this [link](https://go.gov.sg/register-cfhp-vouchers) or scan the QR code below to access the online form. 
 
-![FormSG QR Code](/images/Registration QR Code.png){:style="height: 236px; width: 236px"}
+![FormSG QR Code](/images/registration qr code.png){:style="height: 236px; width: 236px"}
 
 Upon applying for your voucher via this [link](https://go.gov.sg/register-cfhp-vouchers), you will receive your voucher via an SMS from RedeemSG within 5 minutes if you are eligible. Please look out for an SMS that looks like this  - see below SMS. Please do not trust any links starting with a different link prefix, the link should start with https://v.redeem.gov.sg/.
 

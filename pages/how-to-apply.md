@@ -11,11 +11,11 @@ You will need to login to your SingPass to submit an application form. Only resi
 
 ### Step 1: Visit the online registration form at [www.go.gov.sg/register-cfhp-vouchers](https://go.gov.sg/register-cfhp-vouchers)
 
-[![register QR code](/images/register-QR-SVG.svg){:style="height: 236px; width: 236px"}](https://go.gov.sg/register-cfhp-vouchers)
+[![register QR code](/images/register-qr-svg.svg){:style="height: 236px; width: 236px"}](https://go.gov.sg/register-cfhp-vouchers)
 
 ### Step 2: Sign in with your SingPass
 
-![formslogin](/images/Step2-formsglogin.jpg){:style="width: 600px"}
+![formslogin](/images/step2-formsglogin.jpg){:style="width: 600px"}
 
 [Click here if you have forgot your SingPass password or do not have SingPass](https://www.singpass.gov.sg/)
 
