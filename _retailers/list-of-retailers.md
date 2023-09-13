@@ -58,7 +58,7 @@ Vouchers Accepted in Stores:
 
 
 
-[![Chuan Heng Hardware Trading](/images/Chuan Heng Logo (Shortened)_1.jpg){:style="width: 300px"}](https://chuanheng.sg)
+[![Chuan Heng Hardware Trading](/images/chuan heng logo (shortened)_1.jpg){:style="width: 300px"}](https://chuanheng.sg)
 
 ### Chuan Heng Hardware Trading
 
