@@ -131,7 +131,7 @@ Vouchers Accepted in Stores:
 
 
 
-[![Sheng Siong](/images/ShengSiongWT(Centre).jpg){:style="width: 250px"}](https://www.signify.com/en-sg/contact)
+[![Sheng Siong](/images/shengsiongwt(centre).jpg){:style="width: 250px"}](https://www.signify.com/en-sg/contact)
 
 ### Sheng Siong
 

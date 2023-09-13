@@ -3,7 +3,7 @@ layout: homepage
 title: Climate Friendly Households Programme
 description: A NEA and PUB initiative to provide all 1-, 2- and 3-room HDB
   households with e-Vouchers for energy- and water- efficient appliances.
-image: /images/Main Logo.jpg
+image: /images/main logo.jpg
 permalink: /
 sections:
   - hero:
@@ -11,7 +11,7 @@ sections:
       subtitle: Get your electronic Climate Vouchers for energy- and water-efficient
         appliances today. Electronic Climate Vouchers will expire on 31 Dec
         2023.
-      background: /images/CFHP banner-02.png
+      background: /images/cfhp banner-02.png
       button: Retrieve your electronic Climate Vouchers here
       url: https://go.gov.sg/register-cfhp-vouchers
   - infobar:
