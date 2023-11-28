@@ -1,9 +1,13 @@
 ---
 title: How To Apply
 permalink: /how-to-apply/
+variant: markdown
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZbvUokJTNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> {:style="width: 600px"}
 
+   
+
+We have extended the programme deadline! The Climate Vouchers will now expire on 20 March 2024.
 
 ## To redeem your Climate Vouchers, follow these 5 simple steps
 You will need to login to your SingPass to submit an application form. Only residents registered in 1-, 2- and 3-room HDB households are eligible to retrieve their vouchers.
