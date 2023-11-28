@@ -8,9 +8,8 @@ permalink: /
 sections:
   - hero:
       title: Climate Friendly Households Programme
-      subtitle: Get your electronic Climate Vouchers for energy- and water-efficient
-        appliances today. Electronic Climate Vouchers will expire on 31 Dec
-        2023.
+      subtitle: "Get your electronic Climate Vouchers for energy- and water-efficient
+        appliances today. "
       background: /images/cfhp banner-02.png
       button: Retrieve your electronic Climate Vouchers here
       url: https://go.gov.sg/register-cfhp-vouchers
@@ -37,4 +36,6 @@ sections:
         household every year!
       button: Find out how
       url: /resources/programme-brochures/
+notification: We have extended the programme deadline! The Climate Vouchers will
+  now expire on 20 March 2024.
 ---
