@@ -1,8 +1,12 @@
 ---
 title: About
 permalink: /about-cfhp/
+variant: markdown
 ---
 # About the Climate Friendly Households Programme
+
+
+
 Launched on 28 November 2020, the Climate Friendly Households (CFH) Programme is a joint initiative by NEA and PUB which aims to encourage households to take climate actions to reduce energy and water consumption, while saving costs in the long run.
 
 Under the Climate Friendly Households Programme, all 1-, 2- and 3-room HDB households can receive 3 separate e-Vouchers:
@@ -21,3 +25,5 @@ Click [here](https://www.climate-friendly-households.gov.sg/retailers/list-of-re
 Watch video below to find out more.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZbvUokJTNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> {:style="width: 600px"}
+
+**We have extended the programme deadline! The Climate Vouchers will now expire on 20 March 2024.**
