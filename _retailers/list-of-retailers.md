@@ -1,6 +1,7 @@
 ---
 title: List of Retailers
 permalink: /retailers/list-of-retailers/
+variant: markdown
 ---
 ## Where can you use your Climate Vouchers?
 
@@ -15,7 +16,6 @@ permalink: /retailers/list-of-retailers/
 |[**Harvey Norman**](https://www.harveynorman.com.sg/store-finder.html)|Yes| |
 |[**Mega Discount Store**](https://megadiscountstore.com.sg/pages/contact-us)|Yes| |Yes
 |[**FairPrice**](https://www.fairprice.com.sg/store-locator)| |Yes |Yes
-|[**Signify**](https://www.signify.com/en-sg/contact)| | |Yes
 |[**Sheng Siong**](https://corporate.shengsiong.com.sg/store-locator/)| | |Yes
 |[**T. S. Yong Trading**](https://www.facebook.com/tsyongtrading/about/)|Yes|Yes|Yes
 
@@ -140,15 +140,6 @@ Vouchers Accepted in Stores:
 Vouchers Accepted in Stores:
 - $25 LED Lights Climate Voucher
 
-
-[![Signify](/images/philips lighting vertical.png){:style="width: 250px"}](https://corporate.shengsiong.com.sg/store-locator/)
-
-### Signify Lighting
-
-[Click here to find a store near you](https://www.signify.com/en-sg/contact)
-
-Vouchers Accepted in Stores:
-- $25 LED Lights Climate Voucher
 
 
 [![T. S. Yong Trading](/images/tsy logo.png){:style="width: 150px"}](https://www.facebook.com/tsyongtrading/about/)
