@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 # Frequently Asked Questions
 
@@ -13,7 +14,7 @@ To be eligible for the programme, your address should be registered at a 1-, 2- 
 
 **2.	I will be moving into my 1-/ 2-/3-room BTO soon. Am I eligible for the programme?**
 
-Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers during the length of the programme (i.e. before 31 December 2023). Do note that your registered address would need to be updated to your new BTO address for you to receive your vouchers.
+Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers during the length of the programme (i.e. before 20 March 2024). Do note that your registered address would need to be updated to your new BTO address for you to receive your vouchers.
 
 
 **3.	What e-vouchers will I receive?**
@@ -44,7 +45,7 @@ Do note that you will only receive the SMS if you are ascertained to be eligible
 
 **5.	When do the vouchers expire?**
 
-31 December 2023
+20 March 2024
 
 
 **6.	Where can I redeem my vouchers?**
