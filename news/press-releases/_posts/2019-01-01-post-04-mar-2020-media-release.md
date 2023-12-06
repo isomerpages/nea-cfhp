@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  04 Mar 2020 Media Release 
-permalink: /news/press-releases/test
+permalink: /news/press-releases/test/
 ---
 ## $24.8 Million Climate-Friendly Household Package To Help Households Switch To Energy & Water Efficient Appliances
 *04 Mar 2020*

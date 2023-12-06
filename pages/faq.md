@@ -1,19 +1,20 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 # Frequently Asked Questions
 
 ### Applying and receiving vouchers
 
-**1. Am I eligible for the Climate-Friendly Households Programme?**
+**1. Am I eligible for the Climate Friendly Households Programme?**
 
 To be eligible for the programme, your address should be registered at a 1-, 2- or 3- room HDB flat. If you are unsure whether you fall in this category, you may check your details on the Singpass mobile application.
 
 
 **2.	I will be moving into my 1-/ 2-/3-room BTO soon. Am I eligible for the programme?**
 
-Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers during the length of the programme (i.e. before 31 December 2023). Do note that your registered address would need to be updated to your new BTO address for you to receive your vouchers.
+Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers during the length of the programme (i.e. before 20 March 2024). Do note that your registered address would need to be updated to your new BTO address for you to receive your vouchers.
 
 
 **3.	What e-vouchers will I receive?**
@@ -29,7 +30,7 @@ Yes, all new 1-, 2-, 3- room HDB home owners are eligible for the vouchers durin
 
 You can click on this [link](https://go.gov.sg/register-cfhp-vouchers) or scan the QR code below to access the online form. 
 
-![FormSG QR Code](/images/Registration QR Code.png){:style="height: 236px; width: 236px"}
+![FormSG QR Code](/images/registration qr code.png){:style="height: 236px; width: 236px"}
 
 Upon applying for your voucher via this [link](https://go.gov.sg/register-cfhp-vouchers), you will receive your voucher via an SMS from RedeemSG within 5 minutes if you are eligible. Please look out for an SMS that looks like this  - see below SMS. Please do not trust any links starting with a different link prefix, the link should start with https://v.redeem.gov.sg/.
 
@@ -44,7 +45,7 @@ Do note that you will only receive the SMS if you are ascertained to be eligible
 
 **5.	When do the vouchers expire?**
 
-31 December 2023
+20 March 2024
 
 
 **6.	Where can I redeem my vouchers?**

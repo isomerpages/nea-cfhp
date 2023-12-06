@@ -22,7 +22,7 @@ permalink: /voucher-tc/
 
 
 
-4. The $25 LED Climate Voucher is only valid for the purchase of any LED lights that carry NEA’s Energy Label, or other LED products approved under the Climate-friendly Households Programme.
+4. The $25 LED Climate Voucher is only valid for the purchase of any LED lights that carry NEA’s Energy Label, or other LED products approved under the Climate Friendly Households Programme.
 
 
 
