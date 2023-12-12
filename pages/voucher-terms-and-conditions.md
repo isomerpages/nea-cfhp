@@ -1,6 +1,7 @@
 ---
 title: Voucher Terms and Conditions
 permalink: /voucher-tc/
+variant: markdown
 ---
 ## Voucher T&Cs
 
@@ -38,7 +39,7 @@ permalink: /voucher-tc/
 
 
 
-8. This Voucher must be redeemed by 31 December 2023.
+8. This Voucher must be redeemed by 20 March 2024.
 
 
 
