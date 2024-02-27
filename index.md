@@ -38,5 +38,5 @@ sections:
       url: /resources/programme-brochures/
 notification: The current phase of the programme will conclude on 20 March 2024.
   The enhanced Climate Friendly Households Programme will commence on 15 April
-  2024
+  2024.
 ---
