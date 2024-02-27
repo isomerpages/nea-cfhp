@@ -1,5 +1,4 @@
 collections:
   unlinked-enhance-cfhp:
     output: true
-    order:
-      - Example Title.md
+    order: []
