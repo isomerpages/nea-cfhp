@@ -37,6 +37,7 @@ sections:
       button: Find out how
       url: /resources/programme-brochures/
 notification: The current phase of the programme will conclude on 20 March 2024.
-  The enhanced Climate Friendly Households Programme will commence on 15 April
-  2024.
+  The enhanced programme will commence on 15 April 2024, where $300 worth of
+  Climate Vouchers can be used to purchase 10 types of eligible household
+  products.
 ---
