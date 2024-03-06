@@ -4,7 +4,26 @@ permalink: /about-cfhp/
 variant: markdown
 description: ""
 ---
+
+
+	
+		<style>
+			.light-blue-box {
+				background-color: #ADD8E6;
+				padding: 20px;
+				border-radius: 2px;
+			}
+		</style>
+	
+	
+		<div class="light-blue-box">
+			The current phase of the programme has concluded. The enhanced programme will commence on 15 April 2024, where all HDB households will receive $300 worth of Climate Vouchers to purchase 10 types of eligible household products. More details will be available from 15 April 2024.
+		</div>
+	
+	 
+	
 # About the Climate Friendly Households Programme
+
 
 
 
