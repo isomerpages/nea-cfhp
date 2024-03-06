@@ -3,6 +3,8 @@ title: FAQ
 permalink: /faq/
 variant: markdown
 ---
+  <style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2;} </style>   <div class="light-blue-box"> The current phase of the programme has concluded. The enhanced programme will commence on 15 April 2024, where all HDB households will receive $300 worth of Climate Vouchers to purchase 10 types of eligible household products. More details will be available from 15 April 2024. </div>  
+
 # Frequently Asked Questions
 
 ### Applying and receiving vouchers
@@ -41,7 +43,7 @@ Do note that you will only receive the SMS if you are ascertained to be eligible
 
 ### Voucher terms and conditions
 
-[Click here for a full list of the Voucher T&Cs](https://www.climate-friendly-households.gov.sg/voucher-tc/)
+[Click here for a full list of the Voucher T&amp;Cs](https://www.climate-friendly-households.gov.sg/voucher-tc/)
 
 **5.	When do the vouchers expire?**
 
