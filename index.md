@@ -8,11 +8,7 @@ permalink: /
 sections:
   - hero:
       title: Climate Friendly Households Programme
-      subtitle: Get your electronic Climate Vouchers for energy- and water-efficient
-        appliances today.
       background: /images/cfhp banner-02.png
-      button: Retrieve your electronic Climate Vouchers here
-      url: https://go.gov.sg/register-cfhp-vouchers
   - infobar:
       title: Redeeming your Climate Vouchers
       subtitle: HOW TO REDEEM
