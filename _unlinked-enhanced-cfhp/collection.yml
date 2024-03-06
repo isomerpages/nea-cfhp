@@ -1,4 +1,5 @@
 collections:
   unlinked-enhanced-cfhp:
     output: true
-    order: []
+    order:
+      - About Climate Vouchers.md
