@@ -2,4 +2,5 @@ collections:
   unlinked-enhanced-cfhp:
     output: true
     order:
+      - Resident Guide.md
       - About Climate Vouchers.md
