@@ -1,7 +1,10 @@
 ---
 title: Useful Links
 permalink: /resources/useful-links/
+variant: markdown
 ---
+  <style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2;} </style>   <div class="light-blue-box"> The current phase of the programme has concluded. The enhanced programme will commence on 15 April 2024, where all HDB households will receive $300 worth of Climate Vouchers to purchase 10 types of eligible household products. More details will be available from 15 April 2024. </div>  
+
 ### Life Cycle Cost Calculator
 
 Use the online [Life Cycle Cost Calculator](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/household-sector/life-cycle-cost-calculator) to help you make well-informed purchasing decisions by calculating the life cycle costs of different models of air-conditioners, refrigerators, clothes dryers and televisions.
