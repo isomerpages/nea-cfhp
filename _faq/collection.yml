@@ -2,4 +2,4 @@ collections:
   faq:
     output: true
     order:
-      - FAQ (Phase concluded).md
+      - FAQ (Past Phase).md
