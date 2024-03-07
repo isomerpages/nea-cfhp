@@ -9,6 +9,6 @@ links:
   - title: Resources
     collection: resources
   - title: FAQ
-    url: /faq/
+    collection: faq
   - title: Contact Us
     url: /contact-us/
