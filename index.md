@@ -9,6 +9,8 @@ sections:
   - hero:
       title: Climate Friendly Households Programme
       background: /images/cfhp banner-02.png
+      button: FAQs - Enhanced programme launching 15 april 2024
+      url: /permalink
   - infobar:
       title: Redeeming your Climate Vouchers
       subtitle: HOW TO REDEEM
