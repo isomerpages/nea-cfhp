@@ -70,4 +70,3 @@ to NEA at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.s
 <p></p>
 <p></p>
 
-   <style> .blue-button { background-color: #3380ff; color: white; padding: 16px 30px; border: none; border-radius: 5px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; } .blue-button:hover { background-color: #1e5ad4; /\* Darker shade of blue on hover \*/ } .blue-button:visited { color: white; /\* Ensuring the text remains white even after the link is visited \*/ } </style>   <a class="blue-button" href="https://go.gov.sg/cv-claim">Claim your Climate Vouchers</a>  
