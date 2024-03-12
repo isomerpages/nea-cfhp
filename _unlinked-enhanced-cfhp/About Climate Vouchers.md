@@ -14,12 +14,10 @@ more resource-efficient products to choose from. From 15 April 2024, all
 HDB households can claim <strong>$300 in Climate Vouchers</strong> to offset
 the purchase of<strong> 10 types of energy- and water-efficient appliances and fittings.</strong>
 </p>
-<h4>Eligible products</h4>
-<p>&lt;Insert image of mailer&gt;</p>
 <p>By switching to more efficient appliances and fittings, households can
 reduce their energy and water consumption and benefit from lower utility
 expenses in the long run.</p>
 <p>Programme ends <strong>31 December 2027.</strong>
 </p>
-<p>&lt;Insert Button - Claim your Climate Vouchers here&gt;</p>
+<p></p>
 <p></p>
