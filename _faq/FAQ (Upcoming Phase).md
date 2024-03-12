@@ -69,3 +69,5 @@ to NEA at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.s
 <p>For further clarification, members of the public can write to <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
 <p></p>
 <p></p>
+
+   <style> .blue-button { background-color: #3380ff; color: white; padding: 10px 20px; border: none; border-radius: 5px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; } </style>   <a class="blue-button" href="https://go.gov.sg/cv-claim">Claim your Climate Vouchers</a>  
