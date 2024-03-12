@@ -2,6 +2,7 @@ collections:
   unlinked-enhanced-cfhp:
     output: true
     order:
+      - Eligible Products.md
       - Programme Brochures.md
       - Where to Spend.md
       - Resident Guide.md
