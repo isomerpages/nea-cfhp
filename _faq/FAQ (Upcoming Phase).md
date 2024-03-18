@@ -25,7 +25,7 @@ Vouchers will be valid until 31 December 2027.</p>
 </li>
 </ol>
 <p>You are eligible for the Climate Vouchers if you are a Singaporean Citizen
-or Permanent Resident residing at a HDB flat.</p>
+or Permanent Resident residing at a HDB flat. In other words, the address on the back of your National Registration Identify Card (NRIC) should belong to a HDB flat. </p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -33,7 +33,7 @@ or Permanent Resident residing at a HDB flat.</p>
 </p>
 </li>
 </ol>
-<p>The enhanced Climate Vouchers will be available from 15 April 2024.</p>
+<p>The Climate Vouchers ca be claimed and spent any time from 15 April 2024 to 31 December 2027.</p>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -69,4 +69,3 @@ to NEA at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.s
 <p>For further clarification, members of the public can write to <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
 <p></p>
 <p></p>
-
