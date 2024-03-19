@@ -25,7 +25,7 @@ Vouchers will be valid until 31 December 2027.</p>
 </li>
 </ol>
 <p>You are eligible for the Climate Vouchers if you are a Singaporean Citizen
-or Permanent Resident residing at a HDB flat. In other words, the address on the back of your National Registration Identify Card (NRIC) should belong to a HDB flat. </p>
+or Permanent Resident residing at a HDB flat. In other words, the registered address on the back of your National Registration Identify Card (NRIC) should reflect a HDB flat. </p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
@@ -33,7 +33,7 @@ or Permanent Resident residing at a HDB flat. In other words, the address on the
 </p>
 </li>
 </ol>
-<p>The Climate Vouchers ca be claimed and spent any time from 15 April 2024 to 31 December 2027.</p>
+<p>The Climate Vouchers can be claimed and spent any time from 15 April 2024 to 31 December 2027.</p>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -52,9 +52,9 @@ or Permanent Resident residing at a HDB flat. In other words, the address on the
 </p>
 </li>
 </ol>
-<p>Yes, regardless of whether you had redeemed your previous set of Climate
-Vouchers or not, you may apply for a fresh set of Climate Vouchers under
-the enhanced CFHP as it is a new programme.</p>
+<p>Yes, if you had redeemed your previous set of Climate
+Vouchers, you will still be able to apply for a fresh set of Climate Vouchers under
+the enhanced CFHP.</p>
 <p></p>
 <ol start="6" data-tight="true" class="tight">
 <li>
