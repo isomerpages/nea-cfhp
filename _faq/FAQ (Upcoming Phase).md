@@ -25,7 +25,7 @@ Vouchers will be valid until 31 December 2027.</p>
 </li>
 </ol>
 <p>You are eligible for the Climate Vouchers if you are a Singaporean Citizen
-or Permanent Resident residing at a HDB flat. In other words, the registered address on the back of your National Registration Identify Card (NRIC) should reflect a HDB flat. </p>
+or Permanent Resident residing at a HDB flat. </p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
