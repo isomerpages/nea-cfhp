@@ -2,9 +2,11 @@
 title: About
 permalink: /about-cfhp/
 variant: markdown
+description: ""
 ---
-# About the Climate Friendly Households Programme
+<style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2; } </style>   <div class="light-blue-box"> The current phase of the programme has concluded. The enhanced programme will commence on 15 April 2024, where all HDB households will receive $300 worth of Climate Vouchers to purchase 10 types of eligible household products. Check out the <a href="/faq/enhanced">FAQs here</a>. More details will be available from 15 April 2024. </div>   
 
+# About the Climate Friendly Households Programme
 
 
 Launched on 28 November 2020, the Climate Friendly Households (CFH) Programme is a joint initiative by NEA and PUB which aims to encourage households to take climate actions to reduce energy and water consumption, while saving costs in the long run.
@@ -25,5 +27,3 @@ Click [here](https://www.climate-friendly-households.gov.sg/retailers/list-of-re
 Watch video below to find out more.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZbvUokJTNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> {:style="width: 600px"}
-
-**We have extended the programme deadline! The Climate Vouchers will now expire on 20 March 2024.**

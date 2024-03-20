@@ -1,0 +1,6 @@
+collections:
+  faq:
+    output: true
+    order:
+      - FAQ (Upcoming Phase).md
+      - FAQ (Past Phase).md

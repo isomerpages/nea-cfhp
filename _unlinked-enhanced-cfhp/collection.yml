@@ -1,4 +1,10 @@
 collections:
   unlinked-enhanced-cfhp:
     output: true
-    order: []
+    order:
+      - TEST.md
+      - Eligible Products.md
+      - Programme Brochures.md
+      - Where to Spend.md
+      - Resident Guide.md
+      - About Climate Vouchers.md

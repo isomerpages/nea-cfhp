@@ -8,11 +8,9 @@ permalink: /
 sections:
   - hero:
       title: Climate Friendly Households Programme
-      subtitle: Get your electronic Climate Vouchers for energy- and water-efficient
-        appliances today.
       background: /images/cfhp banner-02.png
-      button: Retrieve your electronic Climate Vouchers here
-      url: https://go.gov.sg/register-cfhp-vouchers
+      button: FAQs - Enhanced programme launching 15 april 2024
+      url: /faq/enhanced
   - infobar:
       title: Redeeming your Climate Vouchers
       subtitle: HOW TO REDEEM
@@ -36,8 +34,8 @@ sections:
         household every year!
       button: Find out how
       url: /resources/programme-brochures/
-notification: The current phase of the programme will conclude on 20 March 2024.
-  The enhanced programme will commence on 15 April 2024, where all HDB
-  households will receive $300 worth of Climate Vouchers to purchase 10 types of
-  eligible household products.
+notification: The current phase of the programme has concluded. The enhanced
+  programme will commence on 15 April 2024, where all HDB households will
+  receive $300 worth of Climate Vouchers to purchase 10 types of eligible
+  household products. More details will be available from 15 April 2024.
 ---
