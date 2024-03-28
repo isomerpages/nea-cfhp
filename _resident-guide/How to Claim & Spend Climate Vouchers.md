@@ -4,6 +4,8 @@ permalink: /claim-spend-eng/
 variant: markdown
 description: ""
 ---
+   <table border="1"> <tbody> <tr> <th style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/1.png"> </div> </th> <td style="width: 80%;"> <p>$300 to spend at participating retailers</p> </td> </tr> <tr> <td style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2.png"> </div> </td> <td style="width: 80%;"> <p>10 different types of energy- and water- efficient appliances and fittings</p> </td> </tr> <tr> <td style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3.png"> </div> </td> <td style="width: 80%;"> <p>Spend your vouchers by 31 December 2027</p> </td> </tr> </tbody> </table>  
+
 <table>
 <tbody>
 <tr>
