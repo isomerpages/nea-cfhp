@@ -199,7 +199,7 @@ find out more.</p>
 </div>
 </details>
 </div>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 <p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
 household products. These includes Refrigerators (3-ticks and above), Air
