@@ -14,7 +14,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>$300 to spend at participating retailers</p>
 </th>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10 different types of energy- and water- efficient appliances and fittings</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Spend your vouchers by 31 December 2027</p>
 </td>
 </tr>
 </tbody>
