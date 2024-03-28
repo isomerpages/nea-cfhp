@@ -1,0 +1,4 @@
+collections:
+  resident-guide:
+    output: true
+    order: []
