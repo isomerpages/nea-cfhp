@@ -4,38 +4,10 @@ permalink: /claim-spend-eng/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p>$300 to spend at participating retailers</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 different types of energy- and water- efficient appliances and fittings</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Spend your vouchers by 31 Dec 2027</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>How to claim your Climate Vouchers?</h3>
-<p>&lt;insert youtube video link&gt;</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=yUdrxaM6_CvQbTlu"></iframe>
+</div>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Visit <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a></strong> and
@@ -81,24 +53,6 @@ or banking details to claim the vouchers.</p>
 store will scan it to offset your purchase.</p>
 </li>
 </ol>
-<h3>Need help?</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Forgot your Singpass password? <a href="http://www.singpass.gov.sg/singpass/onlineresetpassword/userdetail" rel="noopener noreferrer nofollow" target="_blank">Reset it online</a>&nbsp;or
-head to your&nbsp;<a href="https://www.singpass.gov.sg/home/ui/counter-locations" rel="noopener noreferrer nofollow" target="_blank">nearest Singpass counter</a>.</p>
-</li>
-<li>
-<p>If you wish to create a Singpass account, you may do so online or head
-to the nearest Community Centre/Club with your NRIC.</p>
-</li>
-<li>
-<p>If you have questions, please read the <a href="#_FAQ" rel="noopener noreferrer nofollow" target="_blank">FAQ</a>  <em>&lt;&lt;Link to Residents’ FAQ page&gt;&gt;</em>
-</p>
-</li>
-<li>
-<p>For further enquiries, please write to us using this feedback form or
-email <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
-</li>
-</ul>
 <p></p>
+<p>For more information, please refer to our FAQ.</p>
 <p>&lt; insert claim button &gt;</p>
