@@ -14,14 +14,14 @@ description: ""
 tap on ‘Climate Vouchers’.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Campaign_listing.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Campaign_listing.png">
 </div>
 </li>
 <li>
 <p><strong>Log in with Singpass</strong>. Only one household member needs
 to do this.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP.png">
 </div>
 </li>
 <li>
@@ -29,7 +29,7 @@ to do this.</p>
 the SMS to share the vouchers with household members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__SMS.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/3__SMS.png">
 </div>
 </li>
 </ol>
@@ -50,7 +50,7 @@ If you receive such an SMS, do not click on the link or reply.</p>
 <p><strong>Choose the amount to spend</strong>. Then tap on ‘Show voucher’.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP_1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP_1.png">
 </div>
 </li>
 <li>
@@ -60,7 +60,7 @@ store will scan it to offset your purchase.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Custom_Vouchers__QR.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Custom_Vouchers__QR.png">
 </div>
 <p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p>
