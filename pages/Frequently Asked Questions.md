@@ -188,7 +188,7 @@ household products. These includes Refrigerators (3-ticks and above), Air
 conditioners (5-ticks and above), Direct current fans, LED lights (2-ticks
 and above), Washing machines (4-ticks), Water closets (3-ticks), Sink/Bib
 taps and mixers (3-ticks), Basin taps and mixers (3-ticks).</p>
-<p>Click <a href="https://go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.climate-friendly-households.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more.</p>
 </div>
 </details>
