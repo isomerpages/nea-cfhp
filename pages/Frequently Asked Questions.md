@@ -217,7 +217,6 @@ address displayed on the proof (e.g.NRIC).</p>
 cashier for scanning.</p>
 </li>
 </ol>
-<p></p>
 <p><em>Vouchers can only be spent on eligible items.</em>
 </p>
 <p><em>Please refer to the </em><a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a>  <em>on how to claim and spend the $300 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;</em>
@@ -368,7 +367,7 @@ need to be replaced.</p>
 <h3>Refunds &amp; Exchanges</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong> Can I request for a refund for the product I purchased using the Climate Voucher?</strong>
+<summary><strong>Can I request for a refund for the product I purchased using the Climate Voucher?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All products purchased with the Climate Vouchers are strictly non-refundable.
@@ -395,7 +394,7 @@ must be an eligible product under the enhanced CFHP.</p>
 <p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
 system for Singapore. RedeemSG is built by Open Government Products. For
 more information, please refer to <a href="http://redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>redeem.gov.sg</u></a> website and their
-<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u>
+<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u> 
 </a>.</p>
 </div>
 </details>
