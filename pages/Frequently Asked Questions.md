@@ -4,3 +4,287 @@ permalink: /cv-faqs/
 variant: tiptap
 description: ""
 ---
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>Programme Eligibility</u></a></strong>
+</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who is eligible for the enhanced CFHP?</strong>
+</p>
+<p>Each HDB household is only entitled to one set of vouchers. To be eligible
+for the enhanced CFHP vouchers, the following needs to be met :</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are a Singapore
+Citizen or Permanent Resident, and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your residential
+address is registered at an HDB flat.</p>
+<p>&nbsp;</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I will be moving into my BTO/re-sale flat soon. Am I eligible for the programme?</strong>
+</p>
+<p>Yes, all new HDB flat homeowners are eligible for the vouchers during
+the length of the programme (i.e., before 31 December 2027). You may claim
+your vouchers once your official registered address for your new flat address
+has been reflected in Singpass.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If I was eligible for the previous CFHP, am I eligible to apply for another set of Climate Vouchers under the enhanced CFHP?</strong>
+</p>
+<p>All HDB households are eligible for the new Climate Vouchers under the
+enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> regardless
+of whether you have redeemed Climate Vouchers under the previous CFHP.
+The enhanced CFHP vouchers will be available from 15 April 2024, and expire
+on 31 December 2027. The previous round of CFHP vouchers expired on 20
+March 2024.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am renting an HDB flat. Am I eligible for the Climate Vouchers?</strong>
+</p>
+<p>Singapore Citizens or Permanent Residents whose addresses are registered
+at an HDB flat are eligible to claim Climate Vouchers under the enhanced
+CFHP. As each eligible household is entitled to one set of Climate Vouchers,
+flat owners and their tenants should reach an agreement on who should claim
+the vouchers. For further clarification, please contact <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
+<p></p>
+<p><strong><u>Claiming your Climate Vouchers</u></strong>
+</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I claim my Climate Vouchers?</strong>
+</p>
+<p>Please note that only one member needs to claim the Climate Vouchers on
+behalf of the entire household. You may forward the unique SMS link to
+share the vouchers with your household members.</p>
+<p>a)&nbsp;&nbsp;&nbsp; Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
+tap on Climate Vouchers.</p>
+<p>b)&nbsp;&nbsp; Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>c)&nbsp;&nbsp;&nbsp; Receive an SMS from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>,
+which will contain a unique link to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Please refer to the step-by-step guide &lt;&lt;hyperlink to Resident Guide&gt;&gt;
+on how to claim and spend the $300 Climate Vouchers.</p>
+<p>&nbsp;</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When do the Climate Vouchers expire?</strong>
+</p>
+<p>The Climate Vouchers will expire on 31 December 2027.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</strong>
+</p>
+<p>Please refer to the following link for a list of <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions on Singpass</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I don’t have a Singpass account. What should I do?</strong>
+</p>
+<p>Please refer to the Frequently Asked Questions on Singpass. &lt;&lt;Hyperlink
+to <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">Singpass - FAQ</a>.
+&gt;&gt;</p>
+<p>&nbsp;</p>
+<p>Information on where you can get help to register for a Singpass account
+can be found under Getting Started &gt;&gt; About Singpass &gt;&gt; Where
+can I get help?</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I need a smartphone to access the vouchers?</strong>
+</p>
+<p>Yes, you need a smartphone with basic internet access.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I don’t have a mobile phone. What should I do?</strong>
+</p>
+<p>If you do not have a mobile phone, please request a household member to
+claim the vouchers on behalf of your household.</p>
+<p>&nbsp;</p>
+<p>If you do not have a smartphone and/or is unable to access your Singpass,
+and would like to have paper vouchers instead, please submit your request
+via this form &lt;&lt;hyperlink to form&gt;&gt;. We seek your understanding
+that the waiting time can be up to 6 weeks due to the high volume of requests.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have previously claimed my Climate Vouchers but misplaced my voucher link. How can I retrieve it again?</strong>
+</p>
+<p>To retrieve the voucher link for your Climate Vouchers, please visit
+<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
+to get your unique voucher link sent via an SMS from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if I keyed in the wrong mobile number when claiming the vouchers?</strong>
+</p>
+<p>You will be required to verify your mobile number via an SMS One Time
+Password (OTP) when claiming your Climate Vouchers. If you keyed in the
+wrong mobile number, simply return to the previous page to key in your
+mobile number again.</p>
+<p>&nbsp;</p>
+<p>The SMS containing the voucher link unique to your household will only
+be sent after mobile number verification, which helps to ensure that vouchers
+are not sent to the wrong mobile number.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I verify that the SMS link which I have received is a legitimate link?</strong>
+</p>
+<p>An SMS with your unique voucher link will only be sent to your mobile
+number upon you claiming the vouchers.</p>
+<p>The SMS can be identified by the sender name “<a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>”.
+Please also check that your unique voucher link starts with the following
+prefix, “<a rel="noopener noreferrer nofollow" target="_blank">voucher.redeem.gov.sg</a>”.
+Do not trust vouchers starting with other prefixes.</p>
+<p><strong><u>Spending your Climate Vouchers</u></strong>
+</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I use my Climate Vouchers on?</strong>
+</p>
+<p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
+household products. These includes Refrigerators (3-ticks and above), Air
+conditioners (5-ticks and above), Direct current fans, LED lights (2-ticks
+and above), Washing machines (4-ticks), Water closets (3-ticks), Sink/Bib
+taps and mixers (3-ticks), Basin taps and mixers (3-ticks).</p>
+<p>&nbsp;</p>
+<p>Click here &lt;&lt;hyperlink to products page&gt;&gt; to find out more.</p>
+<p>&nbsp;</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where can I spend my Climate Vouchers?</strong>
+</p>
+<p>You can spend your Climate Vouchers on eligible items at any participating
+retail store. You may refer to the full list of participating retailers
+here. &lt;&lt;hyperlink to Where to Spend&gt;&gt;</p>
+<p><em>&nbsp;</em>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I spend my Climate Vouchers?</strong>
+</p>
+<p>Tap on your unique voucher link from the SMS sent by <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp; Show the cashier any proof of the residential address
+that was used to claim the vouchers. The address displayed on the voucher
+should match the address displayed on the proof (e.g.NRIC).</p>
+<p>2.&nbsp;&nbsp;&nbsp; Choose the voucher amount you want to spend and show
+the QR code to the cashier for scanning.</p>
+<p>&nbsp;</p>
+<p><em>Vouchers can only be spent on eligible items.</em>
+</p>
+<p><em>Please refer to the step-by-step guide &lt;&lt;hyperlink to Resident Guide&gt;&gt; on how to claim and spend the $300 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;</em>
+</p>
+<p>&nbsp;</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I forgot to bring my NRIC. Are there other types of personal identification documents that are accepted?</strong>
+</p>
+<p>You may show the retailer your digital NRIC through the Singpass mobile
+app, or any recent utility bills or documents that show both your name
+and registered residential address. The address displayed on the voucher
+should match the address displayed on your digital NRIC, or bills/documents.</p>
+<p>&nbsp;</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does the verification process of checking my residential address breach the Personal Data Protection Act (PDPA)?</strong>
+</p>
+<p>No, this step of checking your NRIC does not violate the PDPA, as it is
+required for verification purposes only, and not for sharing or marketing
+purposes. We seek your cooperation to allow the retail staff to check the
+address on your personal identification documents against the address on
+your voucher.</p>
+<p>&nbsp;</p>
+<p>Please ensure that the retailer does not take a photo or photocopy of
+your NRIC or any other personal identification document, and that the NRIC
+or any other personal identification document is returned to you immediately
+after verification.</p>
+<p>&nbsp;</p>
+<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I have to spend the full value of the Climate Vouchers (i.e., $300) in a single transaction?</strong>
+</p>
+<p>No. Each set of Climate Vouchers comes in multiple denominations ($2,
+$5, $10, $50) adding up to $300. You may select the voucher amount you
+would like to spend. For example, you can spend $30 worth of Climate Vouchers
+on eligible LED lights today and use the remaining $270 at a later date
+on another eligible product.</p>
+<p>&nbsp;</p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
+</p>
+<p>Multiple Climate Vouchers across households cannot be combined in a single
+transaction.</p>
+<p>&nbsp;</p>
+<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have completed my purchase without redeeming the Climate Voucher. Can I get reimbursed directly from NEA or PUB?</strong>
+</p>
+<p>Only participating merchants can accept the Climate Vouchers. NEA/PUB
+does not reimburse residents for vouchers that are not redeemed<strong>.</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I spend my Climate Vouchers for online transactions?</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>The Climate Vouchers are only accepted in-store through physical payment.
+Climate Vouchers cannot be used for in-app or online transactions.</p>
+<p>&nbsp;</p>
+<p><strong>10.&nbsp;&nbsp; Can my household member (e.g. my child) spend the Climate Vouchers on my behalf?</strong>
+</p>
+<p>Yes. You may share your unique voucher link with your household members,
+by clicking on&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+“Info &amp; help”, followed by “Share your vouchers”. You can also forward
+the voucher link SMS from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> to
+your household members directly. However, please be careful when sharing
+your unique voucher link with others as anyone with access to the link
+may be able to spend the vouchers. We seek your understanding that there
+will be no reinstatement made for vouchers that were shared erroneously.</p>
+<p>&nbsp;</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family member lives with
+you, they can produce their own NRIC or any document showing their HDB
+residential address to the retail staff at the point of purchase.</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family member does not live with
+you, they will have to produce a copy of your personal identification document
+(showing your HDB address) to the retail assistant at the point of purchase.</p>
+<p></p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I ask a non-household member to use my vouchers to buy eligible items for me?</strong>
+</p>
+<p>Yes, you may authorise a non-household member to buy eligible items for
+you using your household’s vouchers. However, they will have to bring a
+copy of your personal identification document showing your HDB address
+for verification.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the Climate Vouchers be resold?</strong>
+</p>
+<p>No. If the Climate Vouchers are found to have been resold, NEA or PUB
+reserves the right to void the Climate Vouchers issued, and to recover
+the monetary value of the Climate Vouchers utilised by the voucher-holder.</p>
+<p>&nbsp;</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I get change back in cash if the purchase (e.g. $299) is less than the amount of digital vouchers that I want to spend (e.g. $300)?</strong>
+</p>
+<p>There will be no cash change provided if the purchase amount is less than
+the voucher amount selected.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I find out how much value is left for my Climate Vouchers?</strong>
+</p>
+<p>You may access your voucher link in the SMS sent by <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> to find
+out the remaining balance of your Climate Vouchers. The value will be shown
+in the “Balance” as per the screenshot below.
+<br>
+<br><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I claimed my voucher while I was residing at Address A. I have since moved to Address B. The retailer did not allow me to use my voucher as the address on my personal identification document did not match my voucher address. What should I do?</strong>
+</p>
+<p>You may request for another set of Climate Vouchers if you have moved
+to another HDB flat, subject to approval. Please write to <a href="mailto:nea@redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nea@redeem.gov.sg</u></a> to
+explain your circumstances and include any documents to support your case.
+The National Environmental Agency (NEA) will review it on a case-by-case
+basis.</p>
+<p>&nbsp;</p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I donate my Climate Vouchers?</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>There is no option to donate the Climate Vouchers. The programme aims
+to encourage households to reduce their energy and water consumption, while
+saving costs in the long run. As such, we encourage you to use your vouchers
+to buy energy and/or water efficient appliances and/or fittings, if they
+need to be replaced.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><u>Refunds &amp; Exchanges</u></strong>
+</p>
+<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I request for a refund for the product I purchased using the Climate Voucher?</strong>
+</p>
+<p>All products purchased with the Climate Vouchers are strictly non-refundable.
+Please ensure that the products you are purchasing with the Climate Vouchers
+are suitable for your household, before proceeding with the purchase.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I do an exchange for other eligible products if the product I purchased using Climate Voucher is not suitable?</strong>
+</p>
+<p>This is subject to the exchange policy of the participating retailer.
+Please note that if your retailer allows exchanges, the replacement product
+must be an eligible product under the enhanced CFHP.</p>
+<p>&nbsp;</p>
+<p><strong><u>RedeemSG</u></strong>
+</p>
+<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to find out more about the system that is behind the Climate Vouchers.</strong>
+</p>
+<p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
+system for Singapore. RedeemSG is built by Open Government Products. For
+more information, please refer to <a href="http://redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>redeem.gov.sg</u></a> website and their
+<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u>
+</a>.</p>
+<p><strong><u>&nbsp;</u></strong>
+</p>
