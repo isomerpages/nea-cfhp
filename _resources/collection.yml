@@ -1,5 +1,5 @@
 collections:
-  enhanced-resources:
+  resources:
     output: true
     order:
       - Programme Brochures.md
