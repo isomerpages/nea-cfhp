@@ -4,6 +4,23 @@ permalink: /cv-products/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <table>
 <tbody>
 <tr>
@@ -73,7 +90,7 @@ with non-LED lights)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-ticks and above LED lights</p>
-<p>(<a rel="noopener noreferrer nofollow" target="_blank">Includes</a>
+<p>(<a rel="noopener noreferrer nofollow" target="_blank">Includes</a> 
 <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[JL(1]</a>&nbsp; LED circular lights and LED downlights)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,7 +234,7 @@ consumer products such as Air-conditioners, Refrigerators and Washing Machines,
 is required to help you dispose of your unwanted/ old appliance of the
 same product type for <strong><u>free</u></strong> upon request.</p>
 <p>&nbsp;</p>
-<p>You may also dispose your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="_blank">E-Waste Collection Points</a>
+<p>You may also dispose your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="_blank">E-Waste Collection Points</a> 
 <a href="#_msocom_2" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[SL2]</a>&nbsp; located island-wide.</p>
 </td>
 </tr>
