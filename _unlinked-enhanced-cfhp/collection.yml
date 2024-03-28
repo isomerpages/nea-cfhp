@@ -2,6 +2,5 @@ collections:
   unlinked-enhanced-cfhp:
     output: true
     order:
-      - TEST.md
       - Eligible Products.md
       - Programme Brochures.md
