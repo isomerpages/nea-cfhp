@@ -1,4 +1,5 @@
 collections:
   where-to-spend:
     output: true
-    order: []
+    order:
+      - Where to Spend.md
