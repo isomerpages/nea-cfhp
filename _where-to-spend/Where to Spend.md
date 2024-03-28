@@ -11,6 +11,19 @@ description: ""
 <p>&lt;&lt; embed map &gt;&gt;</p>
 <p></p>
 <h4>Legend</h4>
-<p></p>
+<p>Let’s play our part to recycle our electronic appliances when they are
+due for replacement. This not only conserves Earth’s precious natural resources
+but also protects human and environmental health. &nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>As per the Resource Sustainability Act, the retailer that delivers regulated
+consumer products such as Air-conditioners, Refrigerators and Washing Machines,
+is required to help you dispose of your unwanted/ old appliance of the
+same product type for <strong><u>free</u></strong> upon request.</p>
+<p>&nbsp;</p>
+<p>You may also dispose your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="_blank">E-Waste Collection Points</a>
+<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank"></a>located island-wide.</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[SL1]</a>Link to map on NEA website</p>
 <p>&lt;&lt;Include claim button&gt;&gt;</p>
 <p></p>
