@@ -8,8 +8,6 @@ links:
     collection: where-to-spend
   - title: FAQs
     url: /cv-faqs
-  - title: Resources
-    collection: resources
   - title: Contact Us
     url: /contact-us
     sublinks:
@@ -17,3 +15,5 @@ links:
         url: /contact-us
       - title: Whistleblowing
         url: /cv-whistleblowing
+  - title: Resources
+    collection: resources
