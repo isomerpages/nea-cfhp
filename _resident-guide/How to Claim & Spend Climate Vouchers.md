@@ -62,3 +62,4 @@ store will scan it to offset your purchase.</p>
 </p><p>
 </p>
    <style> .blue-button { background-color: #3380ff; color: white; padding: 14px 150px; border: none; border-radius: 5px; text-align: center; text-decoration: none; display: block; /\* Change from inline-block to block \*/ font-size: 20px; cursor: pointer; margin: auto; /\* Center the button horizontally \*/ } .blue-button:hover { background-color: #1e5ad4; /\* Darker shade of blue on hover \*/ } .blue-button:visited { color: white; /\* Ensuring the text remains white even after the link is visited \*/ } </style>   <a class="blue-button" href="https://go.gov.sg/cv-claim">Claim your Climate Vouchers here</a>
+	 
