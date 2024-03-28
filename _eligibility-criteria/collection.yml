@@ -1,0 +1,4 @@
+collections:
+  eligibility-criteria:
+    output: true
+    order: []
