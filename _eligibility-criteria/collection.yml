@@ -1,4 +1,5 @@
 collections:
   eligibility-criteria:
     output: true
-    order: []
+    order:
+      - MELS.md
