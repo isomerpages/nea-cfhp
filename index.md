@@ -14,25 +14,29 @@ sections:
   - infobar:
       title: About Climate Vouchers
       id: infobar
-      description: Under the
+      description: Under the Climate Friendly Households Programme, every HDB
+        household will receive $300 in Climate Vouchers to purchase energy- and
+        water-efficient products.
       button: Find out more
       url: /about-cv
   - infobar:
       title: Claim your Climate Vouchers
       id: infobar
-      description: Infobar description
+      description: "Claiming your Climate Vouchers is easy and hassle free! Only one
+        household member needs to do this for the household. "
       button: Claim Now
       url: https://go.gov.sg/cv-claim
   - infobar:
       title: Where to spend your Climate Vouchers?
       id: infobar
-      description: Spend your
+      description: "Spend your $300 Climate Vouchers at participating retailers,
+        including electronic stores and supermarkets. "
       button: Find participating retailers
       url: /cv-spend
   - infobar:
       title: Frequently Asked Questions
       id: infobar
-      description: Infobar description
+      description: "Have questions? Check out the Frequently Asked Questions. "
       button: Read our FAQ here
       url: /cv-faqs
 notification: The current phase of the programme has concluded. The enhanced
