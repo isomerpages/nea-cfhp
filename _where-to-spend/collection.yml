@@ -1,0 +1,4 @@
+collections:
+  where-to-spend:
+    output: true
+    order: []
