@@ -3,9 +3,4 @@ links:
   - title: About Climate Vouchers
     collection: about-climate-vouchers
   - title: Resident Guide
-    url: /claim-spend-eng
-    sublinks:
-      - title: New submenu
-        url: /permalink
-      - title: New submenu
-        url: /permalink
+    collection: resident-guide
