@@ -4,45 +4,8 @@ permalink: /claim-spend-eng/
 variant: markdown
 description: ""
 ---
-   <table border="1"> <tbody> <tr> <th style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/1.png"> </div> </th> <td style="width: 80%;"> <p>$300 to spend at participating retailers</p> </td> </tr> <tr> <td style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2.png"> </div> </td> <td style="width: 80%;"> <p>10 different types of energy- and water- efficient appliances and fittings</p> </td> </tr> <tr> <td style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/3.png"> </div> </td> <td style="width: 80%;"> <p>Spend your vouchers by 31 December 2027</p> </td> </tr> </tbody> </table>  
+<table border="1"> <tbody> <tr> <th style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1.png"> </div> </th> <td style="width: 20%;"> <p>$300 to spend at participating retailers</p> </td> </tr> <tr> <td style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2.png"> </div> </td> <td style="width: 20%;"> <p>10 different types of energy- and water- efficient appliances and fittings</p> </td> </tr> <tr> <td style="width: 20%;"> <div class="isomer-image-wrapper"> <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3.png"> </div> </td> <td style="width: 80%;"> <p>Spend your vouchers by 31 December 2027</p> </td> </tr> </tbody> </table>  
 
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/1.png">
-</div>
-
-</th><td rowspan="1" colspan="1">
-<p>$300 to spend at participating retailers</p>
-
-</td></tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 different types of energy- and water- efficient appliances and fittings</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Spend your vouchers by 31 December 2027</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>How to claim your Climate Vouchers?</h3>
 <div class="iframe-wrapper">
 <iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=yUdrxaM6_CvQbTlu"></iframe>
@@ -102,5 +65,6 @@ store will scan it to offset your purchase.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Custom_Vouchers__QR.png">
 </div>
 <p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
+</p><p>
+<style> .blue-button { background-color: #3380ff; color: white; padding: 16px 30px; border: none; border-radius: 5px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer; } .blue-button:hover { background-color: #1e5ad4; /\* Darker shade of blue on hover \*/ } .blue-button:visited { color: white; /\* Ensuring the text remains white even after the link is visited \*/ } </style>   <a class="blue-button" href="https://go.gov.sg/cv-claim">Claim your Climate Vouchers here</a>
 </p>
-<p>&lt; insert claim button &gt;</p>
