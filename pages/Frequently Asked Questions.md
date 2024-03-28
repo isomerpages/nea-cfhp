@@ -26,9 +26,9 @@ has been reflected in Singpass.</p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If I was eligible for the previous CFHP, am I eligible to apply for another set of Climate Vouchers under the enhanced CFHP?</strong>
 </p>
 <p>All HDB households are eligible for the new Climate Vouchers under the
-enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> regardless
-of whether you have redeemed Climate Vouchers under the previous CFHP.
-The enhanced CFHP vouchers will be available from 15 April 2024, and expire
+enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> regardless of
+whether you have redeemed Climate Vouchers under the previous CFHP. The
+enhanced CFHP vouchers will be available from 15 April 2024, and expire
 on 31 December 2027. The previous round of CFHP vouchers expired on 20
 March 2024.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -284,7 +284,6 @@ must be an eligible product under the enhanced CFHP.</p>
 <p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
 system for Singapore. RedeemSG is built by Open Government Products. For
 more information, please refer to <a href="http://redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>redeem.gov.sg</u></a> website and their
-<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u>
+<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u> 
 </a>.</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
