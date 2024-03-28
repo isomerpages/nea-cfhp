@@ -10,7 +10,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 12%;" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
