@@ -54,5 +54,5 @@ store will scan it to offset your purchase.</p>
 </li>
 </ol>
 <p></p>
-<p>For more information, please refer to our FAQ.</p>
+<p>For more information, please refer to our FAQs.</p>
 <p>&lt; insert claim button &gt;</p>
