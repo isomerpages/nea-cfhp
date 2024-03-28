@@ -68,11 +68,11 @@ share the vouchers with your household members.</p>
 <p>a) Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
 tap on Climate Vouchers.</p>
 <p>b) Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>c) Receive an SMS from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>,
-which will contain a unique link to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>c) Receive an SMS from gov.sg which will contain a unique link to your
+Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-<p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
-the $300 Climate Vouchers.</p>
+<p>Please refer to the <a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on
+how to claim and spend the $300 Climate Vouchers.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -188,7 +188,7 @@ household products. These includes Refrigerators (3-ticks and above), Air
 conditioners (5-ticks and above), Direct current fans, LED lights (2-ticks
 and above), Washing machines (4-ticks), Water closets (3-ticks), Sink/Bib
 taps and mixers (3-ticks), Basin taps and mixers (3-ticks).</p>
-<p>Click <a href="/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="https://www.climate-friendly-households.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more.</p>
 </div>
 </details>
@@ -198,60 +198,74 @@ find out more.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can spend your Climate Vouchers on eligible items at any participating
 retail store. You may refer to the full list of participating retailers
-<a href="/cv-spend" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="https://www.climate-friendly-households.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
-</div>
+<details class="isomer-details">
+<summary><strong>How can I spend my Climate Vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tap on your unique voucher link from the SMS sent by gov.sg</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Show the cashier any proof of the residential address that was used to
+claim the vouchers. The address displayed on the voucher should match the
+address displayed on the proof (e.g.NRIC).</p>
+</li>
+<li>
+<p>Choose the voucher amount you want to spend and show the QR code to the
+cashier for scanning.</p>
+</li>
+</ol>
 <p></p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p>. &lt;&lt;hyperlink to Where to Spend&gt;&gt;</p>
-<p><em>&nbsp;</em>
-</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I spend my Climate Vouchers?</strong>
-</p>
-<p>Tap on your unique voucher link from the SMS sent by <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp; Show the cashier any proof of the residential address
-that was used to claim the vouchers. The address displayed on the voucher
-should match the address displayed on the proof (e.g.NRIC).</p>
-<p>2.&nbsp;&nbsp;&nbsp; Choose the voucher amount you want to spend and show
-the QR code to the cashier for scanning.</p>
-<p>&nbsp;</p>
 <p><em>Vouchers can only be spent on eligible items.</em>
 </p>
-<p><em>Please refer to the step-by-step guide &lt;&lt;hyperlink to Resident Guide&gt;&gt; on how to claim and spend the $300 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Please refer to the </em><a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a>  <em>on how to claim and spend the $300 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;</em>
 </p>
-<p>&nbsp;</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I forgot to bring my NRIC. Are there other types of personal identification documents that are accepted?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I forgot to bring my NRIC. Are there other types of personal identification documents that are accepted?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>You may show the retailer your digital NRIC through the Singpass mobile
 app, or any recent utility bills or documents that show both your name
 and registered residential address. The address displayed on the voucher
 should match the address displayed on your digital NRIC, or bills/documents.</p>
-<p>&nbsp;</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Does the verification process of checking my residential address breach the Personal Data Protection Act (PDPA)?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Does the verification process of checking my residential address breach the Personal Data Protection Act (PDPA)?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>No, this step of checking your NRIC does not violate the PDPA, as it is
 required for verification purposes only, and not for sharing or marketing
 purposes. We seek your cooperation to allow the retail staff to check the
 address on your personal identification documents against the address on
 your voucher.</p>
-<p>&nbsp;</p>
 <p>Please ensure that the retailer does not take a photo or photocopy of
 your NRIC or any other personal identification document, and that the NRIC
 or any other personal identification document is returned to you immediately
 after verification.</p>
-<p>&nbsp;</p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I have to spend the full value of the Climate Vouchers (i.e., $300) in a single transaction?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Do I have to spend the full value of the Climate Vouchers (i.e., $300) in a single transaction?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>No. Each set of Climate Vouchers comes in multiple denominations ($2,
 $5, $10, $50) adding up to $300. You may select the voucher amount you
 would like to spend. For example, you can spend $30 worth of Climate Vouchers
 on eligible LED lights today and use the remaining $270 at a later date
 on another eligible product.</p>
-<p>&nbsp;</p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
+</div>
+</details>
+</div>
+<p><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
+</p>
+<p></p>
+<p></p>
+<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
 </p>
 <p>Multiple Climate Vouchers across households cannot be combined in a single
 transaction.</p>
