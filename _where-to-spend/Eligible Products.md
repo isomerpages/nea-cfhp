@@ -7,8 +7,8 @@ description: ""
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/mels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/Slide1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/mels" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/Slide1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Air-conditioners" src="/images/ECFHP   Eligible Products/Slide2.png">
@@ -19,7 +19,19 @@ description: ""
 <div class="isomer-card-description">5-ticks and above</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/direct-current-fans" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Direct Current Fans</div><div class="isomer-card-description">Uses Direct Current (DC) motor (Excludes ceiling fans with DC motor but with non-LED lights)</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/direct-current-fans" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Direct Current Fans</div><div class="isomer-card-description">Uses Direct Current (DC) motor (Excludes ceiling fans with DC motor but with non-LED lights)</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LED lights" src="/images/ECFHP   Eligible Products/Slide3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">LED lights</div>
+<div class="isomer-card-description">2-ticks and above LED lights (Includes LED circular lights and LED downlights)</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a>
 </div>
 <table>
 <tbody>
