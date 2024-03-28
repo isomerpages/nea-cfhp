@@ -35,17 +35,7 @@ the SMS to share the vouchers with household members.</p>
 </div>
 </li>
 </ol>
-<p>&lt; add code for boxed up highlight &gt;</p>
-<p><strong>Important</strong>
-</p>
-<p>You will receive an SMS from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> with
-the unique voucher link after you have claimed your Climate Vouchers at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a></strong>&nbsp;(i.e.
-upon completing Steps 1 to 3).</p>
-<p>Make sure that the unique voucher link you receive starts with <strong><a rel="noopener noreferrer nofollow" target="_blank">https://voucher.redeem.gov.sg/</a>.</strong> Do
-not trust or click on any voucher links starting with other prefixes.</p>
-<p>Do note that NEA, PUB and RedeemSG will never send any SMS asking for
-your personal information or banking details to claim your Climate Vouchers.
-If you receive such an SMS, do not click on the link or reply.</p>
+   <style> .light-red-box { background-color: #FF7F7F; padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style>   <div class="light-red-box"> <p><strong>Important</strong></p> <p>You will receive an SMS from gov.sg with the unique voucher link after you have claimed your Climate Vouchers at <a href="https://go.gov.sg/cv-claim">go.gov.sg/cv-claim</a> (i.e. upon completing Steps 1 to 3).</p> <p>Make sure that the unique voucher link you receive starts with <strong>https://voucher.redeem.gov.sg/</strong>. Do not trust or click on any voucher links starting with other prefixes.</p> <p>Do note that NEA, PUB and RedeemSG will never send any SMS asking for your personal information or banking details to claim your Climate Vouchers. If you receive such an SMS, do not click on the link or reply.</p> </div>  
 <h3>How to spend your Climate Vouchers?</h3>
 <ol data-tight="true" class="tight">
 <li>
