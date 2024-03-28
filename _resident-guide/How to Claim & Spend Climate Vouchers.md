@@ -13,15 +13,24 @@ description: ""
 <p><strong>Visit <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a></strong> and
 tap on ‘Climate Vouchers’.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Campaign_listing.png">
+</div>
 </li>
 <li>
 <p><strong>Log in with Singpass</strong>. Only one household member needs
 to do this.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP.png">
+</div>
 </li>
 <li>
 <p><strong>Receive the SMS link to your Climate Vouchers</strong>. Forward
 the SMS to share the vouchers with household members.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__SMS.png">
+</div>
 </li>
 </ol>
 <p>&lt; add code for boxed up highlight &gt;</p>
@@ -47,6 +56,9 @@ or banking details to claim the vouchers.</p>
 <li>
 <p><strong>Choose the amount to spend</strong>. Then tap on ‘Show voucher’.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP_1.png">
+</div>
 </li>
 <li>
 <p><strong>Show QR code at point of purchase</strong>. Cashier at the participating
@@ -54,6 +66,9 @@ store will scan it to offset your purchase.</p>
 </li>
 </ol>
 <p></p>
-<p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">FAQs.</a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Custom_Vouchers__QR.png">
+</div>
+<p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p>
 <p>&lt; insert claim button &gt;</p>
