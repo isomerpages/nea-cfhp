@@ -22,7 +22,8 @@ be provided with one set of $300 digital Climate Vouchers which can be
 claimed by logging in to RedeemSG via Singpass.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each eligible household will be entitled
 to one set of Climate Vouchers for its valid registered address during
-the programme period.<strong><br>Use of Climate Vouchers</strong>
+the programme period.</p>
+<p><strong>Use of Climate Vouchers</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers are only valid for
 the purchase of any product that carries the National Environment Agency
