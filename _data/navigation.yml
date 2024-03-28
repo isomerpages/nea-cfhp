@@ -12,3 +12,8 @@ links:
     collection: resources
   - title: Contact Us
     url: /contact-us
+    sublinks:
+      - title: Contact Us
+        url: /contact-us
+      - title: Whistleblowing
+        url: /permalink
