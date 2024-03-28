@@ -197,7 +197,7 @@ find out more.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can spend your Climate Vouchers on eligible items at any participating
 retail store. You may refer to the full list of participating retailers
-<a href="https://www.climate-friendly-households.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="https://www.climate-friendly-households.gov.sg/cv-spend/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
