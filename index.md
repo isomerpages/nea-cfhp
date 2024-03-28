@@ -3,7 +3,7 @@ layout: homepage
 title: Climate Friendly Households Programme
 description: A NEA and PUB initiative to provide all 1-, 2- and 3-room HDB
   households with e-Vouchers for energy- and water- efficient appliances.
-image: /images/main logo.jpg
+image: /images/CV_logo.png
 permalink: /
 sections:
   - hero:
