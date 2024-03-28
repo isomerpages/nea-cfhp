@@ -307,77 +307,97 @@ you, they will have to produce a copy of your personal identification document
 </div>
 </div>
 </details>
-</div>
-<p></p>
-<p></p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I ask a non-household member to use my vouchers to buy eligible items for me?</strong>
-</p>
+<details class="isomer-details">
+<summary><strong>Can I ask a non-household member to use my vouchers to buy eligible items for me?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, you may authorise a non-household member to buy eligible items for
 you using your household’s vouchers. However, they will have to bring a
 copy of your personal identification document showing your HDB address
 for verification.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the Climate Vouchers be resold?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can the Climate Vouchers be resold?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>No. If the Climate Vouchers are found to have been resold, NEA or PUB
 reserves the right to void the Climate Vouchers issued, and to recover
 the monetary value of the Climate Vouchers utilised by the voucher-holder.</p>
-<p>&nbsp;</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do I get change back in cash if the purchase (e.g. $299) is less than the amount of digital vouchers that I want to spend (e.g. $300)?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Do I get change back in cash if the purchase (e.g. $299) is less than the amount of digital vouchers that I want to spend (e.g. $300)?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>There will be no cash change provided if the purchase amount is less than
 the voucher amount selected.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I find out how much value is left for my Climate Vouchers?</strong>
-</p>
-<p>You may access your voucher link in the SMS sent by <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> to find
-out the remaining balance of your Climate Vouchers. The value will be shown
-in the “Balance” as per the screenshot below.
-<br>
-<br><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I claimed my voucher while I was residing at Address A. I have since moved to Address B. The retailer did not allow me to use my voucher as the address on my personal identification document did not match my voucher address. What should I do?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How do I find out how much value is left for my Climate Vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may access your voucher link in the SMS sent by gov.sg to find out
+the remaining balance of your Climate Vouchers. The value will be shown
+in the “Balance” as per the screenshot below.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I claimed my voucher while I was residing at Address A. I have since moved to Address B. The retailer did not allow me to use my voucher as the address on my personal identification document did not match my voucher address. What should I do?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>You may request for another set of Climate Vouchers if you have moved
 to another HDB flat, subject to approval. Please write to <a href="mailto:nea@redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nea@redeem.gov.sg</u></a> to
 explain your circumstances and include any documents to support your case.
 The National Environmental Agency (NEA) will review it on a case-by-case
 basis.</p>
-<p>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I donate my Climate Vouchers?</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I donate my Climate Vouchers?</strong>&nbsp;&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>There is no option to donate the Climate Vouchers. The programme aims
 to encourage households to reduce their energy and water consumption, while
 saving costs in the long run. As such, we encourage you to use your vouchers
 to buy energy and/or water efficient appliances and/or fittings, if they
 need to be replaced.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong><u>Refunds &amp; Exchanges</u></strong>
-</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I request for a refund for the product I purchased using the Climate Voucher?</strong>
-</p>
+</div>
+</details>
+</div>
+<h3>Refunds &amp; Exchanges</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong> Can I request for a refund for the product I purchased using the Climate Voucher?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>All products purchased with the Climate Vouchers are strictly non-refundable.
 Please ensure that the products you are purchasing with the Climate Vouchers
 are suitable for your household, before proceeding with the purchase.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I do an exchange for other eligible products if the product I purchased using Climate Voucher is not suitable?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I do an exchange for other eligible products if the product I purchased using Climate Voucher is not suitable?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>This is subject to the exchange policy of the participating retailer.
 Please note that if your retailer allows exchanges, the replacement product
 must be an eligible product under the enhanced CFHP.</p>
-<p>&nbsp;</p>
-<p><strong><u>RedeemSG</u></strong>
-</p>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to find out more about the system that is behind the Climate Vouchers.</strong>
-</p>
+</div>
+</details>
+</div>
+<h3>RedeemSG</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>I would like to find out more about the system that is behind the Climate Vouchers.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
 system for Singapore. RedeemSG is built by Open Government Products. For
 more information, please refer to <a href="http://redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>redeem.gov.sg</u></a> website and their
-<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u> 
+<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u>
 </a>.</p>
+</div>
+</details>
+</div>
 <p></p>
