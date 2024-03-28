@@ -1,5 +1,5 @@
 collections:
-  unlinked-enhanced-cfhp:
+  enhanced-resources:
     output: true
     order:
       - Programme Brochures.md
