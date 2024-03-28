@@ -2,5 +2,6 @@ collections:
   resident-guide:
     output: true
     order:
+      - Example Title.md
       - 如何领取及使用气候购物券.md
       - How to Claim & Spend Climate Vouchers.md
