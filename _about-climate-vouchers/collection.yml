@@ -2,5 +2,5 @@ collections:
   about-climate-vouchers:
     output: true
     order:
-      - Terms & Conditions.md
       - About Climate Vouchers.md
+      - Terms & Conditions.md
