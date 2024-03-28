@@ -71,8 +71,8 @@ tap on Climate Vouchers.</p>
 <p>c) Receive an SMS from gov.sg which will contain a unique link to your
 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-<p>Please refer to the <a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on
-how to claim and spend the $300 Climate Vouchers.</p>
+<p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
+the $300 Climate Vouchers.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -187,7 +187,7 @@ household products. These includes Refrigerators (3-ticks and above), Air
 conditioners (5-ticks and above), Direct current fans, LED lights (2-ticks
 and above), Washing machines (4-ticks), Water closets (3-ticks), Sink/Bib
 taps and mixers (3-ticks), Basin taps and mixers (3-ticks).</p>
-<p>Click <a href="https://www.climate-friendly-households.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more.</p>
 </div>
 </details>
@@ -197,7 +197,7 @@ find out more.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can spend your Climate Vouchers on eligible items at any participating
 retail store. You may refer to the full list of participating retailers
-<a href="https://www.climate-friendly-households.gov.sg/cv-spend/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="/cv-spend/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
