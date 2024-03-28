@@ -22,25 +22,22 @@ sections:
   - infobar:
       title: Claim your Climate Vouchers
       id: infobar
-      description: "Claiming your Climate Vouchers is easy and hassle free! Only one
-        household member needs to do this for the household. "
+      description: Claiming your Climate Vouchers is easy and hassle free! Only one
+        household member needs to do this for the household.
       button: Claim Now
       url: https://go.gov.sg/cv-claim
   - infobar:
       title: Where to spend your Climate Vouchers?
       id: infobar
-      description: "Spend your $300 Climate Vouchers at participating retailers,
-        including electronic stores and supermarkets. "
+      description: Spend your $300 Climate Vouchers at participating retailers,
+        including electronic stores and supermarkets.
       button: Find participating retailers
       url: /cv-spend
   - infobar:
       title: Frequently Asked Questions
       id: infobar
-      description: "Have questions? Check out the Frequently Asked Questions. "
+      description: Have questions? Check out the Frequently Asked Questions.
       button: Read our FAQ here
       url: /cv-faqs
-notification: The current phase of the programme has concluded. The enhanced
-  programme will commence on 15 April 2024, where all HDB households will
-  receive $300 worth of Climate Vouchers to purchase 10 types of eligible
-  household products. More details will be available from 15 April 2024.
+notification: ""
 ---
