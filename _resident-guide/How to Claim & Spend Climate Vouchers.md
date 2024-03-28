@@ -31,7 +31,7 @@ to do this.</p>
 the SMS to share the vouchers with household members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/3__SMS.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP%20%20%20EN/.png">
 </div>
 </li>
 </ol>
