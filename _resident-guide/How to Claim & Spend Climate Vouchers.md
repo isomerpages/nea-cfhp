@@ -8,7 +8,7 @@ description: ""
 
 <h3>How to claim your Climate Vouchers?</h3>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=yUdrxaM6_CvQbTlu"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=vYTj0zcr6NwIfka9" height="315" width="560"></iframe>
 </div>
 <ol data-tight="true" class="tight">
 <li>
