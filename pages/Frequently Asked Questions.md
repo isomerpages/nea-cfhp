@@ -177,19 +177,29 @@ call 1800 255 0000 to make a police report.</p>
 </details>
 </div>
 <p></p>
+<h3>Spending your Climate Vouchers</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>What can I use my Climate Vouchers on?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
+household products. These includes Refrigerators (3-ticks and above), Air
+conditioners (5-ticks and above), Direct current fans, LED lights (2-ticks
+and above), Washing machines (4-ticks), Water closets (3-ticks), Sink/Bib
+taps and mixers (3-ticks), Basin taps and mixers (3-ticks).</p>
+<p>Click <a href="https://go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
-<p><strong>&nbsp;&nbsp;</strong>
-</p>
-<p></p>
-<p><strong><u>Spending your Climate Vouchers</u></strong>
-</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What can I use my Climate Vouchers on?</strong>
+</div>
+</details>
+</div>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
 </p>
 <p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
 household products. These includes Refrigerators (3-ticks and above), Air
