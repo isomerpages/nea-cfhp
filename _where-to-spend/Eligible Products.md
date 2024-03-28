@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/Slide1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card">
 <div class="isomer-card-image">
@@ -16,10 +14,10 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Air-conditioners</div>
-<div class="isomer-card-description">5-ticks and above</div>
+<div class="isomer-card-description">5-ticks</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/direct-current-fans" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Direct Current Fans</div><div class="isomer-card-description">Uses Direct Current (DC) motor (Excludes ceiling fans with DC motor but with non-LED lights)</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/direct-current-fans" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Direct current fans</div><div class="isomer-card-description">Uses Direct Current (DC) motor (Excludes ceiling fans with DC motor but with non-LED lights)</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -29,6 +27,42 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">LED lights</div>
 <div class="isomer-card-description">2-ticks and above LED lights (Includes LED circular lights and LED downlights)</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Washing machines" src="/images/ECFHP   Eligible Products/Slide10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Washing machines</div><div class="isomer-card-description">4-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Water closets" src="/images/ECFHP   Eligible Products/Slide6.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Water closets</div>
+<div class="isomer-card-description">3-ticks</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sink/Bib taps and mixers" src="/images/ECFHP   Eligible Products/Slide9.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sink/Bib taps and mixers</div><div class="isomer-card-description">3-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basin taps and mixers" src="/images/ECFHP   Eligible Products/Slide8.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Basin taps and mixers</div>
+<div class="isomer-card-description">3-ticks</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shower fittings" src="/images/ECFHP   Eligible Products/Slide7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shower fittings</div><div class="isomer-card-description">3-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/heat-pump-water-heaters" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Heat pump water heaters" src="/images/ECFHP   Eligible Products/Slide5.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Heat pump water heaters</div>
+<div class="isomer-card-description">Uses heat pump technology and is suitable for use in HDB flats</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a>
