@@ -2,7 +2,6 @@ collections:
   where-to-spend:
     output: true
     order:
-      - test 2.md
       - TEST.md
       - Where to Spend.md
       - Eligible Products.md
