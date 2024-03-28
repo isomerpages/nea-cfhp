@@ -1,4 +1,5 @@
 collections:
   about-climate-vouchers:
     output: true
-    order: []
+    order:
+      - About Climate Vouchers.md
