@@ -2,4 +2,5 @@ collections:
   resident-guide:
     output: true
     order:
+      - Example Title.md
       - How to Claim & Spend Climate Vouchers.md
