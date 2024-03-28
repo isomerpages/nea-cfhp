@@ -1,4 +1,5 @@
 collections:
   resident-guide:
     output: true
-    order: []
+    order:
+      - Resident Guide.md
