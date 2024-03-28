@@ -54,5 +54,6 @@ store will scan it to offset your purchase.</p>
 </li>
 </ol>
 <p></p>
-<p>For more information, please refer to our FAQs.</p>
+<p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">FAQs.</a>
+</p>
 <p>&lt; insert claim button &gt;</p>
