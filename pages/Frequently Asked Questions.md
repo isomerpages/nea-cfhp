@@ -193,27 +193,19 @@ find out more.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Where can I spend my Climate Vouchers?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>You can spend your Climate Vouchers on eligible items at any participating
+retail store. You may refer to the full list of participating retailers
+<a href="https://www.climate-friendly-households.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 </div>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p></p>
+<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
 </p>
-<p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
-household products. These includes Refrigerators (3-ticks and above), Air
-conditioners (5-ticks and above), Direct current fans, LED lights (2-ticks
-and above), Washing machines (4-ticks), Water closets (3-ticks), Sink/Bib
-taps and mixers (3-ticks), Basin taps and mixers (3-ticks).</p>
-<p>&nbsp;</p>
-<p>Click here &lt;&lt;hyperlink to products page&gt;&gt; to find out more.</p>
-<p>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Where can I spend my Climate Vouchers?</strong>
-</p>
-<p>You can spend your Climate Vouchers on eligible items at any participating
-retail store. You may refer to the full list of participating retailers
-here. &lt;&lt;hyperlink to Where to Spend&gt;&gt;</p>
+<p>. &lt;&lt;hyperlink to Where to Spend&gt;&gt;</p>
 <p><em>&nbsp;</em>
 </p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I spend my Climate Vouchers?</strong>
