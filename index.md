@@ -7,10 +7,10 @@ image: /images/CV_logo.png
 permalink: /
 sections:
   - hero:
-      title: Climate Friendly Households Programme
+      title: $300 Climate Vouchers for every HDB household
       background: /images/cfhp banner-02.png
-      button: FAQs - Enhanced programme launching 15 april 2024
-      url: /faq/enhanced
+      button: Claim your Climate Voucher before 31 Dec 2027
+      url: go.gov.sg/cv-claim
   - infobar:
       title: Redeeming your Climate Vouchers
       subtitle: HOW TO REDEEM
