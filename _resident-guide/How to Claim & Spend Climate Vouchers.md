@@ -12,16 +12,16 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+
+</th><td rowspan="1" colspan="1">
 <p>$300 to spend at participating retailers</p>
-</th>
-</tr>
+
+</td></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 12%;" height="auto" width="100%" alt="" src="/images/2.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 12%;" height="auto" width="100%" alt="" src="/images/3.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ description: ""
 </table>
 <h3>How to claim your Climate Vouchers?</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=yUdrxaM6_CvQbTlu"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=yUdrxaM6_CvQbTlu"></iframe>
 </div>
 <ol data-tight="true" class="tight">
 <li>
