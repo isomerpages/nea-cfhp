@@ -23,7 +23,7 @@ for the enhanced CFHP vouchers, the following needs to be met :</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong> I will be moving into my BTO/re-sale flat soon. Am I eligible for the programme?</strong>
+<summary><strong>I will be moving into my BTO/re-sale flat soon. Am I eligible for the programme?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, all new HDB flat homeowners are eligible for the vouchers during
@@ -122,7 +122,7 @@ to the high volume of requests.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong> I have previously claimed my Climate Vouchers but misplaced my voucher link. How can I retrieve it again?</strong>
+<summary><strong>I have previously claimed my Climate Vouchers but misplaced my voucher link. How can I retrieve it again?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
@@ -161,7 +161,22 @@ Do not trust vouchers starting with other prefixes.</p>
 </details>
 </div>
 <p></p>
-<p><strong>&nbsp;&nbsp; </strong>
+<p>A sample of the SMS sent from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.
+Only trust SMSes from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> that
+follow this format.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I’ve received an SMS asking me to key in my NRIC and personal details to claim my Climate Vouchers. Is it a scam?</strong>
+</p>
+<p>NEA, PUB and &nbsp;RedeemSG will never send any SMS asking for your personal
+information or banking details to claim your Climate Vouchers. If you receive
+such an SMS, please do not click on the link or reply.</p>
+<p>&nbsp;</p>
+<p>If you detect any suspicious messages relating to RedeemSG or Climate
+Vouchers, please contact NEA at 6225 5632, or submit the information online
+at <a rel="noopener noreferrer nofollow" target="_blank">https://www.police.gov.sg/I-Witness</a> or
+call 1800 255 0000 to make a police report.</p>
+<p><strong>&nbsp;&nbsp;</strong>
 </p>
 <p></p>
 <p><strong><u>Spending your Climate Vouchers</u></strong>
