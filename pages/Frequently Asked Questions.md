@@ -260,44 +260,58 @@ on eligible LED lights today and use the remaining $270 at a later date
 on another eligible product.</p>
 </div>
 </details>
-</div>
-<p><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
-</p>
-<p></p>
-<p></p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>
-</p>
+<details class="isomer-details">
+<summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Multiple Climate Vouchers across households cannot be combined in a single
 transaction.</p>
-<p>&nbsp;</p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have completed my purchase without redeeming the Climate Voucher. Can I get reimbursed directly from NEA or PUB?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I have completed my purchase without redeeming the Climate Voucher. Can I get reimbursed directly from NEA or PUB?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Only participating merchants can accept the Climate Vouchers. NEA/PUB
 does not reimburse residents for vouchers that are not redeemed<strong>.</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I spend my Climate Vouchers for online transactions?</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I spend my Climate Vouchers for online transactions?</strong>&nbsp;&nbsp;&nbsp;&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The Climate Vouchers are only accepted in-store through physical payment.
 Climate Vouchers cannot be used for in-app or online transactions.</p>
-<p>&nbsp;</p>
-<p><strong>10.&nbsp;&nbsp; Can my household member (e.g. my child) spend the Climate Vouchers on my behalf?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can my household member (e.g. my child) spend the Climate Vouchers on my behalf?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. You may share your unique voucher link with your household members,
-by clicking on&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-“Info &amp; help”, followed by “Share your vouchers”. You can also forward
-the voucher link SMS from <a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> to
-your household members directly. However, please be careful when sharing
-your unique voucher link with others as anyone with access to the link
-may be able to spend the vouchers. We seek your understanding that there
-will be no reinstatement made for vouchers that were shared erroneously.</p>
-<p>&nbsp;</p>
+by clicking on&nbsp;“Info &amp; help”, followed by “Share your vouchers”.
+You can also forward the voucher link SMS from gov.sg to your household
+members directly. However, please be careful when sharing your unique voucher
+link with others as anyone with access to the link may be able to spend
+the vouchers. We seek your understanding that there will be no reinstatement
+made for vouchers that were shared erroneously.</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family member lives with
 you, they can produce their own NRIC or any document showing their HDB
 residential address to the retail staff at the point of purchase.</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family member does not live with
 you, they will have to produce a copy of your personal identification document
 (showing your HDB address) to the retail assistant at the point of purchase.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Screenshot_2024_03_28_at_11_41_47_PM.png">
+</div>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p>&nbsp;</p>
+<p></p>
 <p></p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I ask a non-household member to use my vouchers to buy eligible items for me?</strong>
 </p>
