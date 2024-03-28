@@ -57,7 +57,4 @@ from different addresses in a single transaction</p>
 <p><strong>Subheader 3: Reporting Channels</strong>
 </p>
 <p>To make a report on any irregularities concerning the Climate Vouchers,
-please provide more details via this form.</p>
-<p>&nbsp;</p>
-<p><strong><a href="https://form.gov.sg/admin/form/660552388f2033f0a0252c04/preview" rel="noopener noreferrer nofollow" target="_blank">FormSG</a></strong>
-</p>
+please provide more details via this <a href="go.gov.sg/cfhp-cv-whistleblowing" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
