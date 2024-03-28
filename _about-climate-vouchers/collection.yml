@@ -1,0 +1,4 @@
+collections:
+  about-climate-vouchers:
+    output: true
+    order: []
