@@ -218,7 +218,7 @@ cashier for scanning.</p>
 </ol>
 <p><em>Vouchers can only be spent on eligible items.</em>
 </p>
-<p><em>Please refer to the </em><a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a>  <em>on how to claim and spend the $300 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;</em>
+<p><em>Please refer to the </em><a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a>  <em>on how to claim and spend the $300 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;</em>
 </p>
 </div>
 </details>
