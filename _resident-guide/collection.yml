@@ -2,6 +2,7 @@ collections:
   resident-guide:
     output: true
     order:
+      - Testing/.keep
       - How to Claim & Spend Climate Vouchers.md
       - 如何领取及使用气候购物券.md
       - Malay Text.md
