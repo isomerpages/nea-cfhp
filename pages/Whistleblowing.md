@@ -65,4 +65,4 @@ accurate.</p>
 </ul>
 <h4><strong>Reporting Channels</strong></h4>
 <p>To make a report on any irregularities concerning the Climate Vouchers,
-please provide more details via this <a href="go.gov.sg/cfhp-cv-whistleblowing" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+please provide more details via this <a href="https://go.gov.sg/cfhp-cv-whistleblowing" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
