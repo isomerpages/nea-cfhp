@@ -12,8 +12,9 @@ description: ""
 <p><em>Last updated 15 Apr 2024</em>
 </p>
 <h4>Legend</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Legend.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend.png">
 </div>
 <p>Let’s play our part to recycle our electronic appliances when they are
 due for replacement. This not only conserves Earth’s precious natural resources
