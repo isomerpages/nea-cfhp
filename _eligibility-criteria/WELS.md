@@ -9,6 +9,6 @@ description: ""
 search for eligible products, remember to use the correct filters!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/wels3tick.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/wels3tick.png">
 </div>
 <p></p>
