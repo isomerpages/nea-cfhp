@@ -384,6 +384,16 @@ must be an eligible product under the enhanced CFHP.</p>
 </div>
 </details>
 </div>
+<h3>Retailer</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>I am a retailer that is interested to participate in the programme. How can I find out more?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h3>RedeemSG</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
