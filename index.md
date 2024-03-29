@@ -8,7 +8,7 @@ permalink: /
 sections:
   - hero:
       title: $300 Climate Vouchers for every HDB household
-      background: /images/cfhp banner-02.png
+      background: /images/NEA_CFHP_Web_Banner.jpg
       button: Claim your Climate Voucher before 31 Dec 2027
       url: https://go.gov.sg/cv-claim
   - infobar:
