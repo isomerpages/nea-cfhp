@@ -9,7 +9,7 @@ description: ""
 for eligible products, remember to use the correct filters!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Labels/mels.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Labels/mels.jpg">
 </div>
 <table>
 <tbody>
