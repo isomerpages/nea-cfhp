@@ -67,7 +67,6 @@ description: ""
 </div>
 </a>
 </div>
-<hr>
 <p>Let’s play our part to recycle our electronic appliances when they are
 due for replacement. This not only conserves Earth’s precious natural resources
 but also protects human and environmental health.&nbsp;<strong>&nbsp;</strong>
