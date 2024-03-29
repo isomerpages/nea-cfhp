@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/10_products___600_x_400mm_resize.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/With logo/Slide11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Air-conditioners" src="/images/ECFHP   Eligible Products/Slide2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Air-conditioners" src="/images/ECFHP   Eligible Products/With logo/Slide12.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -29,11 +29,11 @@ description: ""
 <div class="isomer-card-description">2-ticks and above LED lights (Includes LED circular lights and LED downlights)</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Washing machines" src="/images/ECFHP   Eligible Products/Slide10.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Washing machines</div><div class="isomer-card-description">4-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Washing machines" src="/images/ECFHP   Eligible Products/With logo/Slide20.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Washing machines</div><div class="isomer-card-description">4-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Water closets" src="/images/ECFHP   Eligible Products/Slide6.png">
+<img style="width: 100%" height="auto" width="100%" alt="Water closets" src="/images/ECFHP   Eligible Products/With logo/Slide16.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -41,11 +41,11 @@ description: ""
 <div class="isomer-card-description">3-ticks</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sink/Bib taps and mixers" src="/images/ECFHP   Eligible Products/Slide9.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sink/Bib taps and mixers</div><div class="isomer-card-description">3-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sink/Bib taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide19.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sink/Bib taps and mixers</div><div class="isomer-card-description">3-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Basin taps and mixers" src="/images/ECFHP   Eligible Products/Slide8.png">
+<img style="width: 100%" height="auto" width="100%" alt="Basin taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide18.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,7 +53,7 @@ description: ""
 <div class="isomer-card-description">3-ticks</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shower fittings" src="/images/ECFHP   Eligible Products/Slide7.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shower fittings</div><div class="isomer-card-description">3-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Shower fittings" src="/images/ECFHP   Eligible Products/With logo/Slide17.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Shower fittings</div><div class="isomer-card-description">3-ticks</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/heat-pump-water-heaters" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
