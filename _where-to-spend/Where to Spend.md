@@ -6,7 +6,7 @@ description: ""
 ---
 <h1>Where to spend your Climate Vouchers?</h1>
 <p>Locate your nearest participating retailer from the map.</p>
-<p><strong>Last updated DD MMM YYYY</strong>
+<p><strong>Last updated 15 APR 2024</strong>
 </p>
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
@@ -25,6 +25,4 @@ is required to help you dispose of your unwanted/ old appliance of the
 same product type for <strong><u>free</u></strong> upon request.</p>
 <p>You may also dispose your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="_blank">E-Waste Collection Points</a> located
 island-wide.</p>
-<p></p>
-<p>&lt;&lt;Include claim button&gt;&gt;</p>
 <p></p>
