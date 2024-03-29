@@ -13,7 +13,7 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/1.png">
 </div>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>$300 to spend at participating retailers</p>
 </th>
 </tr>
@@ -24,7 +24,7 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2.png">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>10 different types of energy- and water- efficient appliances and fittings</p>
 </td>
 </tr>
@@ -35,7 +35,7 @@ description: ""
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/3.png">
 </div>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Spend your vouchers by 31 December 2027</p>
 </td>
 </tr>
