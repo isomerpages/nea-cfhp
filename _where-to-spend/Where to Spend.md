@@ -6,18 +6,15 @@ description: ""
 ---
 <h1>Where to spend your Climate Vouchers?</h1>
 <p>Locate your nearest participating retailer from the map.</p>
-<p><strong>Last updated 15 APR 2024</strong>
+<p><em>Last updated 15 Apr 2024</em>
 </p>
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div>
 <h4>Legend</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Legend.png">
 </div>
-<hr>
-<p></p>
 <p>Let’s play our part to recycle our electronic appliances when they are
 due for replacement. This not only conserves Earth’s precious natural resources
 but also protects human and environmental health.&nbsp;<strong>&nbsp;</strong>
