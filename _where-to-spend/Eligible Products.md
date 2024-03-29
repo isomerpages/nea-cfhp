@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/Slide1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/10_products___600_x_400mm_resize.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3-ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
