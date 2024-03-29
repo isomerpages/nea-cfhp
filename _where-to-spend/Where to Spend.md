@@ -13,6 +13,9 @@ description: ""
 </div>
 <h4>Legend</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Legend.png">
+</div>
 <hr>
 <p></p>
 <p>Let’s play our part to recycle our electronic appliances when they are
