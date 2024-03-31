@@ -2,5 +2,4 @@ collections:
   eligibility-criteria:
     output: true
     order:
-      - Direct Current Fans.md
       - Heat Pump Water Heaters.md
