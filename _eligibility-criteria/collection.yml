@@ -2,7 +2,6 @@ collections:
   eligibility-criteria:
     output: true
     order:
-      - MELS.md
       - WELS.md
       - Direct Current Fans.md
       - Heat Pump Water Heaters.md
