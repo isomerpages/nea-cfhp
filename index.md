@@ -19,6 +19,30 @@ sections:
         water-efficient products.
       button: Find out more
       url: /about-cv
+  - textcards:
+      title: Claim & Spend Climate Vouchers
+      subtitle: How to
+      id: textcards
+      cards:
+        - title: Step-by-Step Guide
+          description: Step-by-Step Guide on how you can claim and spend your Climate
+            Vouchers
+          linktext: Refer to this Guide
+          url: /claim-spend-eng
+        - title: Claim your Climate Vouchers
+          description: Only one household member needs to do this for the household.
+          linktext: Claim your vouchers here
+          url: https://go.gov.sg/cv-claim
+        - title: Where to Spend your Climate Vouchers?
+          description: Spend your $300 Climate Vouchers at participating retailers
+          linktext: Find Participating Retailers
+          url: /cv-spend
+  - infobar:
+      title: Frequently Asked Questions
+      id: infobar
+      description: Have questions? Check out the Frequently Asked Questions.
+      button: Read the FAQ here
+      url: /cv-faqs
   - infobar:
       title: Claim your Climate Vouchers
       id: infobar
@@ -33,29 +57,5 @@ sections:
         including electronic stores and supermarkets.
       button: Find participating retailers
       url: /cv-spend
-  - infobar:
-      title: Frequently Asked Questions
-      id: infobar
-      description: Have questions? Check out the Frequently Asked Questions.
-      button: Read our FAQ here
-      url: /cv-faqs
-  - textcards:
-      title: About Climate Vouchers
-      id: textcards
-      description: Visit our <a href="/about-cv">find out more</a> page to learn more
-        about us.<p></p>
-      cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 notification: ""
 ---
