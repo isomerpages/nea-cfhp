@@ -39,5 +39,23 @@ sections:
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read our FAQ here
       url: /cv-faqs
+  - textcards:
+      title: About Climate Vouchers
+      id: textcards
+      description: Visit our <a href="/about-cv">find out more</a> page to learn more
+        about us.<p></p>
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 notification: ""
 ---
