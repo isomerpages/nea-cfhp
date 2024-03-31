@@ -2,10 +2,10 @@ collections:
   where-to-spend:
     output: true
     order:
+      - Where to Spend.md
+      - Eligible Products.md
+      - Eligibility Criteria/.keep
       - Eligibility Criteria/Heat Pump Water Heaters.md
       - Eligibility Criteria/Direct Current Fans.md
       - Eligibility Criteria/WELS.md
       - Eligibility Criteria/MELS.md
-      - Eligibility Criteria/.keep
-      - Where to Spend.md
-      - Eligible Products.md
