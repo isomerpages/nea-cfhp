@@ -4,7 +4,6 @@ permalink: /cv-spend/
 variant: tiptap
 description: ""
 ---
-<h1>Where to spend your Climate Vouchers?</h1>
 <p>Locate your nearest participating retailer from the map.</p>
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
