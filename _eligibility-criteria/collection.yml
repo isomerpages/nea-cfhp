@@ -1,5 +1,4 @@
 collections:
   eligibility-criteria:
     output: true
-    order:
-      - Heat Pump Water Heaters.md
+    order: []
