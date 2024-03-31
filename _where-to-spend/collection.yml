@@ -2,5 +2,6 @@ collections:
   where-to-spend:
     output: true
     order:
+      - Eligibility Criteria/.keep
       - Where to Spend.md
       - Eligible Products.md
