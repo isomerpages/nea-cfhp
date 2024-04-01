@@ -47,7 +47,7 @@ accurate.</p>
 <p>Any other information that may substantiate the concern.</p>
 </li>
 </ul>
-<p>All cases of whistleblowing will be reported to the Climate Vouchers team</p>
+<p>All cases of whistleblowing will be reported to the Climate Vouchers team.</p>
 <h3><strong>Examples of Reportable Incidents</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
