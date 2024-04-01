@@ -45,7 +45,7 @@ description: ""
 <p>Locate your nearest participating retailer from the map. To filter retailers
 based on the eligible products they carry,</p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/Icon.png">
+<img style="width: 4%;" height="auto" width="100%" alt="" src="/images/Icon.png">
 </div>
 <p>simply select the icon located in the top left corner of the map.<em> Last updated 15 Apr 2024</em>
 </p>
