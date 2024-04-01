@@ -4,3 +4,37 @@ permalink: /contact-us/
 variant: tiptap
 description: ""
 ---
+<h1>Get in touch with NEA and PUB</h1>
+<p></p>
+<h4>Contact Us</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NEA General Enquiries</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>PUB General Enquiries</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>+65 6225 5632</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 225 5782</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Alternatively, you may email us at nea@redeem.gov.sg</p>
+<p></p>
+<p></p>
