@@ -6,9 +6,9 @@ links:
     collection: resident-guide
   - title: Where to Spend
     collection: where-to-spend
-  - title: Contact Us
-    collection: contact-us
   - title: FAQs
     url: /cv-faqs
+  - title: Contact Us
+    collection: contact-us
   - title: Resources
     collection: resources
