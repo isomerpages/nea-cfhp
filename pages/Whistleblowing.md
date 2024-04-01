@@ -54,13 +54,14 @@ accurate.</p>
 <p>Exchange of eligible product for an ineligible product</p>
 </li>
 <li>
-<p>Unauthorised refund of Climate Vouchers</p>
+<p>Refund of Climate Vouchers</p>
 </li>
 <li>
-<p>Selling of Climate Vouchers</p>
+<p>Sale of Climate Vouchers</p>
 </li>
 <li>
-<p>Using multiple Climate Vouchers from different addresses in a single transaction</p>
+<p>Use of multiple Climate Vouchers from different addresses in a single
+transaction</p>
 </li>
 </ul>
 <h4><strong>Reporting Channels</strong></h4>
