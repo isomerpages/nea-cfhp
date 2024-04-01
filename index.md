@@ -43,19 +43,5 @@ sections:
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
-  - infobar:
-      title: Claim your Climate Vouchers
-      id: infobar
-      description: Claiming your Climate Vouchers is easy and hassle free! Only one
-        household member needs to do this for the household.
-      button: Claim Now
-      url: https://go.gov.sg/cv-claim
-  - infobar:
-      title: Where to spend your Climate Vouchers?
-      id: infobar
-      description: Spend your $300 Climate Vouchers at participating retailers,
-        including electronic stores and supermarkets.
-      button: Find participating retailers
-      url: /cv-spend
 notification: ""
 ---
