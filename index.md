@@ -24,7 +24,7 @@ sections:
       cards:
         - title: Step-by-Step Guide
           description: Step-by-Step Guide on how you can claim and spend your Climate
-            Vouchers
+            Vouchers.
           linktext: Refer to this Guide
           url: /claim-spend-eng
         - title: Claim your Climate Vouchers
@@ -32,7 +32,7 @@ sections:
           linktext: Claim your vouchers here
           url: https://go.gov.sg/cv-claim
         - title: Where to Spend your Climate Vouchers?
-          description: Spend your $300 Climate Vouchers at participating retailers
+          description: Spend your $300 Climate Vouchers at participating retailers.
           linktext: Find Participating Retailers
           url: /cv-spend
   - infobar:
