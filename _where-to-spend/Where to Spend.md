@@ -98,6 +98,7 @@ based on the eligible products they carry,</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo/Resized/Slide12.png">
 </div>
+<p>T.S. Yong Trading</p>
 </td>
 </tr>
 <tr>
