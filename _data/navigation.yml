@@ -1,5 +1,7 @@
 logo: /images/CV_logo.png
 links:
+  - title: Contact Us
+    collection: contact-us
   - title: About
     collection: about
   - title: Resident Guide
@@ -8,7 +10,5 @@ links:
     collection: where-to-spend
   - title: FAQs
     url: /cv-faqs
-  - title: Contact Us
-    collection: contact-us
   - title: Resources
     collection: resources
