@@ -26,6 +26,9 @@ description: ""
 <h4>Posters</h4>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Poster_EM.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Resources/Poster_CT.png">
