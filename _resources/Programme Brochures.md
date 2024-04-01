@@ -36,6 +36,6 @@ description: ""
 <p></p>
 <h4>Video</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=vYTj0zcr6NwIfka9"></iframe>
+   <style> .video-container { display: flex; justify-content: center; } </style>   <div class="video-container"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=vYTj0zcr6NwIfka9" height="315" width="560"></iframe> </div>  
 </div>
 <p></p>
