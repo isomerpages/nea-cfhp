@@ -27,10 +27,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Feedback Form</p>
+<p><a href="https://www.nea.gov.sg/corporate-functions/feedback" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Feedback Form</p>
+<p><a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a>
+</p>
 </td>
 </tr>
 </tbody>
