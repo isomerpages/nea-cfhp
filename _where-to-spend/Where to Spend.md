@@ -4,6 +4,21 @@ permalink: /cv-spend/
 variant: tiptap
 description: ""
 ---
+<p>Locate your nearest participating retailer from the map. To filter retailers
+based on the eligible products they carry,</p>
+<div class="isomer-image-wrapper">
+<img style="width: 4%;" height="auto" width="100%" alt="" src="/images/Icon.png">
+</div>
+<p>simply select the icon located in the top left corner of the map.<em> Last updated 15 Apr 2024</em>
+</p>
+<div class="iframe-wrapper">
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
+</div>
+<h4><em>Legend</em></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend.png">
+</div>
+<p></p>
 <h4>Participating Retailers</h4>
 <table>
 <tbody>
@@ -104,21 +119,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p>Locate your nearest participating retailer from the map. To filter retailers
-based on the eligible products they carry,</p>
-<div class="isomer-image-wrapper">
-<img style="width: 4%;" height="auto" width="100%" alt="" src="/images/Icon.png">
-</div>
-<p>simply select the icon located in the top left corner of the map.<em> Last updated 15 Apr 2024</em>
-</p>
-<div class="iframe-wrapper">
-<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
-</div>
-<h4><em>Legend</em></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend.png">
-</div>
 <p>Let’s play our part to recycle our electronic appliances when they are
 due for replacement. This not only conserves Earth’s precious natural resources
 but also protects human and environmental health.&nbsp;<strong>&nbsp;</strong>
@@ -214,12 +214,6 @@ island-wide.</p>
 </div>
 </a>
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo/Resized/Logo_resize.png">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo/Resized/Slide8.png">
-</div>
 <p></p>
