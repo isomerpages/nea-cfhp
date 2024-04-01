@@ -4,7 +4,7 @@ permalink: /contact-us/
 variant: markdown
 description: ""
 ---
-<style> .blue-text { color: #3380ff; font-size: 55px; font-weight: bold; line-height: 10; } </style>   <p class="blue-text">Get in touch with<br>NEA and PUB</p>   
+   <style> .blue-text { color: #3380ff; font-size: 58px; /\* Increased font size \*/ font-weight: bold; line-height: 1.6; /\* Adjusted line height \*/ } </style>   <p class="blue-text">Get in touch with<br><br>NEA and PUB</p>  
 <h4>Contact Us</h4>
 <table>
 <tbody>
