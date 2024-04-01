@@ -9,11 +9,13 @@ links:
   - title: FAQs
     url: /cv-faqs
   - title: Contact Us
+    collection: contact-us
+  - title: Resources
+    collection: resources
+  - title: Contact Us
     url: /contact-us
     sublinks:
       - title: Contact Us
         url: /contact-us
       - title: Whistleblowing
         url: /cv-whistleblowing
-  - title: Resources
-    collection: resources
