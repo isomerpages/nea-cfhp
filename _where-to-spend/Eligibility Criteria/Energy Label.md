@@ -12,29 +12,28 @@ third_nav_title: Eligibility Criteria
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Labels/mels.jpg">
 </div>
 <p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><em>Revised Label</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Old Label (Valid until Apr 2025</em>)</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Labels/240122___Energy_Label_3_ticks.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Labels/150105___Lighting_Label_3_Tick.jpg">
-</div>
-</th>
-</tr>
-</tbody>
+<table style="width: 100%;">
+  <tbody>
+    <tr>
+      <td rowspan="1" colspan="1" style="text-align: center;">
+        <strong>Revised Label</strong>
+      </td>
+      <td rowspan="1" colspan="1" style="text-align: center;">
+        <strong>Old Label (Valid until Apr 2025)</strong>
+      </td>
+    </tr>
+    <tr>
+      <th rowspan="1" colspan="1" style="text-align: center;">
+        <div class="isomer-image-wrapper">
+          <img style="width: 50%;" alt="" src="/images/Labels/240122___Energy_Label_3_ticks.jpg">
+        </div>
+      </th>
+      <th rowspan="1" colspan="1" style="text-align: center;">
+        <div class="isomer-image-wrapper">
+          <img style="width: 45%;" alt="" src="/images/Labels/150105___Lighting_Label_3_Tick.jpg">
+        </div>
+      </th>
+    </tr>
+  </tbody>
 </table>
 <p></p>
