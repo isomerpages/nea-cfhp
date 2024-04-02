@@ -10,7 +10,7 @@ sections:
       title: $300 Climate Vouchers for every HDB household
       background: /images/NEA_CFHP_Web_Banner.jpg
   - infobar:
-      title: About Climate Vouchers
+      title: Climate Vouchers
       id: infobar
       description: Under the Climate Friendly Households Programme, every HDB
         household will receive $300 in Climate Vouchers to purchase energy- and
