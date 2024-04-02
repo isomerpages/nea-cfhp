@@ -13,13 +13,12 @@ will be taken against him/her even if the investigation reveals no wrongdoing.
 However, firm action will be taken against any person who makes false,
 malicious, or frivolous report, including reporting the matter to the police.&nbsp;</p>
 <h3><strong>Information To Be Provided</strong></h3>
-<p>To encourage responsible use of the whistleblowing channel, you should
-identify yourself and indicate your name and contact details in the report.
-All disclosures will be treated with utmost confidence and every effort
-will be made not to reveal your identity to the extent feasible and permissible
-under the law. In reporting any fraudulent or unethical activity, you shall,
-to the best of your ability, ensure that the information you provide is
-accurate.</p>
+<p>To encourage responsible use of the whistleblowing channel, it is encouraged
+for name and contact details to be provided in the report. All disclosures
+will be treated with utmost confidence and every effort will be made not
+to reveal your identity to the extent feasible and permissible under the
+law. In reporting any fraudulent or unethical activity, you shall, to the
+best of your ability, ensure that the information you provide is accurate.</p>
 <p>Your report should provide the following information where possible:</p>
 <ul data-tight="true" class="tight">
 <li>
