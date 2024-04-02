@@ -8,7 +8,8 @@ description: ""
 <p>The following Terms and Conditions (“<strong>T&amp;Cs</strong>”) shall
 apply to the use of the vouchers (“<strong>Climate Vouchers</strong>”)
 for the Enhanced Climate Friendly Households Programme, administered by
-the National Environment Agency and PUB – The Water Agency (“<strong>Agencies</strong>”).</p>
+the National Environment Agency and PUB, Singapore's National Water Agency
+(“<strong>Agencies</strong>”).</p>
 <p><strong>About the Climate Vouchers</strong>
 </p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers worth $300 are denominated
