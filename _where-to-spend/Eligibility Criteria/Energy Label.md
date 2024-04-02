@@ -16,7 +16,6 @@ third_nav_title: Eligibility Criteria
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><em>Revised Label</em>
 </p>
 </td>
@@ -27,7 +26,7 @@ third_nav_title: Eligibility Criteria
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Labels/240122___Energy_Label_3_ticks.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Labels/240122___Energy_Label_3_ticks.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
