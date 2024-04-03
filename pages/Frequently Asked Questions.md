@@ -334,7 +334,7 @@ details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Total:</p>
+<p>Total:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24</p>
@@ -363,8 +363,7 @@ transaction.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Only participating merchants can accept the Climate Vouchers. NEA/PUB
-does not reimburse residents for vouchers that are not redeemed<strong>.</strong>
-</p>
+will not reimburse residents for unredeemed vouchers.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -385,12 +384,18 @@ members directly. However, please be careful when sharing your unique voucher
 link with others as anyone with access to the link may be able to spend
 the vouchers. We seek your understanding that there will be no reinstatement
 made for vouchers that were shared erroneously.</p>
-<p>a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family member lives with
-you, they can produce their own NRIC or any document showing their HDB
-residential address to the retail staff at the point of purchase.</p>
-<p>b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If your family member does not live with
-you, they will have to produce a copy of your personal identification document
-(showing your HDB address) to the retail assistant at the point of purchase.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If your family member lives with you, they can produce their own NRIC
+or any document showing their HDB residential address to the retail staff
+at the point of purchase.</p>
+</li>
+<li>
+<p>If your family member does not live with you, they will have to produce
+a copy of your personal identification document (showing your HDB address)
+to the retail assistant at the point of purchase.</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Screenshot_2024_03_28_at_11_41_47_PM.png">
@@ -404,16 +409,15 @@ you, they will have to produce a copy of your personal identification document
 <p>Yes, you may authorise a non-household member to buy eligible items for
 you using your household’s vouchers. However, they will have to bring a
 copy of your personal identification document showing your HDB address
-for verification.</p>
+for verification by the participating retailer.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Can the Climate Vouchers be resold?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>No. If the Climate Vouchers are found to have been resold, NEA or PUB
-reserves the right to void the Climate Vouchers issued, and to recover
-the monetary value of the Climate Vouchers utilised by the voucher-holder.</p>
+<p>The Climate Vouchers cannot be sold. Please refer to the Terms &amp; Conditions
+of the Climate Vouchers <a href="/terms-cv/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
