@@ -435,6 +435,10 @@ the voucher amount selected.</p>
 <p>You may access your voucher link in the SMS sent by gov.sg to find out
 the remaining balance of your Climate Vouchers. The value will be shown
 in the “Balance” as per the screenshot below.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Balance_w_box.png">
+</div>
 </div>
 </details>
 <details class="isomer-details">
