@@ -159,10 +159,10 @@ are not sent to the wrong mobile number.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An SMS with your unique voucher link will only be sent to your mobile
 number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name "<strong>gov.sg</strong>”.
+<p>The SMS can be identified by the sender name “<a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>”.
 Please also check that your unique voucher link starts with the following
-prefix, “<strong>voucher.redeem.gov.sg</strong>”. Do not trust vouchers
-starting with other prefixes.</p>
+prefix, “<a rel="noopener noreferrer nofollow" target="_blank">voucher.redeem.gov.sg</a>”.
+Do not trust vouchers starting with other prefixes.</p>
 <p></p>
 <p>A sample of the SMS sent from <strong>gov.sg</strong>. Only trust SMSes
 from <strong>gov.sg </strong>that follow this format.</p>
@@ -172,16 +172,16 @@ from <strong>gov.sg </strong>that follow this format.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I’ve received an SMS asking me to key in my NRIC and personal details to claim my Climate Vouchers. Is it a scam?</strong>
+<summary><strong>I have received an SMS asking me to key in my banking details to claim my Climate Vouchers. Is it a scam?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>NEA, PUB and &nbsp;RedeemSG will never send any SMS asking for your personal
-information or banking details to claim your Climate Vouchers. If you receive
-such an SMS, please do not click on the link or reply.</p>
+<p>NEA, PUB and RedeemSG will never send any SMS requesting for your banking
+details to claim your Climate Vouchers. If you receive such an SMS, please
+do not click on the link or reply</p>
 <p>If you detect any suspicious messages relating to RedeemSG or Climate
 Vouchers, please contact NEA at 6225 5632, or submit the information online
-at <a rel="noopener noreferrer nofollow" target="_blank">https://www.police.gov.sg/I-Witness</a> or
-call 1800 255 0000 to make a police report.</p>
+at <a href="https://www.police.gov.sg/I-Witness" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.police.gov.sg/I-Witness</u></a> or
+file a police report by calling 1800 255 0000.</p>
 </div>
 </details>
 </div>
