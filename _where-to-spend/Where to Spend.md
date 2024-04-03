@@ -4,7 +4,8 @@ permalink: /cv-spend/
 variant: markdown
 description: ""
 ---
-<p>Locate your nearest participating retailer from the map. To filter retailers based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" alt="" src="/images/Icon.png"> located in the top left corner of the map.</p>
+<p>Locate your nearest participating retailer from the map. To filter retailers based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list of participating retailers here. (will update link)</p>
+
 <div class="iframe-wrapper">
 <iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div>
@@ -113,6 +114,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-[](/files/List_of_Retailers___CFHP_Website.pdf)
 <p></p>
 <p></p>
