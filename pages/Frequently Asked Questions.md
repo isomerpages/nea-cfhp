@@ -11,7 +11,7 @@ description: ""
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Each HDB household is only entitled to one set of vouchers. To be eligible
-for the enhanced CFHP vouchers, the following needs to be met :</p>
+for the enhanced CFHP vouchers, the following needs to be met:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>You are a Singapore Citizen or Permanent Resident, and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -36,12 +36,11 @@ has been reflected in Singpass.</p>
 <summary><strong>If I was eligible for the previous CFHP, am I eligible to apply for another set of Climate Vouchers under the enhanced CFHP?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All HDB households are eligible for the new Climate Vouchers under the
-enhanced CFHP. You may claim a new set of vouchers at <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/cv-claim</u></a> regardless
-of whether you have redeemed Climate Vouchers under the previous CFHP.
-The enhanced CFHP vouchers will be available from 15 April 2024, and expire
-on 31 December 2027. The previous round of CFHP vouchers expired on 20
-March 2024.</p>
+<p>The previous round of CFHP vouchers expired on 20 March 2024.</p>
+<p>Regardless of whether you have redeemed Climate Vouchers under the previous
+CFHP, all HDB households are eligible for the new Climate Vouchers under
+the enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
+The enhanced CFHP vouchers will be available until 31 December 2027.</p>
 </div>
 </details>
 <details class="isomer-details">
