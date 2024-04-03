@@ -94,39 +94,41 @@ the $300 Climate Vouchers.</p>
 <summary><strong>I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to the following link for a list of <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions on Singpass</a>.</p>
+<p>You may visit this <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">link</a> for a list
+of Frequently Asked Questions on Singpass.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>I don’t have a Singpass account. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to the <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a> on
-Singpass.</p>
-<p></p>
+<p>You may wish to register for a Singpass account. Please refer to the guide
+on registering for a Singpass account <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Information on where you can get help to register for a Singpass account
 can be found under Getting Started &gt;&gt; About Singpass &gt;&gt; Where
 can I get help?</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Do I need a smartphone to access the vouchers?</strong>
+<summary><strong>Do I need a mobile device to access the vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, you need a smartphone with basic internet access.</p>
+<p>Yes, you will need a mobile device with an active mobile data or internet
+connection plan.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>I don’t have a mobile phone. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>If you do not have a mobile phone, please request a household member to
-claim the vouchers on behalf of your household.</p>
-<p>If you do not have a smartphone and/or is unable to access your Singpass,
-and would like to have paper vouchers instead, please submit your request
+<p>If you do not have a mobile device, please request a household member
+to claim the vouchers on behalf of your household</p>
+<p>If you do not have a mobile device and/or are unable to access your Singpass,
+and would like to have printed vouchers instead, please submit your request
 via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-We seek your understanding that the waiting time can be up to 6 weeks due
-to the high volume of requests.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+We seek your understanding that the waiting time may take up to 6 weeks
+upon receipt of your full details. Should you require further assistance,
+you may contact NEA at 6225 5632. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
