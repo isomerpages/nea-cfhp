@@ -50,8 +50,7 @@ the SMS to share the vouchers with household members.</p>
 </div>
 </li>
 <li>
-<p><strong>Show QR code at point of purchase</strong>. Cashier at the participating
-store will scan it to offset your purchase.</p>
+<p><strong>Show QR code at point of purchase.</strong></p>
 </li>
 </ol>
 <p></p>
