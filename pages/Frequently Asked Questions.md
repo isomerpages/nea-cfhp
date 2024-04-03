@@ -74,11 +74,19 @@ completion documents) to <a rel="noopener noreferrer nofollow" target="_blank">n
 <p>Please note that only one member needs to claim the Climate Vouchers on
 behalf of the entire household. You may forward the unique SMS link to
 share the vouchers with your household members.</p>
-<p>a. Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
+<ol data-tight="true" class="tight">
+<li>
+<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
 tap on Climate Vouchers.</p>
-<p>b. Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>c. Receive an SMS from gov.sg which will contain a unique link to your
-Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Receive an SMS from gov.sg which will contain a unique link to your Climate
+Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ol>
 <p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
 the $300 Climate Vouchers.</p>
 </div>
