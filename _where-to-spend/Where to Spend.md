@@ -113,6 +113,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-
+[](/files/List_of_Retailers___CFHP_Website.pdf)
 <p></p>
 <p></p>
