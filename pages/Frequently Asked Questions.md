@@ -446,10 +446,8 @@ in the “Balance” as per the screenshot below.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may request for another set of Climate Vouchers if you have moved
-to another HDB flat, subject to approval. Please write to <a href="mailto:nea@redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nea@redeem.gov.sg</u></a> to
-explain your circumstances and include any documents to support your case.
-The National Environmental Agency (NEA) will review it on a case-by-case
-basis.</p>
+to another HDB flat, subject to approval. Please submit your request, with
+the necessary documents, to <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -484,13 +482,20 @@ must be an eligible product under the enhanced CFHP.</p>
 </div>
 </details>
 </div>
-<h3>Retailer</h3>
+<h3>Retailers</h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>I am a retailer that is interested to participate in the programme. How can I find out more?</strong>
+<summary><strong>I am interested to participate in this programme as a retailer. How can I find out more?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>NEA welcomes retailers to be onboarded to the CFHP. To participate in
+the programme, which will run until 31 December 2027, your company would
+need to sell at least one of the <a href="/cv-spend" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>, and have a physical Point of
+Sales system (i.e. online transactions are not supported). Please note
+that retailer onboarding will be done in batches, and not on an ad-hoc
+basis as there are several stages in the onboarding process. You may reach
+out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
+more information.</p>
 </div>
 </details>
 </div>
@@ -502,9 +507,8 @@ must be an eligible product under the enhanced CFHP.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
 system for Singapore. RedeemSG is built by Open Government Products. For
-more information, please refer to <a href="http://redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>redeem.gov.sg</u></a> website and their
-<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank"><u>FAQs</u> 
-</a>.</p>
+more information, please refer to <a rel="noopener noreferrer nofollow" target="_blank">redeem.gov.sg</a> website
+and their <a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
 </div>
 </details>
 </div>
