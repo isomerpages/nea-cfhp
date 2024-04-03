@@ -55,7 +55,7 @@ the vouchers. For further clarification, please contact <a rel="noopener norefer
 </div>
 </details>
 <details class="isomer-details">
-<summary>I <strong>bought an existing HDB flat and have just moved in recently. If the previous owner of my HDB flat has already claimed the Climate Vouchers, am I still able to claim the Climate Vouchers for my household?</strong>
+<summary><strong>I bought an existing HDB flat and have just moved in recently. If the previous owner of my HDB flat has already claimed the Climate Vouchers, am I still able to claim the Climate Vouchers for my household?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes, each HDB household is entitled to one set of Climate Vouchers. For
