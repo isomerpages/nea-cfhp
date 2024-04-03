@@ -57,7 +57,7 @@ the SMS to share the vouchers with household members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Custom_Vouchers__QR.png">
 </div>
-<p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
+<p>For more information, please refer to our <a href="/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p><p>
 </p>
  
