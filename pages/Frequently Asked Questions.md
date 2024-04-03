@@ -245,7 +245,7 @@ cashier for scanning.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may show the retailer your digital NRIC through the Singpass mobile
-app, or any recent utility bills or documents that show both your name
+app, or any recent utility bills or documents that displays both your name
 and registered residential address. The address displayed on the voucher
 should match the address displayed on your digital NRIC, or bills/documents.</p>
 </div>
@@ -254,15 +254,15 @@ should match the address displayed on your digital NRIC, or bills/documents.</p>
 <summary><strong>Does the verification process of checking my residential address breach the Personal Data Protection Act (PDPA)?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>No, this step of checking your NRIC does not violate the PDPA, as it is
-required for verification purposes only, and not for sharing or marketing
-purposes. We seek your cooperation to allow the retail staff to check the
-address on your personal identification documents against the address on
-your voucher.</p>
+<p>No, this step of checking your NRIC does not violate the PDPA, as it will
+only be used for verification purposes, and should not be shared for marketing
+purposes. If requested, we seek your cooperation to allow the retail staff
+to check the address on your personal identification documents (or any
+recent utility bills or documents) against the address on your voucher.</p>
 <p>Please ensure that the retailer does not take a photo or photocopy of
 your NRIC or any other personal identification document, and that the NRIC
 or any other personal identification document is returned to you immediately
-after verification.</p>
+upon verification.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -270,10 +270,84 @@ after verification.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. Each set of Climate Vouchers comes in multiple denominations ($2,
-$5, $10, $50) adding up to $300. You may select the voucher amount you
-would like to spend. For example, you can spend $30 worth of Climate Vouchers
-on eligible LED lights today and use the remaining $270 at a later date
-on another eligible product.</p>
+$5, $10, $50) adding up to $300. You may refer to the table below for more
+details.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Denomination</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Quantity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sum</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$120</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$150</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Total:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$300</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>You may select the voucher amount you would like to spend. For example,
+you can spend $30 worth of Climate Vouchers on eligible LED lights today
+and use the remaining $270 at a later date on another eligible product.</p>
 </div>
 </details>
 <details class="isomer-details">
