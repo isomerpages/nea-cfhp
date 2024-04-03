@@ -39,8 +39,8 @@ has been reflected in Singpass.</p>
 <p>The previous round of CFHP vouchers expired on 20 March 2024.</p>
 <p>Regardless of whether you have redeemed Climate Vouchers under the previous
 CFHP, all HDB households are eligible for the new Climate Vouchers under
-the enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
-The enhanced CFHP vouchers will be available until 31 December 2027.</p>
+the enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>. The enhanced
+CFHP vouchers will be available until 31 December 2027.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -51,7 +51,17 @@ The enhanced CFHP vouchers will be available until 31 December 2027.</p>
 at an HDB flat are eligible to claim Climate Vouchers under the enhanced
 CFHP. As each eligible household is entitled to one set of Climate Vouchers,
 flat owners and their tenants should reach an agreement on who should claim
-the vouchers. For further clarification, please contact <a href="mailto:nea@redeem.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nea@redeem.gov.sg</u></a>.</p>
+the vouchers. For further clarification, please contact <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>I <strong>bought an existing HDB flat and have just moved in recently. If the previous owner of my HDB flat has already claimed the Climate Vouchers, am I still able to claim the Climate Vouchers for my household?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, each HDB household is entitled to one set of Climate Vouchers. For
+us to look into your case, please submit documents showing proof of your
+new residential address and the date of change of address (e.g. resale
+completion documents) to <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
@@ -64,12 +74,19 @@ the vouchers. For further clarification, please contact <a href="mailto:nea@rede
 <p>Please note that only one member needs to claim the Climate Vouchers on
 behalf of the entire household. You may forward the unique SMS link to
 share the vouchers with your household members.</p>
-<p>a) Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
+<ol data-tight="true" class="tight">
+<li>
+<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
 tap on Climate Vouchers.</p>
-<p>b) Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>c) Receive an SMS from gov.sg which will contain a unique link to your
-Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+</li>
+<li>
+<p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Receive an SMS from gov.sg which will contain a unique link to your Climate
+Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</li>
+</ol>
 <p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
 the $300 Climate Vouchers.</p>
 </div>
