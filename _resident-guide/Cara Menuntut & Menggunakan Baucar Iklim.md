@@ -4,19 +4,33 @@ permalink: /claim-spend-ml/
 variant: tiptap
 description: ""
 ---
+<h4>Cara menuntut Baucar Iklim anda</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Lungsuri <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
+Ketik pada 'Climate Vouchers’</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__2_.png">
+</div>
+</li>
+<li>
+<p>“Log in” dengan Singpass. Hanya seorang anggota isi rumah perlu lakukan
+ini bagi semua pihak di isi rumah mereka.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__11_.png">
+</div>
+</li>
+<li>
+<p>Terima pautan SMS ke Baucar Iklim anda. Hantar SMS untuk berkongsi baucar
+dengan anggota isi rumah.</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__1_.png">
+</div>
 <p></p>
-<p>$300 untuk digunakan di kedai-kedai yang mengambil bahagian.</p>
-<p>10 jenis peralatan dan kelengkapan jimat tenaga dan air yang berbeza</p>
-<p>Gunakan baucar anda sebelum 31 Disember 2027</p>
-<p>Cara menuntut Baucar Iklim anda</p>
-<p>Lungsuri <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.</p>
-<p>Ketik pada 'Climate Vouchers’</p>
-<p>“Log in” dengan Singpass.</p>
-<p>Hanya seorang anggota isi rumah perlu lakukan ini bagi semua pihak di
-isi rumah mereka.</p>
-<p>Terima pautan SMS ke Baucar Iklim anda.</p>
-<p>Hantar SMS untuk berkongsi baucar dengan anggota isi rumah.</p>
-<p>Penting</p>
+<p><strong>Penting</strong>
+</p>
 <p>Anda akan menerima SMS daripada <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> dengan pautan baucar yang unik selepas anda
 menuntut Baucar Iklim anda di <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> (iaitu setelah melengkapkan
 Langkah 1 hingga 3).</p>
