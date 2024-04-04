@@ -41,8 +41,8 @@ awalan lain.</p>
 sebarang SMS yang meminta butiran perbankan anda untuk menuntut Baucar
 Iklim anda. Jika anda menerima SMS sedemikian, jangan klik pada pautan
 atau membalas.</p>
-<p>Cara membelanjakan Baucar Iklim anda</p>
-<p>Tunjukkan bukti alamat beserta baucar</p>
+<p></p>
+<h4>Cara membelanjakan Baucar Iklim anda</h4>
 <p>Pilih jumlah yang hendak dibelanjakan.</p>
 <p>Kemudian ketik pada '‘Tunjukkan baucar’</p>
 <p>Tunjukkan kod QR kepada juruwang.</p>
