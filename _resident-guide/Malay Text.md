@@ -4,7 +4,7 @@ permalink: /claim-spend-ml/
 variant: tiptap
 description: ""
 ---
-<p>Cara Menuntut &amp; Menggunakan Baucar Iklim</p>
+<p></p>
 <p>$300 untuk digunakan di kedai-kedai yang mengambil bahagian.</p>
 <p>10 jenis peralatan dan kelengkapan jimat tenaga dan air yang berbeza</p>
 <p>Gunakan baucar anda sebelum 31 Disember 2027</p>
