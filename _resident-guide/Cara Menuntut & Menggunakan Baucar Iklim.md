@@ -59,7 +59,7 @@ baucar’</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__4_.png">
 </div>
 <p></p>
-<p>Untuk maklumat lanjut, sila rujuk kepada Soalan Lazim.</p>
+<p>Untuk maklumat lanjut, sila rujuk kepada <a href="/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Soalan Lazim</a>.</p>
 <p></p>
 <p>Tuntut Baucar Iklim anda di sini</p>
 <p></p>
