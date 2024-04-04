@@ -4,11 +4,34 @@ permalink: /claim-spend-ml/
 variant: tiptap
 description: ""
 ---
-<p>sad</p>
+<p>Cara Menuntut &amp; Menggunakan Baucar Iklim</p>
+<p>$300 untuk digunakan di kedai-kedai yang mengambil bahagian.</p>
+<p>10 jenis peralatan dan kelengkapan jimat tenaga dan air yang berbeza</p>
+<p>Gunakan baucar anda sebelum 31 Disember 2027</p>
+<p>Cara menuntut Baucar Iklim anda</p>
+<p>Lungsuri <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.</p>
+<p>Ketik pada 'Climate Vouchers’</p>
+<p>“Log in” dengan Singpass.</p>
+<p>Hanya seorang anggota isi rumah perlu lakukan ini bagi semua pihak di
+isi rumah mereka.</p>
+<p>Terima pautan SMS ke Baucar Iklim anda.</p>
+<p>Hantar SMS untuk berkongsi baucar dengan anggota isi rumah.</p>
+<p>Penting</p>
+<p>Anda akan menerima SMS daripada <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> dengan pautan baucar yang unik selepas anda
+menuntut Baucar Iklim anda di <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> (iaitu setelah melengkapkan
+Langkah 1 hingga 3).</p>
+<p>Pastikan pautan baucar unik yang anda terima bermula dengan <a href="https://voucher.redeem.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://voucher.redeem.gov.sg/</a>.
+Jangan mempercayai atau klik pada sebarang pautan baucar yang bermula dengan
+awalan lain.</p>
+<p>Sila ambil perhatian bahawa NEA, PUB dan RedeemSG tidak akan menghantar
+sebarang SMS yang meminta butiran perbankan anda untuk menuntut Baucar
+Iklim anda. Jika anda menerima SMS sedemikian, jangan klik pada pautan
+atau membalas.</p>
+<p>Cara membelanjakan Baucar Iklim anda</p>
+<p>Tunjukkan bukti alamat beserta baucar</p>
+<p>Pilih jumlah yang hendak dibelanjakan.</p>
+<p>Kemudian ketik pada '‘Tunjukkan baucar’</p>
+<p>Tunjukkan kod QR kepada juruwang.</p>
+<p>Untuk maklumat lanjut, sila rujuk kepada Soalan Lazim.</p>
+<p>Tuntut Baucar Iklim anda di sini</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__11_.png">
-</div>
-<p></p>
-
-<style> .light-red-box { background-color: #fdedeb; padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style>   <div class="light-red-box"> <p><strong>Important hello</strong></p> <p>You will receive an SMS from RedeemSG with the unique voucher link after you have claimed your Climate Vouchers at <a href="https://go.gov.sg/cv-claim">go.gov.sg/cv-claim</a> (i.e. upon completing Steps 1 to 3).</p> <p>The unique voucher link you receive should start with <strong>https://voucher.redeem.gov.sg/</strong>. Do not trust or click on any voucher links starting with unknown or other prefixes.</p> <p>Do note that NEA, PUB and RedeemSG will never send any SMS asking for your personal information or banking details to claim your Climate Vouchers. If you receive such an SMS, do not click on the link or reply. 如何领取和使用气候优惠券 10 விதமான எரிசக்தி, தண்ணீர் செயற்றிறன் மிக்க சாதனங்கள்</p> </div>
