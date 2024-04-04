@@ -1,5 +1,4 @@
 collections:
   unpublished-translations:
     output: true
-    order:
-      - பருவநிலைப் பற்றுச்சீட்டுகளை எவ்வாறு பெற்று செலவழிப்பது.md
+    order: []
