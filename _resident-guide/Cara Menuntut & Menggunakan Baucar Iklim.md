@@ -43,9 +43,23 @@ Iklim anda. Jika anda menerima SMS sedemikian, jangan klik pada pautan
 atau membalas.</p>
 <p></p>
 <h4>Cara membelanjakan Baucar Iklim anda</h4>
-<p>Pilih jumlah yang hendak dibelanjakan.</p>
-<p>Kemudian ketik pada '‘Tunjukkan baucar’</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Pilih jumlah yang hendak dibelanjakan. Kemudian ketik pada '‘Tunjukkan
+baucar’</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__12_.png">
+</div>
+</li>
+<li>
 <p>Tunjukkan kod QR kepada juruwang.</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__4_.png">
+</div>
+<p></p>
 <p>Untuk maklumat lanjut, sila rujuk kepada Soalan Lazim.</p>
+<p></p>
 <p>Tuntut Baucar Iklim anda di sini</p>
 <p></p>
