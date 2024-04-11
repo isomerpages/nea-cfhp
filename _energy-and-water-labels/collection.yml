@@ -1,4 +1,5 @@
 collections:
   energy-and-water-labels:
     output: true
-    order: []
+    order:
+      - Energy Label.md
