@@ -28,7 +28,7 @@ sections:
           linktext: Refer to this Guide
           url: /claim-spend-eng
         - title: Claim your Climate Vouchers
-          description: Only one household member needs to do this for the household.
+          description: Only one member needs to do this on behalf of the entire household.
           linktext: Claim your vouchers here
           url: https://go.gov.sg/cv-claim
         - title: Where to Spend your Climate Vouchers?
