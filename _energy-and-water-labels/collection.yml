@@ -1,0 +1,4 @@
+collections:
+  energy-and-water-labels:
+    output: true
+    order: []
