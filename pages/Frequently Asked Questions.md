@@ -166,10 +166,10 @@ are not sent to the wrong mobile number.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An SMS with your unique voucher link will only be sent to your mobile
 number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name “<a rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>”.
+<p>The SMS can be identified by the sender name "<strong>gov.sg</strong>".
 Please also check that your unique voucher link starts with the following
-prefix, “<a rel="noopener noreferrer nofollow" target="_blank">voucher.redeem.gov.sg</a>”.
-Do not trust vouchers starting with other prefixes.</p>
+prefix, "<strong>voucher.redeem.gov.sg</strong>". Do not trust vouchers
+starting with other prefixes.</p>
 <p></p>
 <p>A sample of the SMS sent from <strong>gov.sg</strong>. Only trust SMSes
 from <strong>gov.sg </strong>that follow this format.</p>
