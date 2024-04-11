@@ -265,7 +265,7 @@ upon verification.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Do I have to spend the full value of the Climate Vouchers (i.e., $300) in a single transaction?</strong>
+<summary><strong>Do I have to spend the full value of the Climate Vouchers (i.e. $300) in a single transaction?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. Each set of Climate Vouchers comes in multiple denominations ($2,
