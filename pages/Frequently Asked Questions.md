@@ -130,13 +130,12 @@ connection plan.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>If you do not have a mobile device, please request a household member
-to claim the vouchers on behalf of your household</p>
+to claim the vouchers on behalf of your household.</p>
 <p>If you do not have a mobile device and/or are unable to access your Singpass,
 and would like to have printed vouchers instead, please submit your request
 via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-We seek your understanding that the waiting time may take up to 6 weeks
-upon receipt of your full details. Should you require further assistance,
-you may contact NEA at 6225 5632. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+Should you require further assistance, you may contact NEA at 6225 5632.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
