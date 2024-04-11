@@ -489,8 +489,8 @@ must be an eligible product under the enhanced CFHP.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NEA welcomes retailers to be onboarded to the CFHP. To participate in
 the programme, which will run until 31 December 2027, your company would
-need to sell at least one of the <a href="/cv-spend" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>, and have a physical Point of
-Sales system (i.e. online transactions are not supported). Please note
+need to sell at least one of the <a href="/cv-products" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>, and have a physical Point
+of Sales system (i.e. online transactions are not supported). Please note
 that retailer onboarding will be done in batches, and not on an ad-hoc
 basis as there are several stages in the onboarding process. You may reach
 out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
