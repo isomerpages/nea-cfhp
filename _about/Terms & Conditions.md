@@ -32,8 +32,7 @@ the purchase of any product that carries the National Environment Agency
 heat pump water heaters and direct current fans approved under the Programme.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Voucher can be redeemed at
 participating retailers’ stores. For a full list of retail stores and eligible
-products, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-spend</a> and
-<a href="www.go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-products</a>&nbsp;respectively.</p>
+products, please visit <a href="cv-spend" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-spend</a> and <a href="www.go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-products</a>&nbsp;respectively.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers will expire on 31
 December 2027. Any unutilised amount will be forfeited thereafter.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Voucher-Holder should present his/her
