@@ -244,9 +244,9 @@ cashier for scanning.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may show the retailer your digital NRIC through the Singpass mobile
-app, or any recent utility bills or documents that displays both your name
-and registered residential address. The address displayed on the voucher
-should match the address displayed on your digital NRIC, or bills/documents.</p>
+app, or any recent utility bills or documents that displays your registered
+residential address. The address displayed on the voucher should match
+the address displayed on your digital NRIC, or bills/documents.</p>
 </div>
 </details>
 <details class="isomer-details">
