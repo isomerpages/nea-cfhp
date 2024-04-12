@@ -2,4 +2,5 @@ collections:
   dc-fans-and-hpwh:
     output: true
     order:
+      - Heat Pump Water Heaters.md
       - Direct Current Fans.md
