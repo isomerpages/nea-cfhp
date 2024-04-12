@@ -412,7 +412,7 @@ for verification by the participating retailer.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Can the Climate Vouchers be resold?</strong>
+<summary><strong>Can the Climate Vouchers be sold?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Climate Vouchers cannot be sold. Please refer to the Terms &amp; Conditions
