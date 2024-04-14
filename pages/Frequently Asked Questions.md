@@ -506,8 +506,8 @@ more information.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
 system for Singapore. RedeemSG is built by Open Government Products. For
-more information, please refer to <a rel="noopener noreferrer nofollow" target="_blank">redeem.gov.sg</a> website
-and their <a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
+more information, please refer to <a href="https://redeem.gov.sg/disbursing" rel="noopener noreferrer nofollow" target="_blank">redeem.gov.sg</a> website and their
+<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
 </div>
 </details>
 </div>
