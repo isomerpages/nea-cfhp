@@ -39,8 +39,8 @@ has been reflected in Singpass.</p>
 <p>The previous round of CFHP vouchers expired on 20 March 2024.</p>
 <p>Regardless of whether you have redeemed Climate Vouchers under the previous
 CFHP, all HDB households are eligible for the new Climate Vouchers under
-the enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>. The enhanced
-CFHP vouchers will be available until 31 December 2027.</p>
+the enhanced CFHP. You may claim a new set of vouchers at <a href="www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
+The enhanced CFHP vouchers will be available until 31 December 2027.</p>
 </div>
 </details>
 <details class="isomer-details">
