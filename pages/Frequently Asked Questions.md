@@ -76,7 +76,7 @@ behalf of the entire household. You may forward the unique SMS link to
 share the vouchers with your household members.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit <a href="www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
+<p>Visit <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
 tap on Climate Vouchers.</p>
 </li>
 <li>
@@ -143,7 +143,7 @@ Should you require further assistance, you may contact NEA at 6225 5632.
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
-<a href="www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
+<a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
 to get your unique voucher link sent via an SMS from gov.sg.</p>
 </div>
 </details>
