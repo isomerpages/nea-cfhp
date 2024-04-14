@@ -39,7 +39,7 @@ has been reflected in Singpass.</p>
 <p>The previous round of CFHP vouchers expired on 20 March 2024.</p>
 <p>Regardless of whether you have redeemed Climate Vouchers under the previous
 CFHP, all HDB households are eligible for the new Climate Vouchers under
-the enhanced CFHP. You may claim a new set of vouchers at <a href="www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
+the enhanced CFHP. You may claim a new set of vouchers at <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
 The enhanced CFHP vouchers will be available until 31 December 2027.</p>
 </div>
 </details>
@@ -489,11 +489,11 @@ must be an eligible product under the enhanced CFHP.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NEA welcomes retailers to be onboarded to the CFHP. To participate in
 the programme, which will run until 31 December 2027, your company would
-need to sell at least one of the <a href="/cv-products" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>, and have a physical Point
-of Sales system (i.e. online transactions are not supported). Please note
-that retailer onboarding will be done in batches, and not on an ad-hoc
-basis as there are several stages in the onboarding process. You may reach
-out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
+need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
+and have a physical Point of Sales system (i.e. online transactions are
+not supported). Please note that retailer onboarding will be done in batches,
+and not on an ad-hoc basis as there are several stages in the onboarding
+process. You may reach out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
 more information.</p>
 </div>
 </details>
