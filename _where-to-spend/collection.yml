@@ -1,0 +1,6 @@
+collections:
+  where-to-spend:
+    output: true
+    order:
+      - Where to Spend.md
+      - Eligible Products.md

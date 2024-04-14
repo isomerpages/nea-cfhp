@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - Climate Vouchers.md
+      - Terms & Conditions.md

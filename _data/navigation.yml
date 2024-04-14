@@ -1,14 +1,14 @@
-logo: /images/main logo.jpg
+logo: /images/CV_logo.png
 links:
   - title: About
-    url: /about-cfhp/
-  - title: How To Apply
-    url: /how-to-apply/
-  - title: Retailers
-    collection: retailers
+    collection: about
+  - title: Resident Guide
+    collection: resident-guide
+  - title: Where to Spend
+    collection: where-to-spend
+  - title: FAQs
+    url: /cv-faqs
+  - title: Contact
+    collection: contact
   - title: Resources
     collection: resources
-  - title: FAQ
-    collection: faq
-  - title: Contact Us
-    url: /contact-us/

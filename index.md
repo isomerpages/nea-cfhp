@@ -1,41 +1,45 @@
 ---
 layout: homepage
-title: Climate Friendly Households Programme
+title: Climate Vouchers
 description: A NEA and PUB initiative to provide all 1-, 2- and 3-room HDB
   households with e-Vouchers for energy- and water- efficient appliances.
-image: /images/main logo.jpg
+image: /images/CV_logo.png
 permalink: /
 sections:
   - hero:
-      title: Climate Friendly Households Programme
-      background: /images/cfhp banner-02.png
-      button: FAQs - Enhanced programme launching 15 april 2024
-      url: /faq/enhanced
+      title: $300 Climate Vouchers for every HDB household
+      background: /images/NEA_CFHP_Web_Banner.jpg
   - infobar:
-      title: Redeeming your Climate Vouchers
-      subtitle: HOW TO REDEEM
-      description: Find out how to redeem your Climate Vouchers by watching this video
-        below.
-      button: 5 steps to redeem the vouchers
-      url: https://youtu.be/wZbvUokJTNI
+      title: Climate Vouchers
+      id: infobar
+      description: Under the Climate Friendly Households Programme, every HDB
+        household will receive $300 in Climate Vouchers to purchase energy- and
+        water-efficient products.
+      button: Find out more
+      url: /about-cv
+  - textcards:
+      title: Claim & Spend Climate Vouchers
+      subtitle: How to
+      id: textcards
+      cards:
+        - title: Step-by-Step Guide
+          description: Step-by-Step Guide on how you can claim and spend your Climate
+            Vouchers.
+          linktext: Refer to this Guide
+          url: /claim-spend-eng
+        - title: Claim your Climate Vouchers
+          description: Only one member needs to do this on behalf of the entire household.
+          linktext: Claim your vouchers here
+          url: https://go.gov.sg/cv-claim
+        - title: Where to Spend your Climate Vouchers?
+          description: Spend your $300 Climate Vouchers at participating retailers.
+          linktext: Find Participating Retailers
+          url: /cv-spend
   - infobar:
-      title: Using your Climate Vouchers
-      subtitle: Participating merchants
-      description: CFHP is supported by a range of participating merchants
-        island-wide. Find out where you can go to use your Climate Vouchers at
-        the link below.
-      button: List of retailers
-      url: /retailers/list-of-retailers/
-  - infobar:
-      title: Playing our part against climate change
-      subtitle: Learn more
-      description: Together we can save 400 million gallons of water and can remove
-        carbon emissions equivalent to 10,000 cars, while saving $50-$150 per
-        household every year!
-      button: Find out how
-      url: /resources/programme-brochures/
-notification: The current phase of the programme has concluded. The enhanced
-  programme will commence on 15 April 2024, where all HDB households will
-  receive $300 worth of Climate Vouchers to purchase 10 types of eligible
-  household products. More details will be available from 15 April 2024.
+      title: Frequently Asked Questions
+      id: infobar
+      description: Have questions? Check out the Frequently Asked Questions.
+      button: Read the FAQ here
+      url: /cv-faqs
+notification: ""
 ---

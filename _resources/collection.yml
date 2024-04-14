@@ -2,5 +2,5 @@ collections:
   resources:
     output: true
     order:
-      - programme-brochures.md
-      - useful-links.md
+      - Programme Materials.md
+      - Useful Links.md

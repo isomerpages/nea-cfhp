@@ -1,0 +1,6 @@
+collections:
+  contact:
+    output: true
+    order:
+      - Contact Us.md
+      - Whistleblowing.md

@@ -1,0 +1,5 @@
+collections:
+  resident-guide:
+    output: true
+    order:
+      - How to Claim & Spend Climate Vouchers.md
