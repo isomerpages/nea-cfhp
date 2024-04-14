@@ -7,6 +7,10 @@ description: ""
 <h4><strong>How do I identify an eligible refrigerator / air-conditioner / LED light in stores?</strong>&nbsp;</h4>
 <p>Look out for labels like these in stores!</p>
 <p></p>
+
+        <strong>Labels for Refrigerators and Air-conditioners</strong>
+      
+	<p></p>		
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Labels/mels.jpg">
 </div>
@@ -15,10 +19,10 @@ description: ""
   <tbody>
     <tr>
       <td rowspan="1" colspan="1" style="text-align: center;">
-        <strong>Revised Label</strong>
+        <strong>Revised Label for Lights</strong>
       </td>
       <td rowspan="1" colspan="1" style="text-align: center;">
-        <strong>Old Label (Valid until Apr 2025)</strong>
+        <strong>Old Label for Lights (Valid until Apr 2025)</strong>
       </td>
     </tr>
     <tr>
