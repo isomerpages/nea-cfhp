@@ -27,11 +27,11 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Poster_EM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/Poster_EM_v2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Resources/Poster_CT.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Resources/Poster_CT_v2.png">
 </div>
 <p></p>
 <h4>Video</h4>
