@@ -8,9 +8,10 @@ description: ""
 <p>Look out for labels like these in stores!</p>
 <p></p>
 
+
         <strong>Labels for Refrigerators and Air-conditioners</strong>
-      
-	<p></p>		
+          
+ <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Labels/mels.jpg">
 </div>
