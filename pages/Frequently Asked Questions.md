@@ -39,8 +39,8 @@ has been reflected in Singpass.</p>
 <p>The previous round of CFHP vouchers expired on 20 March 2024.</p>
 <p>Regardless of whether you have redeemed Climate Vouchers under the previous
 CFHP, all HDB households are eligible for the new Climate Vouchers under
-the enhanced CFHP. You may claim a new set of vouchers at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>. The enhanced
-CFHP vouchers will be available until 31 December 2027.</p>
+the enhanced CFHP. You may claim a new set of vouchers at <a href="www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
+The enhanced CFHP vouchers will be available until 31 December 2027.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -76,7 +76,7 @@ behalf of the entire household. You may forward the unique SMS link to
 share the vouchers with your household members.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
+<p>Visit <a href="www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
 tap on Climate Vouchers.</p>
 </li>
 <li>
@@ -143,7 +143,7 @@ Should you require further assistance, you may contact NEA at 6225 5632.
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
-<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
+<a href="www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
 to get your unique voucher link sent via an SMS from gov.sg.</p>
 </div>
 </details>
@@ -506,8 +506,8 @@ more information.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
 system for Singapore. RedeemSG is built by Open Government Products. For
-more information, please refer to <a rel="noopener noreferrer nofollow" target="_blank">redeem.gov.sg</a> website
-and their <a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
+more information, please refer to <a href="https://redeem.gov.sg/disbursing" rel="noopener noreferrer nofollow" target="_blank">redeem.gov.sg</a> website and their
+<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
 </div>
 </details>
 </div>
