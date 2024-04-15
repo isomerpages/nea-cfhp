@@ -35,7 +35,7 @@ Apart from any fair dealings for the purposes of private study, research, critic
 We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in The Website, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses The Website.
 
 **8 Fees**  
-There are currently no fees for using any part of The Website.] We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
+There are currently no fees for using any part of The Website. We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
 
 **9 Applicable Laws**  
 Use of The Website and these Terms are governed by the laws of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.
