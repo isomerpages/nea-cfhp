@@ -30,7 +30,10 @@ the SMS to share the vouchers with household members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
+	<p></p>
+	<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_RedeemSG.png">
 
+	km
 </div>
 </li>
 </ol>
