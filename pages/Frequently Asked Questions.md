@@ -166,15 +166,19 @@ are not sent to the wrong mobile number.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An SMS with your unique voucher link will only be sent to your mobile
 number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name "<strong>gov.sg</strong>".
-Please also check that your unique voucher link starts with the following
-prefix, "<strong>voucher.redeem.gov.sg</strong>". Do not trust vouchers
-starting with other prefixes.</p>
+<p>The SMS can be identified by the sender name "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>"
+or "<strong>RedeemSG</strong>". Please also check that your unique voucher
+link starts with the following prefix, "<strong>voucher.redeem.gov.sg</strong>".
+Do not trust vouchers starting with other prefixes.</p>
 <p></p>
-<p>A sample of the SMS sent from <strong>gov.sg</strong>. Only trust SMSes
-from <strong>gov.sg </strong>that follow this format.</p>
+<p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>or <strong>RedeemSG</strong>.
+Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>  or RedeemSG </strong>that
+follow this format.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_RedeemSG.png">
 </div>
 </div>
 </details>
@@ -189,15 +193,6 @@ do not click on the link or reply</p>
 Vouchers, please contact NEA at 6225 5632, or submit the information online
 at <a href="https://www.police.gov.sg/I-Witness" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.police.gov.sg/I-Witness</u></a> or
 file a police report by calling 1800 255 0000.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I am unable to receive the OTP or am experiencing a delay in receiving it. What should I do?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>We understand that a minority of users are experiencing a delay in the
-receipt of their OTP. We are investigating the matter. If you are unable
-to claim your Climate Vouchers, please try again later.&nbsp;</p>
 </div>
 </details>
 </div>
