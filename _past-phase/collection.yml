@@ -1,4 +1,5 @@
 collections:
   past-phase:
     output: true
-    order: []
+    order:
+      - About (Past Phase).md
