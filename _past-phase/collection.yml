@@ -2,5 +2,6 @@ collections:
   past-phase:
     output: true
     order:
+      - voucher-terms-and-conditions.md
       - how-to-apply.md
       - About (Past Phase).md
