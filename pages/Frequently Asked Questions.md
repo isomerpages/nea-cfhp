@@ -379,11 +379,11 @@ Climate Vouchers cannot be used for in-app or online transactions.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. You may share your unique voucher link with your household members,
 by clicking on&nbsp;“Info &amp; help”, followed by “Share your vouchers”.
-You can also forward the voucher link SMS from gov.sg to your household
-members directly. However, please be careful when sharing your unique voucher
-link with others as anyone with access to the link may be able to spend
-the vouchers. We seek your understanding that there will be no reinstatement
-made for vouchers that were shared erroneously.</p>
+You can also forward the voucher link SMS from gov.sg or RedeemSG to your
+household members directly. However, please be careful when sharing your
+unique voucher link with others as anyone with access to the link may be
+able to spend the vouchers. We seek your understanding that there will
+be no reinstatement made for vouchers that were shared erroneously.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If your family member lives with you, they can produce their own NRIC
