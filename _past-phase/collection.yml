@@ -2,4 +2,5 @@ collections:
   past-phase:
     output: true
     order:
+      - how-to-apply.md
       - About (Past Phase).md
