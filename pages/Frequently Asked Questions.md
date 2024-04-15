@@ -172,13 +172,13 @@ link starts with the following prefix, "<strong>voucher.redeem.gov.sg</strong>".
 Do not trust vouchers starting with other prefixes.</p>
 <p></p>
 <p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>or <strong>RedeemSG</strong>.
-Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>  or RedeemSG </strong>that
+Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG </strong>that
 follow this format.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_RedeemSG.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_RedeemSG.png">
 </div>
 </div>
 </details>
