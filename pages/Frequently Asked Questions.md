@@ -83,8 +83,8 @@ tap on Climate Vouchers.</p>
 <p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Receive an SMS from gov.sg which will contain a unique link to your Climate
-Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Receive an SMS from gov.sg or RedeemSG which will contain a unique link
+to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
 <p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
@@ -144,7 +144,7 @@ Should you require further assistance, you may contact NEA at 6225 5632.
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
 <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
-to get your unique voucher link sent via an SMS from gov.sg.</p>
+to get your unique voucher link sent via an SMS from <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -166,15 +166,17 @@ are not sent to the wrong mobile number.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An SMS with your unique voucher link will only be sent to your mobile
 number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name "<strong>gov.sg</strong>".
-Please also check that your unique voucher link starts with the following
-prefix, "<strong>voucher.redeem.gov.sg</strong>". Do not trust vouchers
-starting with other prefixes.</p>
+<p>The SMS can be identified by the sender name "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>"
+or "<strong>RedeemSG</strong>". Please also check that your unique voucher
+link starts with the following prefix, "<strong>voucher.redeem.gov.sg</strong>".
+Do not trust vouchers starting with other prefixes.</p>
 <p></p>
-<p>A sample of the SMS sent from <strong>gov.sg</strong>. Only trust SMSes
-from <strong>gov.sg </strong>that follow this format.</p>
+<p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>or <strong>RedeemSG</strong>.
+Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG </strong>that
+follow this format.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_merge.png">
 </div>
 </div>
 </details>
@@ -192,7 +194,6 @@ file a police report by calling 1800 255 0000.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3>Spending your Climate Vouchers</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -221,7 +222,7 @@ retail store. You may refer to the full list of participating retailers
 <summary><strong>How can I spend my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tap on your unique voucher link from the SMS sent by gov.sg</p>
+<p>Tap on your unique voucher link from the SMS sent by <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Show the cashier any proof of the residential address that was used to
@@ -378,11 +379,11 @@ Climate Vouchers cannot be used for in-app or online transactions.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. You may share your unique voucher link with your household members,
 by clicking on&nbsp;“Info &amp; help”, followed by “Share your vouchers”.
-You can also forward the voucher link SMS from gov.sg to your household
-members directly. However, please be careful when sharing your unique voucher
-link with others as anyone with access to the link may be able to spend
-the vouchers. We seek your understanding that there will be no reinstatement
-made for vouchers that were shared erroneously.</p>
+You can also forward the voucher link SMS from gov.sg or RedeemSG to your
+household members directly. However, please be careful when sharing your
+unique voucher link with others as anyone with access to the link may be
+able to spend the vouchers. We seek your understanding that there will
+be no reinstatement made for vouchers that were shared erroneously.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If your family member lives with you, they can produce their own NRIC
@@ -431,9 +432,9 @@ the voucher amount selected.</p>
 <summary><strong>How do I find out how much value is left for my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You may access your voucher link in the SMS sent by gov.sg to find out
-the remaining balance of your Climate Vouchers. The value will be shown
-in the “Balance” as per the screenshot below.</p>
+<p>You may access your voucher link in the SMS sent by gov.sg or RedeemSG
+to find out the remaining balance of your Climate Vouchers. The value will
+be shown in the “Balance” as per the screenshot below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Balance_w_box.png">

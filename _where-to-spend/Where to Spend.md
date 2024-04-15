@@ -96,7 +96,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo/Resized/Slide12_NEW.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Logo/Slide12_TS.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
