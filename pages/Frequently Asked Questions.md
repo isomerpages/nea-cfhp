@@ -191,8 +191,16 @@ at <a href="https://www.police.gov.sg/I-Witness" rel="noopener noreferrer nofoll
 file a police report by calling 1800 255 0000.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>I am unable to receive the OTP or am experiencing a delay in receiving
+it. What should I do?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>[Update: 15 Apr 2024, 2pm] We understand that a minority of users are
+experiencing an intermittent delay in the receipt of their OTP. RedeemSG
+is currently working with NEA to resolve the issue.</p>
 </div>
-<p></p>
+</details>
+</div>
 <h3>Spending your Climate Vouchers</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
