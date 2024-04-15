@@ -192,8 +192,8 @@ file a police report by calling 1800 255 0000.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>I am unable to receive the OTP or am experiencing a delay in receiving
-it. What should I do?</summary>
+<summary><strong>I am unable to receive the OTP or am experiencing a delay in receiving it. What should I do?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>[Update: 15 Apr 2024, 2pm] We understand that a minority of users are
 experiencing an intermittent delay in the receipt of their OTP. RedeemSG
