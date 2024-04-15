@@ -29,8 +29,7 @@ to do this.</p>
 the SMS to share the vouchers with household members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP%20%20%20EN/.png">
-	
+<img style="width: 40%;" height="auto" width="100%" alt="" src="(/images/ECFHP%20%20%20EN/.png">
 	
 </div>
 </li>
@@ -67,5 +66,5 @@ the SMS to share the vouchers with household members.</p>
 <p>For more information, please refer to our <a href="/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p><p>
 </p>
- 
-<style> .blue-button { background-color: #3380ff; color: white; padding: 14px 150px; border: none; border-radius: 5px; text-align: center; text-decoration: none; display: block; /\* Change to inline-block \*/ font-size: 20px; cursor: pointer; } .blue-button:hover { background-color: #1e5ad4; /\* Darker shade of blue on hover \*/ } .blue-button:visited { color: white; /\* Ensuring the text remains white even after the link is visited \*/ } </style>   <a class="blue-button" href="https://go.gov.sg/cv-claim">Claim your Climate Vouchers here</a>
+
+
