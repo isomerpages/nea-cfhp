@@ -1,6 +1,6 @@
 ---
 title: FAQ (Upcoming Phase)
-permalink: /faq/enhanced/
+permalink: /faq/enhanced-kjnasjckaslk12989/
 variant: markdown
 description: ""
 ---

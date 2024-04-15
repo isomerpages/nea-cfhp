@@ -1,0 +1,9 @@
+collections:
+  past-phase:
+    output: true
+    order:
+      - FAQ (Past Phase).md
+      - FAQ (Upcoming Phase).md
+      - Voucher Terms and Conditions.md
+      - How To Apply.md
+      - About (Past Phase).md

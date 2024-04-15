@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-  <style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2;} </style>   <div class="light-blue-box"> The current phase of the programme has concluded. The enhanced programme will commence on 15 April 2024, where all HDB households will receive $300 worth of Climate Vouchers to purchase 10 types of eligible household products. More details will be available from 15 April 2024. </div>  
-
 **1 Agreement - Terms**  
 All access of any area of [<a href="https://www.climate-friendly-households.gov.sg/" target="_blank">https://www.climate-friendly-households.gov.sg/</a>](https://www.climate-friendly-households.gov.sg/) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
 
@@ -37,7 +35,7 @@ Apart from any fair dealings for the purposes of private study, research, critic
 We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in The Website, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses The Website.
 
 **8 Fees**  
-There are currently no fees for using any part of The Website.] We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
+There are currently no fees for using any part of The Website. We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
 
 **9 Applicable Laws**  
 Use of The Website and these Terms are governed by the laws of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.

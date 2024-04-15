@@ -1,6 +1,6 @@
 ---
 title: FAQ (Past Phase)
-permalink: /faq/
+permalink: /faq-samkclsa9821u8931a/
 variant: markdown
 description: ""
 ---

@@ -1,7 +1,8 @@
 ---
 title: Voucher Terms and Conditions
-permalink: /voucher-tc/
+permalink: /voucher-tc-ajsnclasmklasm123ae21/
 variant: markdown
+description: ""
 ---
 <style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2; } </style>   <div class="light-blue-box"> The current phase of the programme has concluded. The enhanced programme will commence on 15 April 2024, where all HDB households will receive $300 worth of Climate Vouchers to purchase 10 types of eligible household products. Check out the <a href="/faq/enhanced">FAQs here</a>. More details will be available from 15 April 2024. </div>   
 
