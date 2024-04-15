@@ -1,8 +1,9 @@
 ---
 layout: homepage
 title: Climate Vouchers
-description: A NEA and PUB initiative to provide all 1-, 2- and 3-room HDB
-  households with e-Vouchers for energy- and water- efficient appliances.
+description: Under the Climate Friendly Households Programme, every HDB
+  household will receive $300 in Climate Vouchers to purchase energy- and
+  water-efficient products.
 image: /images/CV_logo.png
 permalink: /
 sections:
