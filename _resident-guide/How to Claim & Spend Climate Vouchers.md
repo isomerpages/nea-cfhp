@@ -29,11 +29,7 @@ to do this.</p>
 the SMS to share the vouchers with household members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
-	<p></p>
-	<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_RedeemSG.png">
-
-	km
+<div style="display: flex;"> <div style="flex: 1;"> <img style="width: 100%; height: auto;" alt="" src="/images/ECFHP   EN/SMS.png"> </div> <div style="flex: 1;"> <img style="width: 100%; height: auto;" alt="" src="/images/ECFHP   EN/SMS_RedeemSG.png"> </div> </div>
 </div>
 </li>
 </ol>
