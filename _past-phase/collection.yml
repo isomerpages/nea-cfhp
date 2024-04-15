@@ -1,0 +1,4 @@
+collections:
+  past-phase:
+    output: true
+    order: []
