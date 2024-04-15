@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Voucher Terms and Conditions.md
-      - how-to-apply.md
+      - How To Apply.md
       - About (Past Phase).md
