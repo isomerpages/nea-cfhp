@@ -1,5 +1,4 @@
 collections:
   faq:
     output: true
-    order:
-      - FAQ (Past Phase).md
+    order: []
