@@ -83,8 +83,8 @@ tap on Climate Vouchers.</p>
 <p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Receive an SMS from gov.sg which will contain a unique link to your Climate
-Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Receive an SMS from gov.sg or RedeemSG which will contain a unique link
+to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
 <p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
@@ -174,11 +174,9 @@ Do not trust vouchers starting with other prefixes.</p>
 <p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>or <strong>RedeemSG</strong>.
 Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG </strong>that
 follow this format.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_RedeemSG.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS_merge.png">
 </div>
 </div>
 </details>
@@ -224,7 +222,7 @@ retail store. You may refer to the full list of participating retailers
 <summary><strong>How can I spend my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tap on your unique voucher link from the SMS sent by gov.sg</p>
+<p>Tap on your unique voucher link from the SMS sent by <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Show the cashier any proof of the residential address that was used to
