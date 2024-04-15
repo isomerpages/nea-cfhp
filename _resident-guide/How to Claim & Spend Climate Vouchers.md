@@ -29,8 +29,8 @@ to do this.</p>
 the SMS to share the vouchers with household members.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="(/images/ECFHP%20%20%20EN/.png">
-	
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
+
 </div>
 </li>
 </ol>
@@ -66,5 +66,3 @@ the SMS to share the vouchers with household members.</p>
 <p>For more information, please refer to our <a href="/cv-faqs" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p><p>
 </p>
-
-
