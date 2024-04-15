@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-  <style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2;} </style>   <div class="light-blue-box"> The current phase of the programme has concluded. The enhanced programme will commence on 15 April 2024, where all HDB households will receive $300 worth of Climate Vouchers to purchase 10 types of eligible household products. More details will be available from 15 April 2024. </div>  
-
 **1 Agreement - Terms**  
 All access of any area of [<a href="https://www.climate-friendly-households.gov.sg/" target="_blank">https://www.climate-friendly-households.gov.sg/</a>](https://www.climate-friendly-households.gov.sg/) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
 
