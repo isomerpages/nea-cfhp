@@ -1,10 +1,10 @@
 ---
 title: Contact Us
 permalink: /contact-us/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style> .blue-text { color: #3380ff; font-size: 58px; /\* Increased font size \*/ font-weight: bolder; line-height: 1.6; /\* Adjusted line height \*/ } </style>   <p class="blue-text">Get in touch with<br><br>NEA and PUB</p>  
+<h1>Get in touch with NEA and PUB</h1>
 <h4>Contact Us</h4>
 <table>
 <tbody>
