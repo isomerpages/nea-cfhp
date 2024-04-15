@@ -195,9 +195,9 @@ file a police report by calling 1800 255 0000.</p>
 <summary><strong>I am unable to receive the OTP or am experiencing a delay in receiving it. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>[Update: 15 Apr 2024, 2pm] We understand that a minority of users are
-experiencing an intermittent delay in the receipt of their OTP. RedeemSG
-is currently working with NEA to resolve the issue.</p>
+<p>We understand that a minority of users are experiencing a delay in the
+receipt of their OTP. We are investigating the matter. If you are unable
+to claim your Climate Vouchers, please try again later.&nbsp;</p>
 </div>
 </details>
 </div>
