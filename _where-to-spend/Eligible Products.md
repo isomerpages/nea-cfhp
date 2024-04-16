@@ -17,7 +17,7 @@ description: ""
 <div class="isomer-card-description">5 ticks</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/direct-current-fans" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Direct current fans</div><div class="isomer-card-description">Uses Direct Current (DC) motor &lt;p&gt;&lt;/p&gt; (excludes those with non-LED lights)</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/direct-current-fans" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Direct current fans</div><div class="isomer-card-description">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset="UTF-8"&gt;&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;&lt;title&gt;Product Information&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;h1&gt;Product Information&lt;/h1&gt;&lt;p&gt;Uses DC motor&lt;/p&gt;&lt;p&gt;(excludes those with non-LED lights)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/mels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
