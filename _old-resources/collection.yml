@@ -2,5 +2,4 @@ collections:
   old-resources:
     output: true
     order:
-      - Programme Brochures (Past phase).md
       - Useful Links (Past phase).md
