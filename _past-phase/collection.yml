@@ -2,11 +2,11 @@ collections:
   past-phase:
     output: true
     order:
+      - About (Past Phase).md
+      - How To Apply.md
+      - Voucher Terms and Conditions.md
+      - FAQ (Upcoming Phase).md
+      - FAQ (Past Phase).md
+      - Resources (Past Phase)/.keep
       - Resources (Past Phase)/Useful Links (Past phase).md
       - Resources (Past Phase)/Programme Brochures (Past phase).md
-      - Resources (Past Phase)/.keep
-      - FAQ (Past Phase).md
-      - FAQ (Upcoming Phase).md
-      - Voucher Terms and Conditions.md
-      - How To Apply.md
-      - About (Past Phase).md
