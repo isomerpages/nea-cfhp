@@ -1,6 +1,0 @@
-collections:
-  retailers:
-    output: true
-    order:
-      - list-of-retailers.md
-      - eligible-products.md
