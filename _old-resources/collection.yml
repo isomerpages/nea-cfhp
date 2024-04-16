@@ -1,5 +1,4 @@
 collections:
   old-resources:
     output: true
-    order:
-      - Useful Links (Past phase).md
+    order: []
