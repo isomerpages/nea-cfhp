@@ -1,6 +1,0 @@
-collections:
-  retailers:
-    output: true
-    order:
-      - List of Retailers (Past Phase).md
-      - Eligible Products (Past Phase).md
