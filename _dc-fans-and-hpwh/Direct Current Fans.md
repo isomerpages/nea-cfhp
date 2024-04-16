@@ -9,6 +9,9 @@ description: ""
 compared to Alternating Current (AC) motors. They are typically labelled
 as “DC” by manufacturers and retailers. They currently do not carry any
 energy label.</p>
+<p>Stand fans, ceiling fans, and table fans that use DC motors are eligible
+for purchase with the Climate Vouchers. DC fans with non-LED lights are
+not eligible.</p>
 <p>Given that retailers may offer different models, it is advisable to enquire
 with them about the specific models that are eligible for purchase with
 the Climate Vouchers.</p>
