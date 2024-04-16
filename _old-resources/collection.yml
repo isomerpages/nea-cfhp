@@ -2,5 +2,5 @@ collections:
   old-resources:
     output: true
     order:
-      - programme-brochures.md
+      - Programme Brochures (Past phase).md
       - useful-links.md
