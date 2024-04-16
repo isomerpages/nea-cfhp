@@ -2,6 +2,7 @@ collections:
   past-phase:
     output: true
     order:
+      - Resources (Past Phase)/Programme Brochures (Past phase).md
       - Resources (Past Phase)/.keep
       - FAQ (Past Phase).md
       - FAQ (Upcoming Phase).md
