@@ -2,6 +2,7 @@ collections:
   past-phase:
     output: true
     order:
+      - Resources (Past Phase)/.keep
       - FAQ (Past Phase).md
       - FAQ (Upcoming Phase).md
       - Voucher Terms and Conditions.md
