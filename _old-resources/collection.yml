@@ -1,6 +1,0 @@
-collections:
-  old-resources:
-    output: true
-    order:
-      - programme-brochures.md
-      - useful-links.md
