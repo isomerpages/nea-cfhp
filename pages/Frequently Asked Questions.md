@@ -191,6 +191,14 @@ at <a href="https://www.police.gov.sg/I-Witness" rel="noopener noreferrer nofoll
 file a police report by calling 1800 255 0000.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>When do I have to claim my vouchers by?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Climate Vouchers can be claimed any time during the 3-year programme
+period, and will be valid till 31 December 2027.&nbsp;</p>
+</div>
+</details>
 </div>
 <h3>Spending your Climate Vouchers</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -349,7 +357,7 @@ and use the remaining $270 at a later date on another eligible product.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
+<summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?c</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Multiple Climate Vouchers across households cannot be combined in a single
