@@ -19,4 +19,4 @@ the purchase of<strong> 10 types of energy- and water-efficient appliances and f
 <p></p>
 <p></p>
 
-![](/images/Screenshot_2024_03_31_at_2_30_56_PM.png)
+![](/images/Resident_Table.png)

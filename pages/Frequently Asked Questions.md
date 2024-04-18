@@ -133,9 +133,7 @@ connection plan.</p>
 to claim the vouchers on behalf of your household.</p>
 <p>If you do not have a mobile device and/or are unable to access your Singpass,
 and would like to have printed vouchers instead, please submit your request
-via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-Should you require further assistance, you may contact NEA at 6225 5632.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -191,6 +189,14 @@ do not click on the link or reply</p>
 Vouchers, please contact NEA at 6225 5632, or submit the information online
 at <a href="https://www.police.gov.sg/I-Witness" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.police.gov.sg/I-Witness</u></a> or
 file a police report by calling 1800 255 0000.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>When do I have to claim my vouchers by?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Climate Vouchers can be claimed any time during the 3-year programme
+period, and will be valid till 31 December 2027.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -351,7 +357,7 @@ and use the remaining $270 at a later date on another eligible product.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
+<summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?c</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Multiple Climate Vouchers across households cannot be combined in a single
