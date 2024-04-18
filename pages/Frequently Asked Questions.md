@@ -133,9 +133,7 @@ connection plan.</p>
 to claim the vouchers on behalf of your household.</p>
 <p>If you do not have a mobile device and/or are unable to access your Singpass,
 and would like to have printed vouchers instead, please submit your request
-via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.
-Should you require further assistance, you may contact NEA at 6225 5632.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
