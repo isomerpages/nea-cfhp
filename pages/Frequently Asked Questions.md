@@ -357,7 +357,7 @@ and use the remaining $270 at a later date on another eligible product.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?c</strong>
+<summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Multiple Climate Vouchers across households cannot be combined in a single
