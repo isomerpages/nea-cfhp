@@ -42,5 +42,5 @@ sections:
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
-notification: ""
+notification: Vouchers can be claimed any time under December 2027
 ---
