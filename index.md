@@ -10,6 +10,7 @@ sections:
   - hero:
       title: $300 Climate Vouchers for every HDB household
       background: /images/NEA_CFHP_Web_Banner.jpg
+      subtitle: Vouchers can be claimed any time under December 2027
   - infobar:
       title: Climate Vouchers
       id: infobar
