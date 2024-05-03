@@ -52,8 +52,8 @@ tap on Climate Vouchers.</p>
 <p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Receive an SMS from RedeeSG or gov. which will contain a unique link to
-your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Receive an SMS from RedeemSG or gov. which will contain a unique link
+to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
 <p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
@@ -460,13 +460,33 @@ must be an eligible product under the enhanced CFHP.</p>
 <summary><strong>I am interested to participate in this programme as a retailer. How can I find out more?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>NEA welcomes retailers to be onboarded to the CFHP. To participate in
-the programme, which will run until 31 December 2027, your company would
-need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
-and have a physical Point of Sales system (i.e. online transactions are
-not supported). Please note that retailer onboarding will be done in batches,
-and not on an ad-hoc basis as there are several stages in the onboarding
-process. You may reach out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
+<p>To participate in the programme, which will run until 31 December 2027,
+your company would need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
+and have a physical Point of Sales system (i.e. online</p>
+<p>transactions are not supported).</p>
+<p></p>
+<p>Your POS or Sales system should be able to:&nbsp;</p>
+<ol>
+<li>
+<p>connect to the internet to redeem vouchers in real-time via API integration,&nbsp;</p>
+</li>
+</ol>
+<ol start="2">
+<li>
+<p>configure a whitelisting module for eligible products (i.e. a module in
+your POS or Sales system that can ensure that the Climate Vouchers are
+only used for NEA/PUB-approved items), and&nbsp;</p>
+</li>
+</ol>
+<ol start="3">
+<li>
+<p>support QR code scanning.&nbsp;</p>
+</li>
+</ol>
+<p></p>
+<p>Please note that retailer onboarding will be done in batches, and not
+on an ad-hoc basis as there are several stages in the onboarding process.
+You may reach out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
 more information.</p>
 </div>
 </details>
