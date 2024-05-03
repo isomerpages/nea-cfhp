@@ -462,8 +462,8 @@ must be an eligible product under the enhanced CFHP.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To participate in the programme, which will run until 31 December 2027,
 your company would need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
-and have a physical Point of Sales system (i.e. online</p>
-<p>transactions are not supported).</p>
+and have a physical Point of Sales system (i.e. online transactions are
+not supported).</p>
 <p></p>
 <p>Your POS or Sales system should be able to:&nbsp;</p>
 <ol>
