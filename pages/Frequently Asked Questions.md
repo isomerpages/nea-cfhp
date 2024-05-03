@@ -23,16 +23,6 @@ for the enhanced Climate Vouchers, the following needs to be met:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I will be moving into my BTO/re-sale flat soon. Am I eligible for the programme?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, all new HDB flat homeowners are eligible for the vouchers during
-the length of the programme (i.e., before 31 December 2027). You may claim
-your vouchers once your official registered address for your new flat address
-has been reflected in Singpass.</p>
-</div>
-</details>
-<details class="isomer-details">
 <summary><strong>If I was eligible for the previous CFHP, am I eligible to apply for another set of Climate Vouchers under the enhanced CFHP?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -41,27 +31,6 @@ has been reflected in Singpass.</p>
 CFHP, all HDB households are eligible for the new Climate Vouchers under
 the enhanced CFHP. You may claim a new set of vouchers at <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
 The enhanced Climate Vouchers will be available until 31 December 2027.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I am renting an HDB flat. Am I eligible for the Climate Vouchers?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Singapore Citizens or Permanent Residents whose addresses are registered
-at an HDB flat are eligible to claim Climate Vouchers under the enhanced
-CFHP. As each eligible household is entitled to one set of Climate Vouchers,
-flat owners and their tenants should reach an agreement on who should claim
-the vouchers. For further clarification, please contact <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I bought an existing HDB flat and have just moved in recently. If the previous owner of my HDB flat has already claimed the Climate Vouchers, am I still able to claim the Climate Vouchers for my household?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, each HDB household is entitled to one set of Climate Vouchers. For
-us to look into your case, please submit documents showing proof of your
-new residential address and the date of change of address (e.g. resale
-completion documents) to <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.&nbsp;&nbsp;</p>
 </div>
 </details>
 </div>
@@ -83,7 +52,7 @@ tap on Climate Vouchers.</p>
 <p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Receive an SMS from gov.sg or RedeemSG which will contain a unique link
+<p>Receive an SMS from RedeemSG or gov. which will contain a unique link
 to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
@@ -142,7 +111,7 @@ via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener no
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
 <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
-to get your unique voucher link sent via an SMS from <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG.</p>
+to get your unique voucher link sent via an SMS from RedeemSG or <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -164,10 +133,11 @@ are not sent to the wrong mobile number.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An SMS with your unique voucher link will only be sent to your mobile
 number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>"
-or "<strong>RedeemSG</strong>". Please also check that your unique voucher
-link starts with the following prefix, "<strong>voucher.redeem.gov.sg</strong>".
-Do not trust vouchers starting with other prefixes.</p>
+<p>The SMS can be identified by the sender name "<strong>RedeemSG</strong>"
+or "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>".
+Please also check that your unique voucher link starts with the following
+prefix, "<strong>voucher.redeem.gov.sg</strong>". Do not trust vouchers
+starting with other prefixes.</p>
 <p></p>
 <p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>or <strong>RedeemSG</strong>.
 Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG </strong>that
@@ -228,7 +198,7 @@ retail store. You may refer to the full list of participating retailers
 <summary><strong>How can I spend my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tap on your unique voucher link from the SMS sent by <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG.</p>
+<p>Tap on your unique voucher link from the SMS sent by RedeemSG or <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Show the cashier any proof of the residential address that was used to
@@ -278,7 +248,12 @@ upon verification.</p>
 <p>No. Each set of Climate Vouchers comes in multiple denominations ($2,
 $5, $10, $50) adding up to $300. You may refer to the table below for more
 details.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -438,22 +413,13 @@ the voucher amount selected.</p>
 <summary><strong>How do I find out how much value is left for my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You may access your voucher link in the SMS sent by gov.sg or RedeemSG
+<p>You may access your voucher link in the SMS sent by RedeemSG or gov.sg
 to find out the remaining balance of your Climate Vouchers. The value will
 be shown in the “Balance” as per the screenshot below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Balance_w_box.png">
 </div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I claimed my voucher while I was residing at Address A. I have since moved to Address B. The retailer did not allow me to use my voucher as the address on my personal identification document did not match my voucher address. What should I do?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You may request for another set of Climate Vouchers if you have moved
-to another HDB flat, subject to approval. Please submit your request, with
-the necessary documents, to <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -494,13 +460,33 @@ must be an eligible product under the enhanced CFHP.</p>
 <summary><strong>I am interested to participate in this programme as a retailer. How can I find out more?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>NEA welcomes retailers to be onboarded to the CFHP. To participate in
-the programme, which will run until 31 December 2027, your company would
-need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
-and have a physical Point of Sales system (i.e. online transactions are
-not supported). Please note that retailer onboarding will be done in batches,
-and not on an ad-hoc basis as there are several stages in the onboarding
-process. You may reach out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
+<p>To participate in the programme, which will run until 31 December 2027,
+your company would need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
+and have a physical Point of Sales system (i.e. online</p>
+<p>transactions are not supported).</p>
+<p></p>
+<p>Your POS or Sales system should be able to:&nbsp;</p>
+<ol>
+<li>
+<p>connect to the internet to redeem vouchers in real-time via API integration,&nbsp;</p>
+</li>
+</ol>
+<ol start="2">
+<li>
+<p>configure a whitelisting module for eligible products (i.e. a module in
+your POS or Sales system that can ensure that the Climate Vouchers are
+only used for NEA/PUB-approved items), and&nbsp;</p>
+</li>
+</ol>
+<ol start="3">
+<li>
+<p>support QR code scanning.&nbsp;</p>
+</li>
+</ol>
+<p></p>
+<p>Please note that retailer onboarding will be done in batches, and not
+on an ad-hoc basis as there are several stages in the onboarding process.
+You may reach out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
 more information.</p>
 </div>
 </details>
