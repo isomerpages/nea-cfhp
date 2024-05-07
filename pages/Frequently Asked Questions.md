@@ -505,3 +505,5 @@ more information, please refer to <a href="https://redeem.gov.sg/disbursing" rel
 </details>
 </div>
 <p></p>
+<p>Should you require further assistance, please email us at nea@redeem.gov.sg.</p>
+<p></p>
