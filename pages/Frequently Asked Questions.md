@@ -491,17 +491,6 @@ more information.</p>
 </div>
 </details>
 </div>
-<h3>RedeemSG</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>I would like to find out more about the system that is behind the Climate Vouchers.</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>NEA and PUB Climate Vouchers is supported by RedeemSG, the trusted voucher
-system for Singapore. RedeemSG is built by Open Government Products. For
-more information, please refer to <a href="https://redeem.gov.sg/disbursing" rel="noopener noreferrer nofollow" target="_blank">redeem.gov.sg</a> website and their
-<a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
-</div>
-</details>
-</div>
+<h3>Further Enquiries</h3>
+<p>Should you have further enquiries, please contact us at nea@redeem.gov.sg.</p>
 <p></p>
