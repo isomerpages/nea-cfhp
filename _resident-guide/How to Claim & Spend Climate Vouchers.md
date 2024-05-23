@@ -4,6 +4,7 @@ permalink: /claim-spend-eng/
 variant: markdown
 description: ""
 ---
+
 <h3>How to claim your Climate Vouchers?</h3>
 <div class="iframe-wrapper">
    <style> .video-container { display: flex; justify-content: center; } </style>   <div class="video-container"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6iguDa6ZPf4?si=vYTj0zcr6NwIfka9" height="315" width="560"></iframe> </div>  
