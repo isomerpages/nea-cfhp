@@ -4,7 +4,7 @@ permalink: /cv-spend/
 variant: markdown
 description: ""
 ---
-  
+
 <p>Locate your nearest participating retailer from the map. To filter retailers
 based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" height="auto" width="100%" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list
 of participating retailers <a href="/files/List_of_Retailers___CFHP_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
