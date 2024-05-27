@@ -15,10 +15,10 @@ of participating retailers <a href="/files/List_of_Retailers___CFHP_Website.pdf"
 <iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div>
 <h4><em>Legend</em></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend___no_HPWH.png">
+</div>
 <h4>Participating Retailers</h4>
 <table style="minWidth: 125px">
 <colgroup>
