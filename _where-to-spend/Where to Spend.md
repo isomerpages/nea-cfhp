@@ -4,11 +4,11 @@ permalink: /cv-spend/
 variant: markdown
 description: ""
 ---
-<p>Locate your nearest participating retailer from the map. To filter retailers based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" alt="" src="/images/Icon.png">located in the top left corner of the map. You may also refer to the list of participating retailers <a rel="noopener noreferrer nofollow" href="/files/List\_of\_Retailers\_\_\_CFHP\_Website.pdf">here</a>.</p>
+<p>Locate your nearest participating retailer from the map. To filter retailers based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list of participating retailers <a rel="noopener noreferrer nofollow" href="/files/List\_of\_Retailers\_CFHP\_Website.pdf">here</a>.</p>
 <div class="iframe-wrapper">
 <iframe height="480" width="100%" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div>
-[List of Retailers - CFHP](/files/List_of_Retailers___CFHP_Website.pdf)
+
 <h4><em>Legend</em></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend.png">
