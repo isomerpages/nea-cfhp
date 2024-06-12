@@ -10,8 +10,9 @@ description: ""
 <summary><strong>Who is eligible for the enhanced CFHP?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each HDB household is only entitled to one set of vouchers. To be eligible
-for the enhanced Climate Vouchers, the following needs to be met:</p>
+<p>Each HDB household<sup>*</sup> is only entitled to one set of vouchers.
+To be eligible for the enhanced Climate Vouchers, the following needs to
+be met:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>You are a Singapore Citizen or Permanent Resident, and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -20,6 +21,9 @@ for the enhanced Climate Vouchers, the following needs to be met:</p>
 <p>Your residential address is registered at an HDB flat.</p>
 </li>
 </ul>
+<p></p>
+<p><em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -27,10 +31,24 @@ for the enhanced Climate Vouchers, the following needs to be met:</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The previous round of Climate Vouchers expired on 20 March 2024.</p>
+<p></p>
 <p>Regardless of whether you have redeemed Climate Vouchers under the previous
-CFHP, all HDB households are eligible for the new Climate Vouchers under
+CFHP, all HDB households* are eligible for the new Climate Vouchers under
 the enhanced CFHP. You may claim a new set of vouchers at <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
 The enhanced Climate Vouchers will be available until 31 December 2027.</p>
+<p></p>
+<p><em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>There are multiple households residing at the same address. Please provide my household with a set of vouchers.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Multiple families/tenants living in the same registered address are collectively
+entitled to 1 set of Climate Vouchers for the same registered address/flat.
+Thus, only one member of the dwelling unit needs to claim the Vouchers
+and share the voucher link with the rest of the members.</p>
 </div>
 </details>
 </div>
@@ -52,7 +70,7 @@ tap on Climate Vouchers.</p>
 <p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Receive an SMS from RedeemSG or gov. which will contain a unique link
+<p>Receive an SMS from RedeemSG or gov.sg which will contain a unique link
 to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
@@ -133,8 +151,7 @@ are not sent to the wrong mobile number.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An SMS with your unique voucher link will only be sent to your mobile
 number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name "<strong>RedeemSG</strong>"
-or "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>".
+<p>The SMS can be identified by the sender name "RedeemSG" or "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>".
 Please also check that your unique voucher link starts with the following
 prefix, "<strong>voucher.redeem.gov.sg</strong>". Do not trust vouchers
 starting with other prefixes.</p>
