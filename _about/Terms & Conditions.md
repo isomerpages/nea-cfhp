@@ -21,18 +21,20 @@ and $50 any time between 15 April 2024 and 31 December 2027.</p>
 an eligible Housing Development Board (HDB) flat (“Voucher-Holder”) will
 be provided with one set of $300 digital Climate Vouchers which can be
 claimed by logging in to RedeemSG via Singpass.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Each eligible household will be entitled
-to one set of Climate Vouchers for its valid registered address during
-the programme period.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only one member from each eligible household*
+shall claim the Climate Vouchers (“Voucher-Holder”) for his/her valid registered
+address during the programme period.
+<br><em>*Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+</p>
 <p><strong>Use of Climate Vouchers</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers are only valid for
 the purchase of (i) eligible products that carry NEA's energy label and/or
 PUB's water efficiency label or (ii) LED lights, direct current fans and
 heat pump water heaters approved under the programme.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Voucher can be redeemed at
-participating retailers’ stores. For a full list of retail stores and eligible
-products, please visit <a href="https://www.climate-friendly-households.gov.sg/cv-spend/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-spend</a> and
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers can be redeemed
+at participating retailers’ stores. For a full list of retail stores and
+eligible products, please visit <a href="https://www.climate-friendly-households.gov.sg/cv-spend/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-spend</a> and
 <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-products</a>&nbsp;respectively.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers will expire on 31
 December 2027. Any unutilised amount will be forfeited thereafter.</p>
@@ -42,8 +44,8 @@ personal identification document that shows his/her HDB residential address
 that the HDB address indicated on the Climate Voucher corresponds with
 the address on the Voucher-Holder’s personal identification document.</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; No refund shall be given if the value
-of the Climate Voucher exceeds the amount payable for the transaction.
-If the value of the Climate Voucher(s) used in a transaction does not cover
+of the Climate Vouchers exceeds the amount payable for the transaction.
+If the value of the Climate Vouchers used in a transaction does not cover
 the full cost of the transaction, the balance must be paid by the Voucher-Holder.</p>
 <p><strong>Restrictions on use of Climate Vouchers</strong>
 </p>
@@ -73,8 +75,8 @@ retailers and Voucher-Holders.</p>
 <p><strong>Forfeiture of Climate Vouchers</strong>
 </p>
 <p>16.&nbsp; In the event of any breach of the T&amp;Cs herein and/or misuse
-of the Climate Voucher(s), the Agencies reserve the right to void the Climate
-Voucher(s) issued to the Voucher-Holder, and to recover from the Voucher-Holder
-the monetary value of the Climate Voucher(s) utilised by the Voucher-Holder.</p>
-<p>*<em> For the purpose of administering the enhanced Climate Friendly Households Programme, all data including Voucher-Holder’s personal data will be used, disclosed to and stored in applications or platforms (such as RedeemSG) which are owned by, licensed to, managed or controlled by government agencies such as Open Government Products. The personal data may be used and/or disclosed to other government agencies for such other purposes as may be permitted under the applicable laws.</em>
+of the Climate Vouchers, the Agencies reserve the right to void the Climate
+Vouchers issued to the Voucher-Holder, and to recover from the Voucher-Holder
+the monetary value of the Climate Vouchers utilised by the Voucher-Holder.</p>
+<p><em>*Disclaimer: For the purpose of administering the enhanced Climate Friendly Households Programme, all data including Voucher-Holder’s personal data will be used, disclosed to and stored in applications or platforms (such as RedeemSG) which are owned by, licensed to, managed or controlled by government agencies such as Open Government Products. The personal data may be used and/or disclosed to other government agencies for such other purposes as may be permitted under the applicable laws.</em>
 </p>
