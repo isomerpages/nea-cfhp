@@ -44,5 +44,10 @@ sections:
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
+  - infobar:
+      id: infobar
+      description: "* Multiple families/tenants living in the same registered address
+        are collectively entitled to 1 set of Climate Vouchers for the same
+        registered address/flat."
 notification: ""
 ---
