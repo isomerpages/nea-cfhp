@@ -16,7 +16,7 @@ sections:
       title: Climate Vouchers
       id: infobar
       description: Under the Climate Friendly Households Programme, every HDB
-        household can claim $300 in Climate Vouchers to purchase energy- and
+        household* can claim $300 in Climate Vouchers to purchase energy- and
         water-efficient products.
       button: Find out more
       url: /about-cv
@@ -31,7 +31,7 @@ sections:
           linktext: Refer to this Guide
           url: /claim-spend-eng
         - title: Claim your Climate Vouchers
-          description: Only one member needs to do this on behalf of the entire household.
+          description: Only one member needs to do this on behalf of the entire household*.
           linktext: Claim your vouchers here
           url: https://go.gov.sg/cv-claim
         - title: Where to Spend your Climate Vouchers?
@@ -44,5 +44,10 @@ sections:
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
+  - infobar:
+      id: infobar
+      description: "* Multiple families/tenants living in the same registered address
+        are collectively entitled to 1 set of Climate Vouchers for the same
+        registered address/flat."
 notification: ""
 ---
