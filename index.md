@@ -16,7 +16,7 @@ sections:
       title: Climate Vouchers
       id: infobar
       description: Under the Climate Friendly Households Programme, every HDB
-        household can claim $300 in Climate Vouchers to purchase energy- and
+        household* can claim $300 in Climate Vouchers to purchase energy- and
         water-efficient products.
       button: Find out more
       url: /about-cv
