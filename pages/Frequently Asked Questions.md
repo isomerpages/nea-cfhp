@@ -21,9 +21,6 @@ be met:</p>
 <p>Your residential address is registered at an HDB flat.</p>
 </li>
 </ul>
-<p></p>
-<p><em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
-</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -36,9 +33,6 @@ be met:</p>
 CFHP, all HDB households* are eligible for one set of Climate Vouchers
 under the enhanced CFHP. You may claim a new set of vouchers at <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
 The enhanced Climate Vouchers will be available until 31 December 2027.</p>
-<p></p>
-<p><em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
-</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -52,15 +46,17 @@ and share the voucher link with the rest of the members.</p>
 </div>
 </details>
 </div>
-<h3>&nbsp;Claiming your Climate Vouchers</h3>
+<p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+</p>
+<h3>Claiming your Climate Vouchers</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>How do I claim my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please note that only one member needs to claim the Climate Vouchers on
-behalf of the entire household. You may forward the unique SMS link to
-share the vouchers with your household members.</p>
+behalf of the entire household*. You may forward the unique SMS link to
+share the vouchers with your household* members.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Visit <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
@@ -187,6 +183,8 @@ period, and will be valid till 31 December 2027.&nbsp;</p>
 </div>
 </details>
 </div>
+<p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+</p>
 <h3>Spending your Climate Vouchers</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
