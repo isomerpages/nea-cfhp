@@ -24,7 +24,7 @@ be claimed by logging in to RedeemSG via Singpass.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only one member from each eligible household*
 shall claim the Climate Vouchers (“Voucher-Holder”) for his/her valid registered
 address during the programme period.
-<br><em>*Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+<br>
 </p>
 <p><strong>Use of Climate Vouchers</strong>
 </p>
@@ -50,7 +50,7 @@ the full cost of the transaction, the balance must be paid by the Voucher-Holder
 <p><strong>Restrictions on use of Climate Vouchers</strong>
 </p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Multiple Climate Vouchers from different
-households cannot be used for a single transaction.</p>
+households* cannot be used for a single transaction.</p>
 <p>10.&nbsp; The Climate Vouchers are not refundable, resaleable, or exchangeable
 for cash, store credit, cash voucher, gift voucher, gift card or otherwise.</p>
 <p>11.&nbsp;&nbsp; Exchanges for products purchased with the Climate Vouchers
@@ -78,5 +78,13 @@ retailers and Voucher-Holders.</p>
 of the Climate Vouchers, the Agencies reserve the right to void the Climate
 Vouchers issued to the Voucher-Holder, and to recover from the Voucher-Holder
 the monetary value of the Climate Vouchers utilised by the Voucher-Holder.</p>
-<p><em>*Disclaimer: For the purpose of administering the enhanced Climate Friendly Households Programme, all data including Voucher-Holder’s personal data will be used, disclosed to and stored in applications or platforms (such as RedeemSG) which are owned by, licensed to, managed or controlled by government agencies such as Open Government Products. The personal data may be used and/or disclosed to other government agencies for such other purposes as may be permitted under the applicable laws.</em>
+<p>Disclaimer: For the purpose of administering the enhanced Climate Friendly
+Households Programme, all data including Voucher-Holder’s personal data
+will be used, disclosed to and stored in applications or platforms (such
+as RedeemSG) which are owned by, licensed to, managed or controlled by
+government agencies such as Open Government Products. The personal data
+may be used and/or disclosed to other government agencies for such other
+purposes as may be permitted under the applicable laws.</p>
+<hr>
+<p><em>*Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
 </p>
