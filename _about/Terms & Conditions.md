@@ -1,7 +1,7 @@
 ---
 title: Terms & Conditions
 permalink: /terms-cv/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong>Terms and Conditions for Climate Vouchers</strong></h3>
