@@ -17,7 +17,7 @@ description: ""
   <tbody>
     <tr>
       <td rowspan="1" colspan="1" style="text-align: center;">
-        <strong>Revised Label for Lights</strong>
+        <strong>Revised Label for Lights </strong>
       </td>
       <td rowspan="1" colspan="1" style="text-align: center;">
         <strong>Old Label for Lights (Valid until Apr 2025)</strong>
@@ -27,8 +27,9 @@ description: ""
       <th rowspan="1" colspan="1" style="text-align: center;">
         <div class="isomer-image-wrapper">
           <img style="width: 50%;" alt="" src="/images/Labels/240122___Energy_Label_3_ticks.jpg">
+					<p> Based on the revised energy label, LED lights with 2-ticks and above are eligible under the programme. </p>
         </div>
-      </th>
+			</th>
       <th rowspan="1" colspan="1" style="text-align: center;">
         <div class="isomer-image-wrapper">
           <img style="width: 45%;" alt="" src="/images/Labels/150105___Lighting_Label_3_Tick.jpg">
