@@ -85,8 +85,8 @@ the $300 Climate Vouchers.</p>
 <summary><strong>I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You may visit this <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">link</a> for a list
-of Frequently Asked Questions on Singpass.</p>
+<p>You may visit this <a href="https://ask.gov.sg/singpass" rel="noopener noreferrer nofollow" target="_blank">link</a> for a list of Frequently Asked
+Questions on Singpass.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -94,7 +94,7 @@ of Frequently Asked Questions on Singpass.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may wish to register for a Singpass account. Please refer to the guide
-on registering for a Singpass account <a href="https://www.singpass.gov.sg/main/html/faq.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+on registering for a Singpass account <a href="https://ask.gov.sg/singpass" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Information on where you can get help to register for a Singpass account
 can be found under Getting Started &gt;&gt; About Singpass &gt;&gt; Where
 can I get help?</p>
