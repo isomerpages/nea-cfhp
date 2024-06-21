@@ -2,5 +2,6 @@ collections:
   energy-and-water-labels:
     output: true
     order:
+      - Example Title.md
       - Energy Label.md
       - Water Efficiency Label.md
