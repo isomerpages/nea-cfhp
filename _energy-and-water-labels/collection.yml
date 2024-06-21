@@ -1,6 +1,0 @@
-collections:
-  energy-and-water-labels:
-    output: true
-    order:
-      - Energy Label.md
-      - Water Efficiency Label.md

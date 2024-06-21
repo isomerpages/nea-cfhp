@@ -447,18 +447,6 @@ to buy energy and/or water efficient appliances and/or fittings, if they
 need to be replaced.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>Can the Climate Vouchers be sold?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>No. The Climate Vouchers are not for resale, or exchangeable for cash,
-store credit, cash voucher, gift voucher, gift card or otherwise. Members
-of the public can report incidents of misuse of the Climate Vouchers via
-the <a href="https://form.gov.sg/660552388f2033f0a0252c04" rel="noopener noreferrer nofollow" target="_blank">whistleblowing form</a> on
-the Climate Vouchers website. Please refer to the Terms &amp; Conditions
-of the Climate Vouchers&nbsp;<a href="https://www.climate-friendly-households.gov.sg/terms-cv/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</div>
-</details>
 </div>
 <h3>Refunds &amp; Exchanges</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
