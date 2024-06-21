@@ -1,5 +1,4 @@
 collections:
   dc-fans-and-hpwh:
     output: true
-    order:
-      - Direct Current Fans.md
+    order: []
