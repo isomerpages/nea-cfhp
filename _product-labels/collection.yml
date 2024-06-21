@@ -2,8 +2,8 @@ collections:
   product-labels:
     output: true
     order:
+      - Refrigerators.md
       - Direct Current Fans.md
       - Heat Pump Water Heaters.md
-      - Refrigerators.md
       - Energy Label.md
       - Water Efficiency Label.md
