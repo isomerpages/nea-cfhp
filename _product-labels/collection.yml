@@ -2,6 +2,7 @@ collections:
   product-labels:
     output: true
     order:
+      - LED lights.md
       - Air Conditioners.md
       - Refrigerators.md
       - Direct Current Fans.md
