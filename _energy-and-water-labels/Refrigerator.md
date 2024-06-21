@@ -24,7 +24,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Labels/RF_3_Ticks.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Labels/RF_3_Ticks.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
