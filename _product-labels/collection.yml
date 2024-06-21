@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - LED lights.md
-      - Air Conditioners.md
       - Refrigerators.md
+      - Air Conditioners.md
       - Direct Current Fans.md
       - Heat Pump Water Heaters.md
       - Energy Label.md
