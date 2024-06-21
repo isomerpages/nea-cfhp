@@ -2,6 +2,6 @@ collections:
   energy-and-water-labels:
     output: true
     order:
-      - Example Title.md
+      - Refrigerator.md
       - Energy Label.md
       - Water Efficiency Label.md
