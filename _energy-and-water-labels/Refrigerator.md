@@ -4,7 +4,7 @@ permalink: /mels-refrigerator/
 variant: tiptap
 description: ""
 ---
-<h4><strong>How do I identify an eligible refrigerator / air-conditioner / LED light in stores?</strong>&nbsp;</h4>
+<h4><strong>How do I identify an eligible refrigerator in stores?</strong>&nbsp;</h4>
 <p>Look out for labels like these in stores!</p>
 <table style="minWidth: 50px">
 <colgroup>
