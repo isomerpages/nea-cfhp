@@ -2,10 +2,10 @@ collections:
   product-labels:
     output: true
     order:
-      - LED lights.md
       - Refrigerators.md
       - Air Conditioners.md
       - Direct Current Fans.md
+      - LED lights.md
       - Heat Pump Water Heaters.md
       - Energy Label.md
       - Water Efficiency Label.md
