@@ -2,7 +2,7 @@ collections:
   product-labels:
     output: true
     order:
-      - Air conditioners.md
+      - Air Conditioners.md
       - Refrigerators.md
       - Direct Current Fans.md
       - Heat Pump Water Heaters.md
