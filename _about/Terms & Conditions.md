@@ -78,13 +78,14 @@ retailers and Voucher-Holders.</p>
 of the Climate Vouchers, the Agencies reserve the right to void the Climate
 Vouchers issued to the Voucher-Holder, and to recover from the Voucher-Holder
 the monetary value of the Climate Vouchers utilised by the Voucher-Holder.</p>
-<p>Disclaimer: For the purpose of administering the enhanced Climate Friendly
-Households Programme, all data including Voucher-Holder’s personal data
-will be used, disclosed to and stored in applications or platforms (such
-as RedeemSG) which are owned by, licensed to, managed or controlled by
-government agencies such as Open Government Products. The personal data
-may be used and/or disclosed to other government agencies for such other
-purposes as may be permitted under the applicable laws.</p>
+<p></p>
+<p>For the purpose of administering the enhanced Climate Friendly Households
+Programme, all data including Voucher-Holder’s personal data will be used,
+disclosed to and stored in applications or platforms (such as RedeemSG)
+which are owned by, licensed to, managed or controlled by government agencies
+such as Open Government Products. The personal data may be used and/or
+disclosed to other government agencies for such other purposes as may be
+permitted under the applicable laws.</p>
 <hr>
 <p><em>*Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
 </p>
