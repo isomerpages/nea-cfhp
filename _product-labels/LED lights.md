@@ -5,14 +5,17 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>How do I identify an eligible LED light in stores?</strong>&nbsp;</h4>
-<p>From 1 April 2024, the energy label was revised from a 3-tick to a 4-tick
-rating system.</p>
-<p>2-ticks, 3-ticks and 4-ticks LED lights, <strong>based on the revised energy label</strong>,
-are eligible for use with the Climate Voucher.</p>
+<p>From 1 April 2024, NEA raised energy standards and introduced a revised
+rating system (along with a refreshed Energy Label with a new 4-tick rating
+scale) for lamps (<a href="https://www.nea.gov.sg/media/news/news/index/enhancing-energy-efficiency-requirements-of-home-appliances" rel="noopener noreferrer nofollow" target="_blank">news link</a>).</p>
+<p>The Climate Vouchers can be used to purchase 2-tick, 3-tick and 4-tick
+LED lights that are based on the<strong> revised energy label.</strong>
+</p>
 <p>As suppliers are given a grace period of one year (i.e. until 31 March
-2025) to clear their stocks reflecting the old energy label for lights,
-please approach the staff at participating retailers’ outlets for assistance
-on the models that are eligible.</p>
+2025) to update their energy labels, please look out for Climate Voucher
+stickers or wobblers that indicate the products that are eligible for use
+with the vouchers. Alternatively, you may approach the staff at participating
+retailer outlets for assistance.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
