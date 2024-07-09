@@ -46,4 +46,46 @@ retailer outlets for assistance.</p>
 </tr>
 </tbody>
 </table>
+<p>Some examples of eligible LED lights include downlights, spotlights, and
+circular tubelights.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>LED downlights</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>LED spotlights</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>LED circular tubelights</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   Eligible Products/LED_downlight.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   Eligible Products/LED_spotlight.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   Eligible Products/LED_tube_lights.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
