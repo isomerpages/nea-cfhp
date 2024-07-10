@@ -34,3 +34,28 @@ description: ""
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP TM/TM__1_.png">
 </div>
 <p>INSERT PINK BOX</p>
+<p></p>
+<h4>உங்களது பருவநிலைப் பற்றுச்சீட்டுகளை செலவிடும் வழிமுறை</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>பற்றுச்சீட்டுடன் முகவரி </strong>ஆதாரத்தைக்<strong> காட்டுங்கள்.</strong>
+</p>
+</li>
+<li>
+<p><strong>செலவிட விரும்பும் தொகையைத் தேர்ந்தெடுங்கள். </strong>பிறகு, “பற்றுச்சீட்டைக்
+காட்டுங்கள்” என்பதன்மீது தட்டுங்கள்</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP TM/TM__12_.png">
+</div>
+</li>
+<li>
+<p><strong>காசாளரிடம் விரைவுத் தகவல் குறியீட்டைக் காட்டுங்கள்</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP TM/TM__4_.png">
+</div>
+<p><a href="https://www.climate-friendly-households.gov.sg/cv-faqs/" rel="noopener noreferrer nofollow" target="_blank">மேல்விவரங்களுக்கு, அன்புகூர்ந்து அடிக்கடி கேட்கப்படும் கேள்விகளைப் பாருங்கள்.</a>
+</p>
+</li>
+</ol>
+<p></p>
