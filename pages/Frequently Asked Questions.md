@@ -420,6 +420,17 @@ for verification by the participating retailer.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>I am a first-time homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
+the programme period (i.e. from 15 April 2024 to 31 December 2027). First-time
+homeowners who are moving into their new HDB flat should claim the Climate
+Vouchers under their new address, after they have updated their registered
+address.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Can the Climate Vouchers be sold?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -441,8 +452,7 @@ the voucher amount selected.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may access your voucher link in the SMS sent by RedeemSG or gov.sg
 to find out the remaining balance of your Climate Vouchers. The value will
-be shown in the “Balance” as per the screenshot below.</p>
-<p></p>
+be shown in the “Balance” as per the screenshot below</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Balance_w_box.png">
 </div>
@@ -456,17 +466,6 @@ to encourage households to reduce their energy and water consumption, while
 saving costs in the long run. As such, we encourage you to use your vouchers
 to buy energy and/or water efficient appliances and/or fittings, if they
 need to be replaced.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I am a first-time homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
-the programme period (i.e. from 15 April 2024 to 31 December 2027). First-time
-homeowners who are moving into their new HDB flat should claim the Climate
-Vouchers under their new address, after they have updated their registered
-address.</p>
 </div>
 </details>
 </div>
