@@ -42,8 +42,10 @@ atau balas.</p> </div>
 <p></p>
 <h4>Cara membelanjakan Baucar Iklim anda</h4>
 <ol data-tight="true" class="tight">
-<li>
-<p>Pilih jumlah yang hendak dibelanjakan. Kemudian ketik pada '‘Tunjukkan
+	<li>
+<p>Tunjukkan bukti alamat beserta baucar</p>
+</li><li>
+<p>Pilih jumlah yang hendak dibelanjakan. Kemudian ketik pada 'Tunjukkan
 baucar’</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP ML/ML__12_.png">
