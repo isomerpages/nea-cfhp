@@ -2,5 +2,6 @@ collections:
   resident-guide:
     output: true
     order:
+      - Cara Menuntut & Menggunakan Baucar Iklim.md
       - 如何领取和使用气候优惠券.md
       - How to Claim & Spend Climate Vouchers.md
