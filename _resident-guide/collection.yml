@@ -2,4 +2,5 @@ collections:
   resident-guide:
     output: true
     order:
+      - 如何领取和使用气候优惠券.md
       - How to Claim & Spend Climate Vouchers.md
