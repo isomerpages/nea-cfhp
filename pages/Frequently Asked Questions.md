@@ -469,6 +469,8 @@ need to be replaced.</p>
 </div>
 </details>
 </div>
+<p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+</p>
 <h3>Refunds &amp; Exchanges</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
