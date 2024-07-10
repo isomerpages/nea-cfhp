@@ -45,6 +45,17 @@ Thus, only one member of the dwelling unit needs to claim the Vouchers
 and share the voucher link with the rest of the members.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>I am the owner of the HDB flat, however I do not reside at the HDB flat (i.e. registered address as per NRIC is not at the HDB flat). Am I eligible to claim a set of Climate Vouchers for the HDB flat?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Climate Vouchers are intended for the residents of the HDB flat to
+assist in lowering the upfront cost for the purchase of resource-efficient
+appliances and fittings. In this regard, an owner of a HDB flat whose registered
+address is not at the flat is unable to claim Climate Vouchers for the
+flat.</p>
+</div>
+</details>
 </div>
 <p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
 </p>
@@ -445,6 +456,17 @@ to encourage households to reduce their energy and water consumption, while
 saving costs in the long run. As such, we encourage you to use your vouchers
 to buy energy and/or water efficient appliances and/or fittings, if they
 need to be replaced.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I am a first-time homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
+the programme period (i.e. from 15 April 2024 to 31 December 2027). First-time
+homeowners who are moving into their new HDB flat should claim the Climate
+Vouchers under their new address, after they have updated their registered
+address.</p>
 </div>
 </details>
 </div>
