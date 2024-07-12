@@ -46,8 +46,8 @@ retailer outlets for assistance.</p>
 </tr>
 </tbody>
 </table>
-<p>Some examples of eligible non-regulated LED lights include downlights,
-spotlights, and circular tubelights.</p>
+<p>Some examples of eligible unregulated LED lights include downlights, spotlights,
+and circular tubelights.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   Eligible Products/Screenshot_2024_07_12_at_3_36_45_PM.png">
 </div>
