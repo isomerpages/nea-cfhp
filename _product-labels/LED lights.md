@@ -46,4 +46,11 @@ retailer outlets for assistance.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Some examples of eligible LED lights: downlights, spotlights, and circular
+tubelights.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   Eligible Products/Screenshot_2024_07_12_at_3_36_45_PM.png">
+</div>
+<p>Given that retailers may offer different models, it is advisable to enquire
+with them about the specific models that are eligible for purchase with
+the Climate Vouchers.</p>

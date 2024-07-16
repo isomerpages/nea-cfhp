@@ -45,6 +45,17 @@ Thus, only one member of the dwelling unit needs to claim the Vouchers
 and share the voucher link with the rest of the members.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>I am the owner of the HDB flat, however I do not reside at the HDB flat (i.e. registered address as per NRIC is not at the HDB flat). Am I eligible to claim a set of Climate Vouchers for the HDB flat?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Climate Vouchers are intended for the residents of the HDB flat to
+assist in lowering the upfront cost for the purchase of resource-efficient
+appliances and fittings. In this regard, an owner of a HDB flat whose registered
+address is not at the flat is unable to claim Climate Vouchers for the
+flat.</p>
+</div>
+</details>
 </div>
 <p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
 </p>
@@ -409,6 +420,17 @@ for verification by the participating retailer.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>I am a first-time homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
+the programme period (i.e. from 15 April 2024 to 31 December 2027). First-time
+homeowners who are moving into their new HDB flat should claim the Climate
+Vouchers under their new address, after they have updated their registered
+address.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary><strong>Can the Climate Vouchers be sold?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -430,8 +452,7 @@ the voucher amount selected.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may access your voucher link in the SMS sent by RedeemSG or gov.sg
 to find out the remaining balance of your Climate Vouchers. The value will
-be shown in the “Balance” as per the screenshot below.</p>
-<p></p>
+be shown in the “Balance” as per the screenshot below</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Balance_w_box.png">
 </div>
@@ -448,6 +469,8 @@ need to be replaced.</p>
 </div>
 </details>
 </div>
+<p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+</p>
 <h3>Refunds &amp; Exchanges</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
