@@ -2,6 +2,5 @@ collections:
   where-to-spend:
     output: true
     order:
-      - Batch 0 Where to Spend.md
       - Where to Spend.md
       - Eligible Products.md
