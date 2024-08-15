@@ -12,7 +12,7 @@ based on the eligible products they carry, simply select the icon</p>
 <p>located in the top left corner of the map. You may also refer to the list
 of participating retailers <a href="/files/List_of_Retailers___CFHP_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1ABKMzdAOeyXNwfoADwIVNOjOFFReLJI&amp;ehbc=2E312F&amp;noprof=1"></iframe>
+<iframe height="480" width="640" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1ABKMzdAOeyXNwfoADwIVNOjOFFReLJI&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div>
 <h4><em>Legend</em></h4>
 <p></p>
