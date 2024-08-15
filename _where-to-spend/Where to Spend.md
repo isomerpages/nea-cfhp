@@ -17,7 +17,7 @@ of participating retailers <a href="/files/List_of_Retailers___CFHP_Website.pdf"
 <h4><em>Legend</em></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend___no_HPWH.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend.png">
 </div>
 <h4>Participating Retailers</h4>
 <div class="iframe-wrapper">
