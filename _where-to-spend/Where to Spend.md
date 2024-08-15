@@ -15,7 +15,7 @@ For a full list of participating retail stores, please click <a href="/files/Lis
 <h4><em>Legend</em></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend_NEW.png">
 </div>
 
 <h4 id="participating-retailers">Participating Retailers</h4>
