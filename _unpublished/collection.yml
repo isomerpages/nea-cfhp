@@ -1,5 +1,5 @@
 collections:
-  unpublished-translations:
+  unpublished:
     output: true
     order:
       - Batch 0 Where to Spend.md
