@@ -5,12 +5,7 @@ variant: markdown
 description: ""
 ---
 <p>Locate your nearest participating retailer from the map. To filter retailers
-based on the eligible products they carry, simply select the icon</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" height="auto" width="100%" alt="" src="/images/Icon.png">
-</div>
-<p>located in the top left corner of the map. You may also refer to the list
-of participating retailers here &lt;&lt;link to bottom of page with logos&gt;&gt;.
+based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" height="auto" width="100%" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list of participating retailers here &lt;&lt;link to bottom of page with logos&gt;&gt;.
 For a full list of participating retail stores, please click <a href="/files/List_of_Retailers___CFHP_Website_19_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
 <iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1ABKMzdAOeyXNwfoADwIVNOjOFFReLJI&amp;ehbc=2E312F&amp;noprof=1"></iframe>
