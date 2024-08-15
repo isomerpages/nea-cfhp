@@ -21,6 +21,6 @@ of participating retailers <a href="/files/List_of_Retailers___CFHP_Website.pdf"
 </div>
 <h4>Participating Retailers</h4>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ZPSsz8fRLaFz4UmoYHXWdv1qzxcRwKm9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ZPSsz8fRLaFz4UmoYHXWdv1qzxcRwKm9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
