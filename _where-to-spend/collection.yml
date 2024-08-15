@@ -2,7 +2,6 @@ collections:
   where-to-spend:
     output: true
     order:
-      - Where to Spend NEW BACK UP.md
       - Example Title.md
       - Where to Spend.md
       - Eligible Products.md
