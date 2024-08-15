@@ -2,5 +2,6 @@ collections:
   where-to-spend:
     output: true
     order:
+      - Example Title.md
       - Where to Spend.md
       - Eligible Products.md
