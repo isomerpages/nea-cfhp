@@ -12,7 +12,7 @@ based on the eligible products they carry, simply select the icon</p>
 <p>located in the top left corner of the map. You may also refer to the list
 of participating retailers <a href="/files/List_of_Retailers___CFHP_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
-<iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1Pj5ATXWuN_OZToZxkwvj58ZXP5JPg5M&amp;ehbc=2E312F&amp;noprof=1"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/2/embed?mid=1ABKMzdAOeyXNwfoADwIVNOjOFFReLJI&amp;ehbc=2E312F&amp;noprof=1"></iframe>
 </div>
 <h4><em>Legend</em></h4>
 <p></p>
@@ -20,9 +20,6 @@ of participating retailers <a href="/files/List_of_Retailers___CFHP_Website.pdf"
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legend___no_HPWH.png">
 </div>
 <h4>Participating Retailers</h4>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ZPSsz8fRLaFz4UmoYHXWdv1qzxcRwKm9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ZPSsz8fRLaFz4UmoYHXWdv1qzxcRwKm9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
