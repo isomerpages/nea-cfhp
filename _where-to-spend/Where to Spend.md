@@ -22,9 +22,6 @@ For a full list of participating retail stores, please click <a href="/files/Lis
 </div>
 <h4>Participating Retailers</h4>
 <div class="iframe-wrapper">
-<iframe height="280" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ZPSsz8fRLaFz4UmoYHXWdv1qzxcRwKm9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<div class="iframe-wrapper">
 <iframe height="389" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ZPSsz8fRLaFz4UmoYHXWdv1qzxcRwKm9/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
