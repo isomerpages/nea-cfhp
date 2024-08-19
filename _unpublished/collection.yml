@@ -1,5 +1,6 @@
 collections:
-  unpublished-translations:
+  unpublished:
     output: true
     order:
+      - Batch 0 Where to Spend.md
       - பருவநிலைப் பற்றுச்சீட்டுகளை எவ்வாறு பெற்று செலவழிப்பது.md
