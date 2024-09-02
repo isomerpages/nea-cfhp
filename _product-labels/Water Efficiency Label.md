@@ -25,9 +25,6 @@ fittings</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Labels/WELS_3_tick.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/mels_4_tick.png">
 </div>
 <p></p>
