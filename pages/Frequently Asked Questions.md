@@ -374,10 +374,10 @@ will not reimburse residents for unredeemed vouchers.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Can I spend my Climate Vouchers for online transactions?</strong>&nbsp;&nbsp;&nbsp;&nbsp;</summary>
+<summary><strong>Can I spend my Climate Vouchers online?</strong>&nbsp;&nbsp;&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers are only accepted in-store through physical payment.
-Climate Vouchers cannot be used for in-app or online transactions.</p>
+<p>The Climate Vouchers can only be used at participating retailers' physical
+Point-of-Sale system. They cannot be used for in-app or online redemptions.</p>
 </div>
 </details>
 <details class="isomer-details">
