@@ -6,7 +6,11 @@ description: ""
 ---
 <h1>Get in touch with NEA and PUB</h1>
 <h4>Contact Us</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -30,7 +34,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a>
+<p><a href="https://eservices.pub.gov.sg/helpandfeedback/report" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a>
 </p>
 </td>
 </tr>
