@@ -10,7 +10,7 @@ description: ""
 based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" height="auto" width="100%" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>.
 For a full list of participating retail stores, please click <a href="/files/List_of_Retailers___CFHP_Website_16_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="iframe-wrapper">
-<iframe height="480" width="100%" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/d/u/3/embed?mid=1D_ZZClECSPLZGxsdEoPA4v2eDJXSuAw&amp;ehbc=2E312F&amp;noprof=1"></iframe>
+<iframe height="480" width="100%" allowfullscreen="true" src="https://www.google.com/maps/d/u/3/embed?mid=1NHc0PlBmR7RHjSyA4YUmzZddWl-QVzU&amp;ehbc=2E312F frameborder="></iframe>
 
 </div>
 <h4><em>Legend</em></h4>
@@ -21,6 +21,6 @@ For a full list of participating retail stores, please click <a href="/files/Lis
 
 <h4 id="participating-retailers">Participating Retailers</h4>
 <div class="iframe-wrapper">
-	<iframe allowfullscreen="true" height="389" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBErsaH7_1McVYuand9HYhFQJUVcfLkIALKrNLuZMs8fy-xrzm7f25-JrLT-RlxQ/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+	<iframe allowfullscreen="true" height="389" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRmhwQQGj83zRObRrKiKw0dxLA4gUN6kJYY8Ik_TO2pAG6F76hD7R1yxZXAasag4w/embed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
 </div>
 <p></p>
