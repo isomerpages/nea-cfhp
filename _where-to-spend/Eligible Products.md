@@ -42,7 +42,7 @@ description: ""
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water closets" src="/images/ECFHP   Eligible Products/With logo/Slide16.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water closets</div><div class="isomer-card-description">3 ticks</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/sink-or-bib-taps-and-mixers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sink/Bib taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide19.png">
