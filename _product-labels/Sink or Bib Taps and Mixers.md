@@ -7,7 +7,7 @@ description: ""
 <h4><strong>How do I identify an eligible Sink/Bib taps and mixers in stores?</strong></h4>
 <p>Look out for labels like these in stores!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 48%;" height="auto" width="100%" alt="" src="/images/Labels/WELS_3_tick.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Labels/WELS_3_tick.png">
 </div>
 <p></p>
 <h4><strong>What are Bib taps?</strong></h4>
@@ -15,6 +15,6 @@ description: ""
 hoses in outdoor and/or utility settings, such as, but not limited to,
 the gardening and laundry area.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Bib_tap.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Bib_tap.png">
 </div>
 <p></p>
