@@ -136,7 +136,7 @@ via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener no
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
 <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
-to get your unique voucher link sent via an SMS from RedeemSG or <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
+to get your unique voucher link sent via an SMS from <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
