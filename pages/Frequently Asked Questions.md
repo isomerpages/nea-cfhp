@@ -77,8 +77,8 @@ tap on Climate Vouchers.</p>
 <p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Receive an SMS from RedeemSG or gov.sg which will contain a unique link
-to your Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Receive an SMS from gov.sg which will contain a unique link to your Climate
+Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 </ol>
 <p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
@@ -158,13 +158,13 @@ are not sent to the wrong mobile number.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>An SMS with your unique voucher link will only be sent to your mobile
 number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name "RedeemSG" or "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>".
+<p>The SMS can be identified by the sender name "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>".
 Please also check that your unique voucher link starts with the following
 prefix, "<strong>voucher.redeem.gov.sg</strong>". Do not trust vouchers
 starting with other prefixes.</p>
 <p></p>
-<p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>or <strong>RedeemSG</strong>.
-Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> or RedeemSG </strong>that
+<p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>.
+Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>that
 follow this format.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -224,7 +224,7 @@ retail store. You may refer to the full list of participating retailers
 <summary><strong>How can I spend my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tap on your unique voucher link from the SMS sent by RedeemSG or <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
+<p>Tap on your unique voucher link from the SMS sent by <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Show the cashier any proof of the residential address that was used to
@@ -268,90 +268,12 @@ upon verification.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Do I have to spend the full value of the Climate Vouchers (i.e. $300) in a single transaction?</strong>
+<summary><strong>Do I have to spend the full value of the Climate Vouchersin a single transaction?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. Each set of Climate Vouchers comes in multiple denominations ($2,
-$5, $10, $50) adding up to $300. You may refer to the table below for more
-details.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Denomination</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Quantity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sum</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>$2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$10</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>$5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$20</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>$10</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$120</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>$50</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$150</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Total:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$300</p>
-</td>
-</tr>
-</tbody>
-</table>
+$5, $10, $50).</p>
+<p></p>
 <p>You may select the voucher amount you would like to spend. For example,
 you can spend $30 worth of Climate Vouchers on eligible LED lights today
 and use the remaining $270 at a later date on another eligible product.</p>
@@ -386,11 +308,11 @@ Point-of-Sale system. They cannot be used for in-app or online redemptions.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. You may share your unique voucher link with your household members,
 by clicking on&nbsp;“Info &amp; help”, followed by “Share your vouchers”.
-You can also forward the voucher link SMS from gov.sg or RedeemSG to your
-household members directly. However, please be careful when sharing your
-unique voucher link with others as anyone with access to the link may be
-able to spend the vouchers. We seek your understanding that there will
-be no reinstatement made for vouchers that were shared erroneously.</p>
+You can also forward the voucher link SMS from gov.sg to your household
+members directly. However, please be careful when sharing your unique voucher
+link with others as anyone with access to the link may be able to spend
+the vouchers. We seek your understanding that there will be no reinstatement
+made for vouchers that were shared erroneously.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>If your family member lives with you, they can produce their own NRIC
@@ -450,9 +372,9 @@ the voucher amount selected.</p>
 <summary><strong>How do I find out how much value is left for my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You may access your voucher link in the SMS sent by RedeemSG or gov.sg
-to find out the remaining balance of your Climate Vouchers. The value will
-be shown in the “Balance” as per the screenshot below</p>
+<p>You may access your voucher link in the SMS sent by gov.sg to find out
+the remaining balance of your Climate Vouchers. The value will be shown
+in the “Balance” as per the screenshot below</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Balance_w_box.png">
 </div>
@@ -500,8 +422,8 @@ must be an eligible product under the enhanced CFHP.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To participate in the programme, which will run until 31 December 2027,
 your company would need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
-and have a physical Point of Sales system (i.e. online transactions are
-not supported).</p>
+and have a physical Point of Sales system (i.e. online or remote scanning
+of vouchers are not supported).</p>
 <p></p>
 <p>Your POS or Sales system should be able to:&nbsp;</p>
 <ol>
