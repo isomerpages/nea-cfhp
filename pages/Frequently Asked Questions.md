@@ -169,16 +169,8 @@ follow this format.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
 </div>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
