@@ -167,11 +167,13 @@ starting with other prefixes.</p>
 Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>that
 follow this format.</p>
 <p></p>
-</div>
-</details>
-</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
+</div>
+<p></p>
+</div>
+</details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
