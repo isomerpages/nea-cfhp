@@ -300,8 +300,16 @@ will not reimburse residents for unredeemed vouchers.</p>
 <details class="isomer-details">
 <summary><strong>Can I spend my Climate Vouchers online?</strong>&nbsp;&nbsp;&nbsp;&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers can only be used at participating retailers' physical
-Point-of-Sale system. They cannot be used for in-app or online redemptions.</p>
+<p>The Climate Vouchers may be applied to offset your online purchase, but
+they can only be scanned <u>in-person</u> using the participating retailer’s
+approved Point-of-Sale system at their physical store or at the point of
+delivery.</p>
+<p></p>
+<p><strong>Customers are strongly advised not to forward their vouchers to retailers remotely via social media or online platforms for scanning or redemption</strong>.
+Customers should check that the retailers offering online Climate Voucher
+promotions are <a href="https://www.climate-friendly-households.gov.sg/cv-spend/" rel="noopener nofollow" target="_blank">Participating Retailers</a> under
+the programme.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -341,6 +349,11 @@ to the retail assistant at the point of purchase.</p>
 you using your household’s vouchers. However, they will have to bring a
 copy of your personal identification document showing your HDB address
 for verification by the participating retailer.</p>
+<p></p>
+<p>However, please be careful when sharing your unique voucher link with
+others as anyone with access to the link may be able to spend the vouchers.
+We seek your understanding that there will be no reinstatement made for
+vouchers that were shared erroneously.</p>
 </div>
 </details>
 <details class="isomer-details">
