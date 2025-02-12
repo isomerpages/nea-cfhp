@@ -41,5 +41,37 @@ repaired.</p>
 regardless of whether they have spent the original set of $300 vouchers.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>I am eligible for the additional Climate Vouchers but do not have a mobile phone. What should I do if I would like to request for printed vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Eligible households may submit a request to NEA after the additional $100
+Climate Vouchers is made available. More information will be provided at
+a later date.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I have changed my address after I have claimed the original $300 vouchers. Am I still allowed to claim the additional $100 vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Eligible households that have moved to a different residential address
+may claim the $100 Climate Vouchers at the new address. Each eligible household
+is only entitled to claim the $300 and $100 Climate Vouchers once.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What can I use my Climate Vouchers on?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
+household products. These include Refrigerators (3-tick and above), Air
+conditioners (5-tick and above), Direct Current fans, LED lights (2-tick
+and above), Washing machines (4-tick), Water closets (3-tick), Sink/Bib
+taps and mixers (3-tick), Basin taps and mixers (3-tick).</p>
+<p>&nbsp;</p>
+<p>You may visit <a href="www.go.gov.sg/climatevouchers" rel="noopener noreferrer nofollow" target="_blank">this page </a>to
+find out the list of eligible products and participating retailers.</p>
+</div>
+</details>
 </div>
 <p></p>
