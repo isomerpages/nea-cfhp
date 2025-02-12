@@ -18,9 +18,9 @@ and $50 any time between 15 April 2024 and 31 December 2027.</p>
 <p><strong>Eligibility</strong>
 </p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Households* whose registered address
-is an eligible Housing Development Board (HDB) flat (“Voucher-Holder”)
-will be provided with one set of $300 digital Climate Vouchers which can
-be claimed by logging in to RedeemSG via Singpass.</p>
+is an eligible Housing Development Board (HDB) flat and residing at the
+HDB flat (“Voucher-Holder”) will be provided with one set of $300 digital
+Climate Vouchers which can be claimed by logging in to RedeemSG via Singpass.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only one member from each eligible household*
 shall claim the Climate Vouchers (“Voucher-Holder”) for his/her valid registered
 address during the programme period.
