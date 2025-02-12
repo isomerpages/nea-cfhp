@@ -15,10 +15,8 @@ To be eligible for the enhanced Climate Vouchers, the following needs to
 be met:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You are a Singapore Citizen or Permanent Resident, and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Your residential address is registered at an HDB flat.</p>
+<p>You are a Singapore Citizen or Permanent Resident registered at an HDB
+flat.</p>
 </li>
 </ul>
 </div>
