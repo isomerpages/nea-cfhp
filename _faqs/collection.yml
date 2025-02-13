@@ -2,4 +2,4 @@ collections:
   faqs:
     output: true
     order:
-      - "Current Programme: HDB.md"
+      - Current Programme.md
