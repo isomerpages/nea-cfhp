@@ -2,4 +2,4 @@ collections:
   faqs:
     output: true
     order:
-      - Frequently Asked Questions.md
+      - "Current Programme: HDB.md"
