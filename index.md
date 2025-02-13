@@ -8,10 +8,10 @@ image: /images/CV_logo.png
 permalink: /
 sections:
   - hero:
-      title: $300 Climate Vouchers for every HDB household
+      title: Climate Friendly Households Programme
       background: /images/NEA_CFHP_Web_Banner.jpg
-      button: Vouchers can be claimed any time until 31 December 2027
-      url: https://signup.redeem.gov.sg/?lang=en-US
+      button: FAQs on programme expansion
+      url: /interim-faq
   - infobar:
       title: Climate Vouchers
       id: infobar
@@ -49,5 +49,8 @@ sections:
       description: "* Multiple families/tenants living in the same registered address
         are collectively entitled to 1 set of Climate Vouchers for the same
         registered address/flat."
-notification: ""
+notification: In April 2025, all eligible households will be able to claim an
+  additional $100 worth of Climate Vouchers. Additionally, the programme will be
+  expanded to include Singapore Citizen households living in private residential
+  properties.
 ---
