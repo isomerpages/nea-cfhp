@@ -2,4 +2,5 @@ collections:
   faqs:
     output: true
     order:
+      - Interim FAQs for Residents on Enhanced CFHP.md
       - Current Programme.md
