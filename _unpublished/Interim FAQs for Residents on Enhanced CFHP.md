@@ -73,5 +73,15 @@ taps and mixers (3-tick), Basin taps and mixers (3-tick).</p>
 find out the list of eligible products and participating retailers.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>I previously claimed the $300 Climate Vouchers but have since moved to another address. Can I still claim the $100 Climate Vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Eligible households that have moved to a different residential address
+may still claim the $100 Climate Vouchers under their new address. Residents
+are advised to update their registered address with ICA before making the
+claim.</p>
+</div>
+</details>
 </div>
 <p></p>
