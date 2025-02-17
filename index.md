@@ -49,7 +49,8 @@ sections:
       description: "* Multiple families/tenants living in the same registered address
         are collectively entitled to 1 set of Climate Vouchers for the same
         registered address/flat."
-notification: In April 2025, all eligible households will be able to claim an
-  additional $100 worth of Climate Vouchers. Additionally, the programme will be
-  expanded to include Singapore Citizen households living in private residenti
+notification: Eligible HDB households will receive an additional $100 in Climate
+  Vouchers, totalling $400. The programme will also be expanded to include
+  Singapore Citizen households registered and living in private residential
+  properties. Vouchers can be claimed from 15 April 2025 to 31 December 2027
 ---
