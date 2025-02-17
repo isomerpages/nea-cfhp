@@ -8,16 +8,15 @@ image: /images/CV_logo.png
 permalink: /
 sections:
   - hero:
-      title: Enhanced Climate Friendly Households Programme
+      title: Enhanced Climate Friendly Households Programme (CFHP)
       background: /images/NEA_CFHP_Web_Banner.jpg
       button: FAQs on programme expansion
       url: /interim-faq
   - infobar:
       title: Climate Vouchers
       id: infobar
-      description: Under the Climate Friendly Households Programme, every HDB
-        household* can claim $300 in Climate Vouchers to purchase energy- and
-        water-efficient products.
+      description: Under the enhanced CFHP, every HDB household* can claim $300 in
+        Climate Vouchers to purchase energy- and water-efficient products.
       button: Find out more
       url: /about-cv
   - textcards:
