@@ -8,7 +8,7 @@ image: /images/CV_logo.png
 permalink: /
 sections:
   - hero:
-      title: Climate Friendly Households Programme
+      title: Enhanced Climate Friendly Households Programme
       background: /images/NEA_CFHP_Web_Banner.jpg
       button: FAQs on programme expansion
       url: /interim-faq
@@ -49,9 +49,9 @@ sections:
       description: "* Multiple families/tenants living in the same registered address
         are collectively entitled to 1 set of Climate Vouchers for the same
         registered address/flat."
-notification: Eligible HDB households will receive an additional $100 in Climate
-  Vouchers, on top of the existing $300. The programme will also be expanded to
-  include Singapore Citizen households registered and living in private
-  residential properties. Vouchers can be claimed from 15 April 2025 to 31
-  December 2027
+notification: From 15 Apr 2025, eligible HDB households will receive an
+  additional $100 in Climate Vouchers, on top of the existing $300. The
+  programme will also be expanded to include Singapore Citizen households
+  registered and living in private residential properties. Vouchers can be
+  claimed from 15 April 2025 to 31 December 2027
 ---
