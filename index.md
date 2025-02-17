@@ -51,6 +51,5 @@ sections:
         registered address/flat."
 notification: In April 2025, all eligible households will be able to claim an
   additional $100 worth of Climate Vouchers. Additionally, the programme will be
-  expanded to include Singapore Citizen households living in private residential
-  properties.
+  expanded to include Singapore Citizen households living in private residenti
 ---
