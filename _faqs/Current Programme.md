@@ -24,6 +24,17 @@ flat.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>I am a homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
+the programme period (i.e. from 15 April 2024 to 31 December 2027). 
+Homeowners who are moving into their new HDB flat should claim the Climate
+Vouchers under their new address, after they have updated their registered
+address.</p>
+</div>
+</details>
+<details class="isomer-details">	
 <summary><strong>If I was eligible for the previous CFHP, am I eligible to apply for another set of Climate Vouchers under the enhanced CFHP?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -354,17 +365,6 @@ for verification by the participating retailer.</p>
 others as anyone with access to the link may be able to spend the vouchers.
 We seek your understanding that there will be no reinstatement made for
 vouchers that were shared erroneously.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I am a first-time homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
-the programme period (i.e. from 15 April 2024 to 31 December 2027). First-time
-homeowners who are moving into their new HDB flat should claim the Climate
-Vouchers under their new address, after they have updated their registered
-address.</p>
 </div>
 </details>
 <details class="isomer-details">
