@@ -24,12 +24,12 @@ flat.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I am a homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
+<summary><strong>I purchased my HDB flat recently and will be moving in soon. Should I claim the Climate Vouchers under my new address?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
 the programme period (i.e. from 15 April 2024 to 31 December 2027). 
-Homeowners who are moving into their new HDB flat should claim the Climate
+Homeowners who are moving into their newly purchased HDB flat should claim the Climate
 Vouchers under their new address, after they have updated their registered
 address.</p>
 </div>
