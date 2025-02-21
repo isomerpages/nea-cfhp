@@ -24,7 +24,7 @@ flat.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I am a homeowner who is moving into my new HDB soon. Should I claim the Climate Vouchers under my new address?</strong>
+<summary><strong>I purchased my HDB flat recntly and will be moving soon. Should I claim the Climate Vouchers under my new address?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
