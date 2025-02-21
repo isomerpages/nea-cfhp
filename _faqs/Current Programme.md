@@ -118,8 +118,7 @@ Questions on Singpass.</p>
 <p>You may wish to register for a Singpass account. Please refer to the guide
 on registering for a Singpass account <a href="https://ask.gov.sg/singpass" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Information on where you can get help to register for a Singpass account
-can be found under Getting Started &gt;&gt; About Singpass &gt;&gt; Where
-can I get help?</p>
+can be found under Quick links &gt;&gt; Register an account</p>
 </div>
 </details>
 <details class="isomer-details">
