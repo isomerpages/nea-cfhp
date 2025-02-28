@@ -11,7 +11,7 @@ description: ""
 
 <p>Locate your nearest participating retailer from the map. To filter retailers
 based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" height="auto" width="100%" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>.
-For a full list of participating retail stores, please click <a href="/files/List_of_Retailers___CFHP_Website_14_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p>
+For a full list of participating retail stores, please click <a href="/files/List_of_Retailers___CFHP_Website_3_ Mar_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p>
 <div class="iframe-wrapper">
 
 <iframe height="480" width="100%" src="https://www.google.com/maps/d/u/3/embed?mid=1CxIadBwSdGapjDZMlXH3_Ti0BEy0fRc&amp;ehbc=2E312F&amp;noprof=1"></iframe>
