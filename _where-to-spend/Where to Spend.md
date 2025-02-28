@@ -9,9 +9,7 @@ description: ""
 <p></p>
 <style> .blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2;  } </style>   <p></p><div class="light-blue-box"> <p><b>You can now spend your Climate Vouchers at more participating retailers’ outlets! Scroll down to locate your nearest participating retailer and find out more about the types of eligible products offered at their various outlets.</b></p> </div>  
 
-<p>Locate your nearest participating retailer from the map. To filter retailers
-based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" height="auto" width="100%" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>.
-For a full list of participating retail stores, please click <a href="/files/List_of_Retailers___CFHP_Website_3_Mar25.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p>
+<p>Locate your nearest participating retailer from the map. To filter retailers based on the eligible products they carry, simply select the icon <img style="width: 40px; height: auto; display: inline; padding-left: 5px; padding-right: 5px;" height="auto" width="100%" alt="" src="/images/Icon.png"> located in the top left corner of the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>. For a full list of participating retail stores, please click <a href="/files/List\_of\_Retailers\_\_\_CFHP\_Website\_3\_Mar25.pdf" rel="noopener noreferrer nofollow" target="\_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p>
 
 <div class="iframe-wrapper">
 
