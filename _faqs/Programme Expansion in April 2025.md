@@ -12,7 +12,7 @@ description: ""
 <p>To be eligible for the $100 additional Climate Vouchers, you must be a
 Singapore Citizen or Permanent Resident registered and residing at an HDB
 flat. With the expansion of the enhanced CFHP to private residential households,
-Singapore Citizen registered and residing at a private residential property
+Singapore Citizens registered and residing at a private residential property
 may also claim the additional $100 Climate Vouchers from 15 Apr 2025 to
 31 Dec 2027. Each eligible household* is only entitled to one set of $300
 vouchers and one set of $100 vouchers.</p>
