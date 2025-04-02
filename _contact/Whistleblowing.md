@@ -55,6 +55,9 @@ best of your ability, ensure that the information you provide is accurate.</p>
 <p>Exchange of eligible product for an ineligible product</p>
 </li>
 <li>
+<p>Any form of cashback arrangement with the Climate Vouchers, including the direct exchange of the vouchers for cash or partial encashment (i.e., where the value of the vouchers used exceeds the price of the product and the excess value is returned in cash or in kind)</p>
+</li>
+<li>
 <p>Refund of Climate Vouchers</p>
 </li>
 <li>
