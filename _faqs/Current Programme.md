@@ -467,4 +467,3 @@ more information.</p>
 </div>
 <h3>Further Enquiries</h3>
 <p>Should you have further enquiries, please visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-feedback</a></p>
-<p></p>
