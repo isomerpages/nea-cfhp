@@ -464,4 +464,4 @@ on an ad-hoc basis as there are several stages in the onboarding process.</p>
 </details>
 </div>
 <h3>Further Enquiries</h3>
-<p>Should you have further enquiries, please visit: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-feedback</a></p>
+<p>Should you have further enquiries, please visit: <a href="https://go.gov.sg/cv-feedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-feedback</a></p>
