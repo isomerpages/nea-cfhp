@@ -96,6 +96,3 @@ may be used and/or disclosed to other government agencies for such other
 purposes as may be permitted under the applicable laws.</p>
 <p><em>&nbsp;</em>
 </p>
-<hr>
-<p><em>* Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the same registered address/flat.</em>
-</p>
