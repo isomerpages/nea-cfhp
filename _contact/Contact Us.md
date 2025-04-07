@@ -22,15 +22,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>+65 6225 5632</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1800 225 5782</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/corporate-functions/feedback" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a>
+<p><a href="https://go.gov.sg/cv-feedback" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,8 +30,16 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>+65 6225 5632</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1800 225 5782</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>Alternatively, you may email us at nea@redeem.gov.sg</p>
+<p></p>
 <p></p>
 <p></p>
