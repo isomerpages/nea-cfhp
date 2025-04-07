@@ -25,7 +25,8 @@ and water-efficient household products.</p>
 collectively entitled to one set of $300 and one set of $100 Climate Vouchers
 for the same registered address/flat.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resident_Table.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/About_CVs.png">
 </div>
 <p></p>
