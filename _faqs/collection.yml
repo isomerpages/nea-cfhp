@@ -2,5 +2,4 @@ collections:
   faqs:
     output: true
     order:
-      - Programme Expansion in April 2025.md
       - Current Programme.md
