@@ -459,9 +459,7 @@ only used for NEA/PUB-approved items), and&nbsp;</p>
 </ol>
 <p></p>
 <p>Please note that retailer onboarding will be done in batches, and not
-on an ad-hoc basis as there are several stages in the onboarding process.
-You may reach out to the team at <a rel="noopener noreferrer nofollow" target="_blank">nea@redeem.gov.sg</a> for
-more information.</p>
+on an ad-hoc basis as there are several stages in the onboarding process.</p>
 </div>
 </details>
 </div>
