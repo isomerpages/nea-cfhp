@@ -82,6 +82,21 @@ Climate Vouchers.</p>
 done so</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>When do the Climate Vouchers expire?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The $300 and $100 Climate Vouchers will expire on 31 December 2027.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have problems accessing my Singpass account or I have forgotten my Singpass password. What can I do?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may visit this <a href="https://go.gov.sg/singpass-faq" rel="noopener nofollow" target="_blank">link</a> for
+a list of Frequently Asked Questions on Singpass.</p>
+</div>
+</details>
 </div>
 <p><em>*Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the address</em>
 </p>
