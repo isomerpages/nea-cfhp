@@ -2,5 +2,4 @@ collections:
   resources:
     output: true
     order:
-      - Programme Materials.md
       - Useful Links.md
