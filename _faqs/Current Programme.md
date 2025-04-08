@@ -131,6 +131,29 @@ Should you require further assistance, you may contact NEA at 6225 5632.
 to get your unique voucher link sent via an SMS from gov.sg.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>I have lost / changed my mobile phone. How can I retrieve my link to the Climate Vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may visit <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/cv-claim</a>,
+log in to Singpass, and type in your new mobile phone number to have your
+voucher link sent to your new mobile device.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What if I keyed in the wrong mobile number when claiming the vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You will be required to verify your mobile number via an SMS One Time
+Password (OTP) when claiming your Climate Vouchers. If you keyed in the
+wrong mobile number, simply return to the previous page to key in your
+mobile number again.</p>
+<p></p>
+<p>The SMS containing the voucher link unique to your household will only
+be sent after you have verified your mobile number, which helps to ensure
+that vouchers are not sent to the wrong mobile number.</p>
+</div>
+</details>
 </div>
 <p><em>*Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the address</em>
 </p>
