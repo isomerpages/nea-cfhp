@@ -80,7 +80,6 @@ tap on $100 Climate Vouchers.</p>
 Climate Vouchers.</p>
 <p>d) Repeat the steps to claim the $300 Climate Vouchers, if you have not
 done so</p>
-<p></p>
 </div>
 </details>
 </div>
