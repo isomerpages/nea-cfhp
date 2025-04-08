@@ -4,7 +4,6 @@ permalink: /claim-spend-eng/
 variant: markdown
 description: ""
 ---
-<style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2; } </style> <div class="light-blue-box"> To encourage greater involvement in climate action, the Climate Friendly Households Programme (CFHP) will be further enhanced through the provision of an additional $100 worth of Climate Vouchers for eligible HDB households, on top of the existing $300. The programme will also be expanded to include Singapore Citizen households registered and living in private residential properties. Eligible households may claim their Climate Vouchers from 15 April 2025 to 31 December 2027. <br><br> For more information, please refer to the Frequently Asked Questions <a href="/interim-faq">here</a>. </div>
 
 <h3>How to claim your Climate Vouchers?</h3>
 <div class="iframe-wrapper">
@@ -38,7 +37,6 @@ the SMS to share the vouchers with household members.</p>
 <p></p>
 
 
-<style> .light-red-box { background-color: #fdedeb; padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style>   <div class="light-red-box"> <p><strong>Important</strong></p> <p>You will receive an SMS from gov.sg or RedeemSG with the unique voucher link after you have claimed your Climate Vouchers at <a href="https://go.gov.sg/cv-claim">go.gov.sg/cv-claim</a> (i.e. upon completing Steps 1 to 3).</p> <p>The unique voucher link you receive should start with <strong>https://voucher.redeem.gov.sg/</strong>. Do not trust or click on any voucher links starting with unknown or other prefixes.</p> <p>Do note that NEA, PUB and RedeemSG will never send any SMS asking for your personal information or banking details to claim your Climate Vouchers. If you receive such an SMS, do not click on the link or reply.</p> </div>  
 
 <h3>How to spend your Climate Vouchers?</h3>
 <ol data-tight="true" class="tight">
