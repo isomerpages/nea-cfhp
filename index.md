@@ -45,8 +45,8 @@ sections:
       url: /cv-faqs
   - infobar:
       id: infobar
-      description: "* Multiple residents living in the same registered address are
-        collectively entitled to a total of $400 in Climate Vouchers for the
-        same registered address."
+      description: "* Multiple families/tenants living in the same registered address
+        are collectively entitled to one set of $300 and one set of $100 Climate
+        Vouchers for address."
 notification: ""
 ---
