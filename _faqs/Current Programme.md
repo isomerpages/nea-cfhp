@@ -154,6 +154,51 @@ be sent after you have verified your mobile number, which helps to ensure
 that vouchers are not sent to the wrong mobile number.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>How can I verify that the SMS link which I have received is a legitimate link?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>An SMS with your unique voucher link will only be sent to your mobile
+number upon you verifying the mobile number that is used for claiming the
+vouchers.</p>
+<p></p>
+<p>The SMS can be identified by the sender name "gov.sg". Please also check
+that your unique voucher link starts with the following prefix, "voucher.redeem.gov.sg”.
+Do not trust or click vouchers starting with other prefixes.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I</strong>  <strong>have received an SMS asking me to key in my bank account details to claim my Climate Vouchers. Is it a scam?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>NEA, PUB and RedeemSG will never send any SMS requesting for your bank
+details to claim your Climate Vouchers. If you receive such an SMS, please
+do not click on the link or reply.</p>
+<p>&nbsp;</p>
+<p>If you detect any suspicious messages relating to RedeemSG or Climate
+Vouchers, please contact NEA at 6225 5632, or submit the information online
+at <a rel="noopener noreferrer nofollow" target="_blank">https://www.police.gov.sg/I-Witness</a> or
+file a police report by calling 1800 255 0000.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I am moving into my new home soon. Should I claim the Climate Vouchers under my new address?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As eligible residents will receive the vouchers based on their registered
+address at the point of claim, new homeowners should claim the Climate
+Vouchers under their new address, after they have updated their registered
+address with ICA.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>The previous owners of my dwelling unit have claimed the Climate Vouchers for my dwelling unit. Can I claim the vouchers as well?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please provide more details via this <a href="https://www.go.gov.sg/cv-appeal" rel="noopener noreferrer nofollow" target="_blank">form</a> for us to look into your
+request.</p>
+</div>
+</details>
 </div>
 <p><em>*Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the address</em>
 </p>
