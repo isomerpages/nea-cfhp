@@ -76,10 +76,13 @@ SMS links to share the vouchers with your household members.</p>
 <p>a) Visit <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
 tap on $100 Climate Vouchers.</p>
 <p>b) Login with Singpass.</p>
-<p>c) Receive an SMS from <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>, which will contain a unique link to your
+<p>c) Receive an SMS from gov.sg, which will contain a unique link to your
 Climate Vouchers.</p>
 <p>d) Repeat the steps to claim the $300 Climate Vouchers, if you have not
 done so</p>
+<p></p>
+<p>Please refer to the <a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on
+how to claim and spend the Climate Vouchers.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -90,11 +93,42 @@ done so</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have problems accessing my Singpass account or I have forgotten my Singpass password. What can I do?</strong>
+<summary><strong>I have problems accessing my Singpass account or I have forgotten my Singpass password. What can I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may visit this <a href="https://go.gov.sg/singpass-faq" rel="noopener nofollow" target="_blank">link</a> for
 a list of Frequently Asked Questions on Singpass.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Do I need a mobile device to access the vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, you will need a mobile device with an active mobile data or internet
+connection plan.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I don’t have a mobile device. What should I do?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If you do not have a mobile device, please request a household member
+to claim the vouchers on behalf of your household.</p>
+<p>&nbsp;</p>
+<p>If you do not have a mobile device and/or are unable to access your Singpass,
+and would like to have printed vouchers instead, please submit your request
+via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.
+Should you require further assistance, you may contact NEA at 6225 5632.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I have previously claimed my Climate Vouchers but misplaced my voucher link. How can I retrieve it again?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To retrieve the voucher link for your Climate Vouchers, please visit
+<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
+to get your unique voucher link sent via an SMS from gov.sg.</p>
 </div>
 </details>
 </div>
