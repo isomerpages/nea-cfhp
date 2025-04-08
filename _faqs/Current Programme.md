@@ -7,204 +7,84 @@ description: ""
 <h3>Programme Eligibility</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Who is eligible for the enhanced CFHP?</strong>
+<summary><strong>Who is eligible for the $300 and $100 Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each HDB household<sup>*</sup> is only entitled to one set of vouchers.
-To be eligible for the enhanced Climate Vouchers, the following needs to
-be met:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You are a Singapore Citizen or Permanent Resident registered at an HDB
-flat.</p>
-</li>
-</ul>
+<p>To be eligible for the Climate Vouchers, you must be a Singapore Citizen
+or Permanent Resident registered and residing at an HDB flat, or a Singapore
+Citizen registered and residing at a private residential property. Each
+eligible household* is only entitled to one set of $300 vouchers and one
+set of $100 vouchers.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I purchased my HDB flat recently and will be moving in soon. Should I claim the Climate Vouchers under my new address?</strong>
+<summary><strong>I have claimed the $300 Climate Vouchers available from 2024. Am I still eligible to claim the additional $100 Climate Vouchers available from 2025?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
-the programme period (i.e. from 15 April 2024 to 31 December 2027). Homeowners
-who are moving into their newly purchased HDB flat should claim the Climate
-Vouchers under their new address, after they have updated their registered
-address.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>If I was eligible for the previous CFHP, am I eligible to apply for another set of Climate Vouchers under the enhanced CFHP?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The previous round of Climate Vouchers expired on 20 March 2024.</p>
-<p></p>
-<p>Regardless of whether you have redeemed Climate Vouchers under the previous
-CFHP, all HDB households* are eligible for one set of Climate Vouchers
-under the enhanced CFHP. You may claim a new set of vouchers at <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>.
-The enhanced Climate Vouchers will be available until 31 December 2027.</p>
+<p>Eligible households who have claimed their $300 Climate Vouchers can claim
+the additional $100 vouchers to offset the upfront cost of any of the eligible
+CFHP products during the programme period i.e. until 31 December 2027.
+Eligible residents will receive the vouchers based on their registered
+address at the point of claim.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>There are multiple households residing at the same address. Please provide my household with a set of vouchers.</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Multiple families/tenants living in the same registered address are collectively
-entitled to 1 set of Climate Vouchers for the same registered address/flat.
-Thus, only one member of the dwelling unit needs to claim the Vouchers
-and share the voucher link with the rest of the members.</p>
+<p>The enhanced Climate Friendly Households Programme (CFHP) aims to encourage
+households to adopt energy- and water-efficient products by helping to
+defray part of the upfront cost of the eligible products. As these energy-
+and water-efficient products can be shared within the dwelling unit, multiple
+families/tenants living in the same registered address are collectively
+entitled to one set of $300 and one set of $100 Climate Vouchers for the
+address. Only one member of the dwelling unit needs to claim the Climate
+Vouchers and share the voucher links with the rest of the members.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I am the owner of the HDB flat, however I do not reside at the HDB flat (i.e. registered address as per NRIC is not at the HDB flat). Am I eligible to claim a set of Climate Vouchers for the HDB flat?</strong>
+<summary><strong>I am the owner of the dwelling unit, but am not registered there (i.e. registered address as per NRIC is not at the unit). Am I eligible to claim the Climate Vouchers for that unit?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers are intended for the residents of the HDB flat to
-assist in lowering the upfront cost for the purchase of resource-efficient
-appliances and fittings. In this regard, an owner of a HDB flat whose registered
-address is not at the flat is unable to claim Climate Vouchers for the
-flat.</p>
+<p>The Climate Vouchers are intended for the residents of the unit to offset
+the upfront cost of more resource-efficient appliances and fittings. In
+this regard, the unit owner whose registered address is not at the unit
+will not be eligible to claim Climate Vouchers for the unit.</p>
 </div>
 </details>
 </div>
-<p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+<p><em>*Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the address</em>
 </p>
 <h3>Claiming your Climate Vouchers</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>How do I claim my Climate Vouchers?</strong>
+<summary><strong>I am trying to claim the Climate Vouchers online but did not receive the OTP. What should I do?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please visit <a href="http://go.gov.sg/no-govsg-sms" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/no-govsg-sms</a> for
+some tips to troubleshoot this issue. If the issue persists, please complete
+the form found within the link.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How do I claim the Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please note that only one member needs to claim the Climate Vouchers on
-behalf of the entire household*. You may forward the unique SMS link to
-share the vouchers with your household* members.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Visit <a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
-tap on Climate Vouchers.</p>
-</li>
-<li>
-<p>Login with Singpass.&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Receive an SMS from gov.sg which will contain a unique link to your Climate
-Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-</ol>
-<p>Please refer to the <a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend
-the $300 Climate Vouchers.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>When do the Climate Vouchers expire?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers will expire on 31 December 2027.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I encountered problems with accessing my Singpass account or I have forgotten my Singpass password. What can I do?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You may visit this <a href="https://ask.gov.sg/singpass" rel="noopener noreferrer nofollow" target="_blank">link</a> for a list of Frequently Asked
-Questions on Singpass.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I don’t have a Singpass account. What should I do?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You may wish to register for a Singpass account. Please refer to the guide
-on registering for a Singpass account <a href="https://ask.gov.sg/singpass" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Information on where you can get help to register for a Singpass account
-can be found under Quick links &gt;&gt; Register an account</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Do I need a mobile device to access the vouchers?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, you will need a mobile device with an active mobile data or internet
-connection plan.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I don’t have a mobile phone. What should I do?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>If you do not have a mobile device, please request a household member
-to claim the vouchers on behalf of your household.</p>
-<p>If you do not have a mobile device and/or are unable to access your Singpass,
-and would like to have printed vouchers instead, please submit your request
-via this <a href="https://form.gov.sg/65faa8c24a44f5816ca73cef" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>I have previously claimed my Climate Vouchers but misplaced my voucher link. How can I retrieve it again?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>To retrieve the voucher link for your Climate Vouchers, please visit
-<a href="https://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
-to get your unique voucher link sent via an SMS from <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>What if I keyed in the wrong mobile number when claiming the vouchers?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You will be required to verify your mobile number via an SMS One Time
-Password (OTP) when claiming your Climate Vouchers. If you keyed in the
-wrong mobile number, simply return to the previous page to key in your
-mobile number again.</p>
-<p>The SMS containing the voucher link unique to your household will only
-be sent after mobile number verification, which helps to ensure that vouchers
-are not sent to the wrong mobile number.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>How can I verify that the SMS link which I have received is a legitimate link?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>An SMS with your unique voucher link will only be sent to your mobile
-number upon you claiming the vouchers.</p>
-<p>The SMS can be identified by the sender name "<strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>".
-Please also check that your unique voucher link starts with the following
-prefix, "<strong>voucher.redeem.gov.sg</strong>". Do not trust vouchers
-starting with other prefixes.</p>
-<p></p>
-<p>A sample of the SMS sent from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a></strong>.
-Only trust SMSes from <strong><a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> </strong>that
-follow this format.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
-</div>
+behalf of the entire household/dwelling unit. You may forward the unique
+SMS links to share the vouchers with your household members.</p>
+<p>a) Visit <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a> and
+tap on $100 Climate Vouchers.</p>
+<p>b) Login with Singpass.</p>
+<p>c) Receive an SMS from <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>, which will contain a unique link to your
+Climate Vouchers.</p>
+<p>d) Repeat the steps to claim the $300 Climate Vouchers, if you have not
+done so</p>
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary><strong>I have received an SMS asking me to key in my banking details to claim my Climate Vouchers. Is it a scam?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>NEA, PUB and RedeemSG will never send any SMS requesting for your banking
-details to claim your Climate Vouchers. If you receive such an SMS, please
-do not click on the link or reply</p>
-<p>If you detect any suspicious messages relating to RedeemSG or Climate
-Vouchers, please contact NEA at 6225 5632, or submit the information online
-at <a href="https://www.police.gov.sg/I-Witness" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.police.gov.sg/I-Witness</u></a> or
-file a police report by calling 1800 255 0000.</p>
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>When do I have to claim my vouchers by?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers can be claimed any time during the 3-year programme
-period, and will be valid till 31 December 2027.&nbsp;</p>
-</div>
-</details>
-</div>
-<p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
+<p><em>*Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the address</em>
 </p>
 <h3>Spending your Climate Vouchers</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
