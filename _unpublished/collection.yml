@@ -2,6 +2,7 @@ collections:
   unpublished:
     output: true
     order:
+      - Translated pages/如何领取和使用气候优惠券.md
       - Translated pages/Cara Menuntut & Menggunakan Baucar Iklim.md
       - Translated pages/.keep
       - Programme Materials.md
