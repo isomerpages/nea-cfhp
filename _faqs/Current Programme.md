@@ -1,11 +1,9 @@
 ---
 title: Current Programme
 permalink: /cv-faqs/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2; } </style> <div class="light-blue-box"> To encourage greater involvement in climate action, the Climate Friendly Households Programme (CFHP) will be further enhanced through the provision of an additional $100 worth of Climate Vouchers for eligible HDB households, on top of the existing $300. The programme will also be expanded to include Singapore Citizen households registered and living in private residential properties. Eligible households may claim their Climate Vouchers from 15 April 2025 to 31 December 2027. <br><br> For more information, please refer to the Frequently Asked Questions <a href="/interim-faq">here</a>. </div>
-
 <h3>Programme Eligibility</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -28,13 +26,13 @@ flat.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Each HDB household*&nbsp;is only entitled to one set of vouchers during
-the programme period (i.e. from 15 April 2024 to 31 December 2027). 
-Homeowners who are moving into their newly purchased HDB flat should claim the Climate
+the programme period (i.e. from 15 April 2024 to 31 December 2027). Homeowners
+who are moving into their newly purchased HDB flat should claim the Climate
 Vouchers under their new address, after they have updated their registered
 address.</p>
 </div>
 </details>
-<details class="isomer-details">	
+<details class="isomer-details">
 <summary><strong>If I was eligible for the previous CFHP, am I eligible to apply for another set of Climate Vouchers under the enhanced CFHP?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -464,4 +462,5 @@ on an ad-hoc basis as there are several stages in the onboarding process.</p>
 </details>
 </div>
 <h3>Further Enquiries</h3>
-<p>Should you have further enquiries, please visit: <a href="https://go.gov.sg/cv-feedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-feedback</a></p>
+<p>Should you have further enquiries, please visit: <a href="https://go.gov.sg/cv-feedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-feedback</a>
+</p>
