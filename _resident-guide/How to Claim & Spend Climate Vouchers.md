@@ -21,6 +21,8 @@ tap on ‘Climate Vouchers’.</p>
 <li>
 <p><strong>Log in with Singpass</strong>. Only one household member needs
 to do this.</p>
+</li>
+</ol>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -31,29 +33,47 @@ to do this.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link_2025.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link_2025.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link.png">
+</div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Receive the SMS link to your Climate Vouchers</strong>. Forward
+the SMS to share the vouchers with household members.</p>
+</li>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/12___SMS_message__Already_claimed_.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/11___SMS_message.png">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-</li>
-<li>
-<p></p>
-<p><strong>Receive the SMS link to your Climate Vouchers</strong>. Forward
-the SMS to share the vouchers with household members.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/SMS.png">
-</div>
-</li>
-</ol>
-<p></p>
+<h3></h3>
 <h3>How to spend your Climate Vouchers?</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -61,20 +81,53 @@ the SMS to share the vouchers with household members.</p>
 </li>
 <li>
 <p><strong>Choose the amount to spend</strong>. Then tap on ‘Show voucher’.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/2025___08___Vouchers_selected.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/08___Vouchers_selected.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </li>
 <li>
 <p><strong>Show QR code to cashier.</strong>
 </p>
 </li>
 </ol>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Custom_Vouchers__QR.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/2025__09___QR_code.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/09___QR_code.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p>
 <p></p>
