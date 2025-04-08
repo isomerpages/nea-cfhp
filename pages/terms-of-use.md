@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-<style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2; } </style> <div class="light-blue-box"> To promote broader participation in climate action, the Climate Friendly Households Programme (CFHP) will be further enhanced through the provision of an additional $100 worth of Climate Vouchers for eligible households. The programme will also be expanded to include Singapore Citizen households living in private residential property. <br><br> For more information, please refer to the Frequently Asked Questions <a href="/interim-faq">here</a>. </div>
-
 **1 Agreement - Terms**  
 All access of any area of [<a href="https://www.climate-friendly-households.gov.sg/" target="_blank">https://www.climate-friendly-households.gov.sg/</a>](https://www.climate-friendly-households.gov.sg/) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
 
