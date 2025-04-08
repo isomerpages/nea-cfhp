@@ -15,17 +15,36 @@ description: ""
 tap on ‘Climate Vouchers’.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Campaign_listing.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/00___Campagin_Page.png">
 </div>
 </li>
 <li>
 <p><strong>Log in with Singpass</strong>. Only one household member needs
 to do this.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/NEA_Climate_CFHP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link_2025.png">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 </li>
 <li>
+<p></p>
 <p><strong>Receive the SMS link to your Climate Vouchers</strong>. Forward
 the SMS to share the vouchers with household members.</p>
 <p></p>
