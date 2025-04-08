@@ -2,6 +2,7 @@ collections:
   unpublished:
     output: true
     order:
+      - Programme Materials.md
       - Programme Expansion in April 2025.md
       - Example Title.md
       - Batch 0 Where to Spend.md
