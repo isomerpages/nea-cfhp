@@ -22,8 +22,7 @@ The Climate Vouchers are valid until 31 December 2027 and can be used at
 over 150 participating retailers with over 500 outlets to purchase energy-
 and water-efficient household products.</p>
 <p>* Multiple families/tenants living in the same registered address are
-collectively entitled to one set of $300 and one set of $100 Climate Vouchers
-for the same registered address/flat.</p>
+collectively entitled to one set of $300 and one set of $100 Climate Vouchers.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
