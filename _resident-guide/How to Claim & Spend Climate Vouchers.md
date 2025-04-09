@@ -73,7 +73,13 @@ the SMS to share the vouchers with household members.</p>
 </tr>
 </tbody>
 </table>
-<h3></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Receive the SMS link to your Climate Vouchers</strong>. Forward
+the SMS to share the vouchers with household members.</p>
+</li>
+</ol>
+<p>Repeat steps to claim $300 Climate Vouchers, if you have not done so</p>
 <h3>How to spend your Climate Vouchers?</h3>
 <ol data-tight="true" class="tight">
 <li>
