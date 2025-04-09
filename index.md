@@ -15,8 +15,8 @@ sections:
   - infobar:
       title: Climate Vouchers
       id: infobar
-      description: Each eligible household* is only entitled to one set of $300
-        vouchers and one set of $100 vouchers.
+      description: Each eligible household* can claim one set of $300 vouchers and one
+        set of $100 vouchers.
       button: Find out more
       url: /about-cv
   - textcards:
@@ -47,6 +47,6 @@ sections:
       id: infobar
       description: "* Multiple families/tenants living in the same registered address
         are collectively entitled to one set of $300 and one set of $100 Climate
-        Vouchers for address."
+        Vouchers."
 notification: ""
 ---
