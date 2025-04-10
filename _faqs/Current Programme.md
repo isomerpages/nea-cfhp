@@ -464,9 +464,12 @@ need to be replaced.</p>
 <summary><strong>Can I request for a refund for the product I purchased using the Climate Voucher?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>All products purchased with the Climate Vouchers are strictly non-refundable.
-Please ensure that the products you are purchasing with the Climate Vouchers
-are suitable for your household, before proceeding with the purchase.</p>
+<p>Under the <a href="https://www.climate-friendly-households.gov.sg/terms-cv/" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a> of
+the Climate Vouchers, all products purchased with the Climate Vouchers
+are strictly non-refundable. In other words, Climate Vouchers cannot be
+reinstated once scanned. Please ensure that the products you are purchasing
+with the Climate Vouchers are suitable for your household, before proceeding
+with the purchase.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -475,7 +478,19 @@ are suitable for your household, before proceeding with the purchase.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This is subject to the exchange policy of the participating retailer.
 Please note that if your retailer allows exchanges, the replacement product
-must be an eligible product under the enhanced CFHP.</p>
+must be an eligible product under the enhanced CFHP. You may wish to check
+with the participating retailer on their exchange policy before making
+the purchase.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I selected the wrong amount of voucher denominations (e.g. $32 for a $30 item). Can I get the excess Climate Vouchers (e.g. $2) back?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, the Climate Vouchers cannot be reinstated once they have been scanned.
+Customers are encouraged to check that the voucher denominations that they
+select are as close as possible to the purchase amount, before proceeding
+with the purchase.</p>
 </div>
 </details>
 </div>
@@ -485,32 +500,16 @@ must be an eligible product under the enhanced CFHP.</p>
 <summary><strong>I am interested to participate in this programme as a retailer. How can I find out more?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>To participate in the programme, which will run until 31 December 2027,
-your company would need to sell at least one of the <a href="https://www.climate-friendly-households.gov.sg/cv-products/" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>,
-and have a physical Point of Sales system (i.e. online or remote scanning
-of vouchers are not supported).</p>
-<p></p>
-<p>Your POS or Sales system should be able to:&nbsp;</p>
-<ol>
-<li>
-<p>connect to the internet to redeem vouchers in real-time via API integration,&nbsp;</p>
-</li>
-</ol>
-<ol start="2">
-<li>
-<p>configure a whitelisting module for eligible products (i.e. a module in
-your POS or Sales system that can ensure that the Climate Vouchers are
-only used for NEA/PUB-approved items), and&nbsp;</p>
-</li>
-</ol>
-<ol start="3">
-<li>
-<p>support QR code scanning.&nbsp;</p>
-</li>
-</ol>
-<p></p>
-<p>Please note that retailer onboarding will be done in batches, and not
-on an ad-hoc basis as there are several stages in the onboarding process.</p>
+<p>The requirements are:</p>
+<p>a. Sell at least one of the <a href="https://go.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>, and&nbsp;</p>
+<p>b. Use a physical Point of Sales (POS) system (i.e. online transactions
+are not supported) that can:</p>
+<p>i. connect to the internet to redeem Climate Vouchers in real-time via
+API integration,</p>
+<p>ii. configure a whitelisting module for eligible products (i.e. a module
+in your POS or Sales system that can ensure that the Climate Vouchers are
+only used for NEA/PUB-approved items), and</p>
+<p>iii. support QR code scanning.</p>
 </div>
 </details>
 </div>
