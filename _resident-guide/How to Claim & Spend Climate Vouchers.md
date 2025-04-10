@@ -6,7 +6,7 @@ description: ""
 ---
 <h3>How to claim your Climate Vouchers?</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=BTl1nBIKjJGkjxGm"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=BTl1nBIKjJGkjxGm"></iframe>
 </div>
 <ol data-tight="true" class="tight">
 <li>
@@ -36,6 +36,10 @@ Forward the SMS to share the vouchers only with household members.</p>
 </li>
 </ol>
 <p></p>
+
+
+
+
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
