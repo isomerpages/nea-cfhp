@@ -359,18 +359,72 @@ with others as anyone with access to the link may be able to spend the
 vouchers. We seek your understanding that there will be no reinstatement
 made for vouchers that were shared erroneously.</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>If your family member lives with you, they can produce their own NRIC
+<p>1. If your family member lives with you, they can produce their own NRIC
 or any document showing their residential address which matches the address
 on the vouchers to the cashier at the point of purchase.&nbsp;</p>
-</li>
-<li>
-<p>If your family member does not live with you, they will have to produce
+<p>2. If your family member does not live with you, they will have to produce
 a copy of your personal identification document (showing your residential
 address) to the cashier at the point of purchase.</p>
-</li>
-</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/07___Voucher_spend_link.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Screenshot_2024_03_28_at_11_40_29_PM.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I ask a non-household member to use my Climate Vouchers to buy eligible items for me?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, you may authorise a non-household member to buy eligible items for
+you using your household’s Climate Vouchers. However, the person will have
+to bring a copy of your personal identification document showing your address
+for verification by the participating retailer.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can the Climate Vouchers be sold?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, the Climate Vouchers cannot be sold or exchanged for any form of cashback
+or store credit. NEA/PUB reserves the right to void any Climate Vouchers
+found to be sold or exchanged for any form of cashback or store credit,
+recover the monetary value of the Climate Vouchers, and escalate the matter
+to the relevant authorities.&nbsp; Please refer to the Terms &amp; Conditions
+of the Climate Vouchers <a href="https://www.climate-friendly-households.gov.sg/terms-cv/" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Do I get change back in cash if the purchase (e.g. $299) is less than the amount of digital vouchers that I want to spend (e.g. $300)?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, there will be no cash change or store credit provided if the purchase
+amount is less than the voucher amount selected.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How do I find out how much value is left for my Climate Vouchers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may access your voucher link in the SMS sent by “<a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>” to
+find out the remaining balance of your Climate Vouchers. The value will
+be shown in the “Balance” as per the screenshot below.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -385,7 +439,7 @@ address) to the cashier at the point of purchase.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Screenshot_2024_03_28_at_11_40_29_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/07___300_Voucher_spend_link.png">
 </div>
 </td>
 </tr>
