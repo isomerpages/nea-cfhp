@@ -199,6 +199,19 @@ address with ICA.</p>
 request.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>I am eligible for the vouchers, but it shows on RedeemSG that I am not eligible.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <p><em>*Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the address</em>
 </p>
