@@ -11,7 +11,7 @@ sections:
       title: Enhanced Climate Friendly Households Programme (CFHP)
       background: /images/NEA_CFHP_Web_Banner.jpg
       button: Claim your vouchers anytime until 31 Dec 2027
-      url: go.gov.sg/cv-claim
+      url: https://go.gov.sg/cv-claim
   - infobar:
       title: Climate Vouchers
       id: infobar
