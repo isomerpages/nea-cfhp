@@ -209,12 +209,14 @@ request.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
-household products. These includes Refrigerators (3-ticks and above), Air
-conditioners (5-ticks and above), Direct current fans, LED lights (2-ticks
-and above), Washing machines (4-ticks), Water closets (3-ticks), Sink/Bib
-taps and mixers (3-ticks), Basin taps and mixers (3-ticks).</p>
-<p>Click <a href="/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more.</p>
+household products. These includes Refrigerators (3 tick and above), Air-conditioners
+(5 tick), Direct current fans, LED lights (2 tick and above), Heat pump
+water heaters, Washing machines (4 tick), Shower fittings (3 tick), Water
+closets (3 tick), Sink/Bib taps and mixers (3 tick) and Basin taps and
+mixers (3 tick).</p>
+<p></p>
+<p>Click <a href="https://go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -223,29 +225,59 @@ find out more.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can spend your Climate Vouchers on eligible items at any participating
 retail store. You may refer to the full list of participating retailers
-<a href="/cv-spend/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<a href="https://go.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>How can I spend my Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Tap on your unique voucher link from the SMS sent by <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>.</p>
+<p>For digital vouchers:</p>
 <ol data-tight="true" class="tight">
+<li>
+<p>Tap on your unique voucher link in the SMS sent by <a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>
+</p>
+</li>
 <li>
 <p>Show the cashier any proof of the residential address that was used to
 claim the vouchers. The address displayed on the voucher should match the
-address displayed on the proof (e.g.NRIC).</p>
+address displayed on the proof (e.g. NRIC, utility bills ).</p>
 </li>
 <li>
 <p>Choose the voucher amount you want to spend and show the QR code to the
 cashier for scanning.</p>
 </li>
 </ol>
-<p><em>Vouchers can only be spent on eligible items.</em>
+<p></p>
+<p>For printed vouchers:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Show the cashier any proof of identity. The name displayed on the printed
+voucher should match the address displayed on the proof (e.g. NRIC, utility
+bills).</p>
+</li>
+<li>
+<p>Inform the cashier that amount you want to spend and pass your vouchers
+to the cashier for scanning.</p>
+</li>
+</ol>
+<p></p>
+<p>Note: Please <strong>do not cut</strong> the printed vouchers but present
+the entire sheets of vouchers to the cashier, including the first sheet
+that displays your name at the top left-hand corner. This is to allow the
+cashier to verify your name on the printed vouchers against your personal
+identification document.</p>
+<p></p>
+<p><em>Vouchers can only be spent on eligible items. Please refer to the <a href="https://www.climate-friendly-households.gov.sg/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a> on how to claim and spend the Climate Vouchers.&nbsp; &nbsp; &nbsp;</em>
 </p>
-<p><em>Please refer to the </em><a href="/claim-spend-eng" rel="noopener noreferrer nofollow" target="_blank">step-by-step guide</a>  <em>on how to claim and spend the $300 Climate Vouchers.&nbsp;&nbsp;&nbsp;&nbsp;</em>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I use the $300 and $100 Climate Vouchers together in a single transaction?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, households can combine the $300 Climate Voucher and $100 Climate
+Voucher to offset up to $400 from a single purchase.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -253,9 +285,8 @@ cashier for scanning.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You may show the retailer your digital NRIC through the Singpass mobile
-app, or any recent utility bills or documents that displays your registered
-residential address. The address displayed on the voucher should match
-the address displayed on your digital NRIC, or bills/documents.</p>
+app, or any recent utility bills or documents that shows the address displayed
+on your digital vouchers or the name on your printed vouchers.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -263,57 +294,57 @@ the address displayed on your digital NRIC, or bills/documents.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No, this step of checking your NRIC does not violate the PDPA, as it will
-only be used for verification purposes, and should not be shared for marketing
+only be used for verification purposes, and would not be shared for marketing
 purposes. If requested, we seek your cooperation to allow the retail staff
 to check the address on your personal identification documents (or any
-recent utility bills or documents) against the address on your voucher.</p>
-<p>Please ensure that the retailer does not take a photo or photocopy of
-your NRIC or any other personal identification document, and that the NRIC
-or any other personal identification document is returned to you immediately
-upon verification.</p>
+recent utility bills or documents) against the address on your Climate
+Vouchers.</p>
+<p></p>
+<p>The retailer should not be taking a photo or photocopy of your NRIC or
+any other personal identification document. The NRIC or any other personal
+identification document is to be returned to you immediately upon verification.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Do I have to spend the full value of the Climate Vouchersin a single transaction?</strong>
+<summary><strong>Do I have to spend the full value of the Climate Vouchers in a single transaction?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>No. Each set of Climate Vouchers comes in multiple denominations ($2,
-$5, $10, $50).</p>
-<p></p>
 <p>You may select the voucher amount you would like to spend. For example,
 you can spend $30 worth of Climate Vouchers on eligible LED lights today
-and use the remaining $270 at a later date on another eligible product.</p>
+and use the remaining voucher amount at a later date on another eligible
+product.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Can I use my own and someone else’s Climate Vouchers in a single transaction?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Multiple Climate Vouchers across different residential addresses cannot
-be combined in a single transaction.</p>
+<p>Multiple Climate Vouchers across different households (e.g. one set of
+$300 Climate Vouchers from your household and one set of $100 Climate Vouchers
+from another household) cannot be combined in a single transaction.&nbsp;</p>
+<p></p>
+<p>You are only eligible to use up to $400 of your own Climate Vouchers in
+a single transaction.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I have completed my purchase without redeeming the Climate Voucher. Can I get reimbursed directly from NEA or PUB?</strong>
+<summary><strong>I have completed my purchase without spending the Climate Vouchers. Can I get reimbursed directly from NEA or PUB?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Only participating merchants can accept the Climate Vouchers. NEA/PUB
-will not reimburse residents for unredeemed vouchers.</p>
+<p>No. NEA/PUB will not reimburse residents for purchases made without the
+Climate Vouchers. Only participating retailers can accept the Climate Vouchers
+for purchase of eligible products.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Can I spend my Climate Vouchers online?</strong>&nbsp;&nbsp;&nbsp;&nbsp;</summary>
+<summary><strong>Can I spend my Climate Vouchers for online transactions?</strong>&nbsp;
+&nbsp; &nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers may be applied to offset your online purchase, but
-they can only be scanned <u>in-person</u> using the participating retailer’s
-approved Point-of-Sale system at their physical store or at the point of
-delivery.</p>
-<p></p>
-<p><strong>Customers are strongly advised not to forward their vouchers to retailers remotely via social media or online platforms for scanning or redemption</strong>.
-Customers should check that the retailers offering online Climate Voucher
-promotions are <a href="https://www.climate-friendly-households.gov.sg/cv-spend/" rel="noopener nofollow" target="_blank">Participating Retailers</a> under
-the programme.</p>
-<p></p>
+<p>The Climate Vouchers can only be scanned in-person and cannot be scanned
+remotely. Some participating retailers allow customers to place online
+orders with an option to scan customers’ Climate Vouchers at the point
+of delivery. You may refer to the “Remarks” column of <a href="https://www.climate-friendly-households.gov.sg/files/list_of_retailers___cfhp_website_1_apr25.pdf" rel="noopener noreferrer nofollow" target="_blank">this PDF list</a> to
+identify which participating retailers offer such a service.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -321,86 +352,48 @@ the programme.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Yes. You may share your unique voucher link with your household members,
-by clicking on&nbsp;“Info &amp; help”, followed by “Share your vouchers”.
-You can also forward the voucher link SMS from gov.sg to your household
-members directly. However, please be careful when sharing your unique voucher
-link with others as anyone with access to the link may be able to spend
-the vouchers. We seek your understanding that there will be no reinstatement
+by clicking on “Info &amp; help”, followed by “Share your vouchers” in
+RedeemSG. You can also forward the voucher link SMS directly to your household
+members. However, please be careful when sharing your unique voucher link
+with others as anyone with access to the link may be able to spend the
+vouchers. We seek your understanding that there will be no reinstatement
 made for vouchers that were shared erroneously.</p>
-<ul data-tight="true" class="tight">
+<p></p>
+<ol data-tight="true" class="tight">
 <li>
 <p>If your family member lives with you, they can produce their own NRIC
-or any document showing their HDB residential address to the retail staff
-at the point of purchase.</p>
+or any document showing their residential address which matches the address
+on the vouchers to the cashier at the point of purchase.&nbsp;</p>
 </li>
 <li>
 <p>If your family member does not live with you, they will have to produce
-a copy of your personal identification document (showing your HDB address)
-to the retail assistant at the point of purchase.</p>
+a copy of your personal identification document (showing your residential
+address) to the cashier at the point of purchase.</p>
 </li>
-</ul>
-<p></p>
+</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Screenshot_2024_03_28_at_11_41_47_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/07___Voucher_spend_link.png">
 </div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Can I ask a non-household member to use my vouchers to buy eligible items for me?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, you may authorise a non-household member to buy eligible items for
-you using your household’s vouchers. However, they will have to bring a
-copy of your personal identification document showing your HDB address
-for verification by the participating retailer.</p>
-<p></p>
-<p>However, please be careful when sharing your unique voucher link with
-others as anyone with access to the link may be able to spend the vouchers.
-We seek your understanding that there will be no reinstatement made for
-vouchers that were shared erroneously.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Can the Climate Vouchers be sold?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers cannot be sold. Please refer to the Terms &amp; Conditions
-of the Climate Vouchers <a href="/terms-cv/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Do I get change back in cash if the purchase (e.g. $299) is less than the amount of digital vouchers that I want to spend (e.g. $300)?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>There will be no cash change provided if the purchase amount is less than
-the voucher amount selected.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>How do I find out how much value is left for my Climate Vouchers?</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You may access your voucher link in the SMS sent by gov.sg to find out
-the remaining balance of your Climate Vouchers. The value will be shown
-in the “Balance” as per the screenshot below</p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Balance_w_box.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECFHP   EN/Screenshot_2024_03_28_at_11_40_29_PM.png">
 </div>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Can I donate my Climate Vouchers?</strong>&nbsp;&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>There is no option to donate the Climate Vouchers. The programme aims
-to encourage households to reduce their energy and water consumption, while
-saving costs in the long run. As such, we encourage you to use your vouchers
-to buy energy and/or water efficient appliances and/or fittings, if they
-need to be replaced.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
-<p>&nbsp;<em>* Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat.</em>
-</p>
 <h3>Refunds &amp; Exchanges</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
