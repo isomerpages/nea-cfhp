@@ -447,6 +447,16 @@ be shown in the “Balance” as per the screenshot below.</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Can I donate my Climate Vouchers?</strong> &nbsp; &nbsp; &nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>There is no option to donate the Climate Vouchers. The programme aims
+to encourage households to reduce their energy and water consumption, while
+saving costs in the long run. As such, we encourage you to use your vouchers
+to buy energy and/or water efficient appliances and/or fittings, if they
+need to be replaced.</p>
+</div>
+</details>
 </div>
 <h3>Refunds &amp; Exchanges</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
