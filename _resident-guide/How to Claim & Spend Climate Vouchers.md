@@ -36,7 +36,7 @@ Forward the SMS to share the vouchers only with household members.</p>
 </ol>
 <p></p>
 
-<style> .light-grey-box { background-color: #f5f5f5; /\* Light grey color \*/ padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style> <div class="light-grey-box"> * Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers. </div>
+<style> .light-grey-box { background-color: #f5f5f5; /\* Light grey color \*/ padding: 20px; border-radius: 5px; font-size: 20px; line-height: 1.5; } </style> <div class="light-grey-box"> * Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers. </div>
 
 <p></p>
 
@@ -108,9 +108,8 @@ not done so</p>
 </tbody>
 </table>
 <p></p>
-<style> .light-grey-box { background-color: #f5f5f5; padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style> <div class="light-grey-box"> As eligible residents will receive the vouchers based on their registered address at the point of claim, those who have shifted houses recently should update their registered address with ICA before making the claim. </div>
+<style> .light-grey-box { background-color: #f5f5f5; padding: 20px; border-radius: 5px; font-size: 20px; line-height: 1.5; } </style> <div class="light-grey-box"> As eligible residents will receive the vouchers based on their registered address at the point of claim, those who have shifted houses recently should update their registered address with ICA before making the claim. </div>
 <p></p>
 <p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p>
 <p></p>
-
