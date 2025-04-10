@@ -5,10 +5,8 @@ variant: markdown
 description: ""
 ---
 <h3>How to claim your Climate Vouchers?</h3>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=BTl1nBIKjJGkjxGm"></iframe>
-</div>
-<style> .iframe-wrapper { display: flex; justify-content: center; align-items: center; width: 100%; margin: 0 auto; } </style> <div class="iframe-wrapper"> <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9\_w?si=BTl1nBIKjJGkjxGm"></iframe> </div>
+
+<style> .iframe-wrapper { display: flex; justify-content: center; align-items: center; width: 100%; margin: 0 auto; } </style> <div class="iframe-wrapper"> <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=BTl1nBIKjJGkjxGm"></iframe> </div>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Visit <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a></strong> and
@@ -38,7 +36,9 @@ Forward the SMS to share the vouchers only with household members.</p>
 </ol>
 <p></p>
 
-<style> .light-grey-box { background-color: #f5f5f5; /\* Light grey color \*/ padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style> <div class="light-grey-box"> \* Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers. </div>
+<style> .light-grey-box { background-color: #f5f5f5; /\* Light grey color \*/ padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style> <div class="light-grey-box"> * Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers. </div>
+
+<p></p>
 
 <style> .light-red-box { background-color: #fdedeb; padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style>   <div class="light-red-box"> <p><strong>Important</strong></p> <p>You will receive an SMS from gov.sg with the unique voucher link after you have claimed your Climate Vouchers at <a href="https://go.gov.sg/cv-claim">go.gov.sg/cv-claim</a> (i.e. upon completing Steps 1 to 3).</p> <p>The unique voucher link you receive should start with <strong>https://voucher.redeem.gov.sg/</strong>. Do not trust or click on any voucher links starting with unknown or other prefixes.</p> <p>Do note that NEA, PUB and RedeemSG will never send any SMS asking for your personal information or banking details to claim your Climate Vouchers. If you receive such an SMS, do not click on the link or reply.</p> </div> 
 
@@ -108,8 +108,9 @@ not done so</p>
 </tbody>
 </table>
 <p></p>
+<style> .light-grey-box { background-color: #f5f5f5; padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style> <div class="light-grey-box"> As eligible residents will receive the vouchers based on their registered address at the point of claim, those who have shifted houses recently should update their registered address with ICA before making the claim. </div>
+<p></p>
 <p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p>
 <p></p>
 
-<style> .light-grey-box { background-color: #f5f5f5; padding: 20px; border-radius: 5px; font-size: 16px; line-height: 1.5; } </style> <div class="light-grey-box"> As eligible residents will receive the vouchers based on their registered address at the point of claim, those who have shifted houses recently should update their registered address with ICA before making the claim. </div>
