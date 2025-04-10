@@ -203,13 +203,25 @@ request.</p>
 <summary><strong>I am eligible for the vouchers, but it shows on RedeemSG that I am not eligible.</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Singapore Citizens (SC) or Permanent Residents (PR) whose address is registered
+at an HDB flat are eligible to claim the $300 and additional $100 Climate
+Vouchers under the enhanced Climate Friendly Households Programme.</p>
+<p>&nbsp;</p>
+<p>&nbsp;If you eligible for the Climate Vouchers, but see the following
+error message – “Sorry, you’re not eligible for the Climate Vouchers”,
+please fill in this <a href="go.gov.sg/cv-appeals" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>I have recently shifted into a newly TOP private residential property, and have updated my residential address with ICA. However, I am not able to claim my vouchers via RedeemSG.</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>If you had shifted into a newly TOP private residential property between
+Jan 2025 and Mar 2025, please try to claim the vouchers again in May 2025.</p>
+<p>&nbsp;</p>
+<p>For private properties that received TOP after March 2025, please submit
+your request directly <a href="go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">here</a>. Please note that it will take 3-4 weeks
+for us to get back to you due to a high volume of requests.</p>
 </div>
 </details>
 </div>
