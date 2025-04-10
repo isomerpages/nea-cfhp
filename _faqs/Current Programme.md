@@ -495,7 +495,7 @@ with the purchase.</p>
 </details>
 </div>
 <h3>Retailers</h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>I am interested to participate in this programme as a retailer. How can I find out more?</strong>
 </summary>
@@ -510,9 +510,37 @@ API integration,</p>
 in your POS or Sales system that can ensure that the Climate Vouchers are
 only used for NEA/PUB-approved items), and</p>
 <p>iii. support QR code scanning.</p>
+<p></p>
+<p>Notwithstanding the above criteria, retailers are reminded to ensure that
+(i) the physical outlet that your company intends to use to accept the
+Climate Vouchers is approved for retail use and complies with the relevant
+authority's requirements e.g. JTC's Land Use Requirements, and (ii) the
+controlled goods that you wish to sell under the programme are affixed
+with the Safety Mark, in line with the Consumer Protection (Safety Requirements)
+Regulations.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How can we onboard the programme as a retailer?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Retailers are onboarded to the programme in batches. If you satisfy the
+participating criteria and would like to be considered for a subsequent
+round of retailer onboarding, please fill in the following form <a href="https://go.gov.sg/cv-interestedretailers" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-interestedretailers</a> and
+we will be in touch with you.</p>
 </div>
 </details>
 </div>
+<h3>RedeemSG</h3>
+<details class="isomer-details">
+<summary><strong>I would like to find out more about the system that is behind the Climate Vouchers.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>NEA’s and PUB’s Climate Vouchers are supported by RedeemSG, the trusted
+voucher system for Singapore. RedeemSG is built by Open Government Products.
+For more information, please refer to <a href="https://redeem.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">redeem.gov.sg</a> website and their <a href="https://redeem.gov.sg/faq.html" rel="noopener noreferrer nofollow" target="_blank">FAQs</a>.</p>
+</div>
+</details>
 <h3>Further Enquiries</h3>
 <p>Should you have further enquiries, please visit: <a href="https://go.gov.sg/cv-feedback" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-feedback</a>
 </p>
