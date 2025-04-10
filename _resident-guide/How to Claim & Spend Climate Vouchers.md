@@ -8,78 +8,44 @@ description: ""
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=BTl1nBIKjJGkjxGm"></iframe>
 </div>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Visit <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a></strong> and
-tap on ‘Climate Vouchers’.</p>
-<p></p>
+tap on ‘$100 Climate Vouchers’.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/00___Campagin_Page.png">
+<img style="width: 43%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/100_SELECT.png">
 </div>
+<p></p>
 </li>
 <li>
 <p><strong>Log in with Singpass</strong>. Only one household member needs
 to do this.</p>
 </li>
 </ol>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link_2025.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/02___Voucher_claim_link.png">
-</div>
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Receive the SMS link to your Climate Vouchers</strong>. Forward
-the SMS to share the vouchers with household members.</p>
+<p><strong>Receive the SMS link to your Climate Vouchers </strong>from "gov.sg".
+Forward the SMS to share the vouchers only with household members.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/11___SMS_message.png">
+</div>
 </li>
 </ol>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/12___SMS_message__Already_claimed_.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/11___SMS_message.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<ol data-tight="true" class="tight">
+<p></p>
+<p></p>
+<ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Receive the SMS link to your Climate Vouchers</strong>. Forward
-the SMS to share the vouchers with household members.</p>
+<p><strong>Repeat steps </strong>to claim $300 Climate Vouchers, if you have
+not done so</p>
 </li>
 </ol>
-<p>Repeat steps to claim $300 Climate Vouchers, if you have not done so</p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/300_SELECT.png">
+</div>
 <h3>How to spend your Climate Vouchers?</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -134,6 +100,7 @@ the SMS to share the vouchers with household members.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>For more information, please refer to our <a href="https://www.climate-friendly-households.gov.sg/cv-faqs/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a>
 </p>
 <p></p>
