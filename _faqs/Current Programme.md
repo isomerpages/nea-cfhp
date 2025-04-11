@@ -195,7 +195,7 @@ address with ICA.</p>
 <summary><strong>The previous owners of my dwelling unit have claimed the Climate Vouchers for my dwelling unit. Can I claim the vouchers as well?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please provide more details via this <a href="https://www.go.gov.sg/cv-appeal" rel="noopener noreferrer nofollow" target="_blank">form</a> for us to look into your
+<p>Please provide more details via this <a href="https://www.go.gov.sg/cv-appeals" rel="noopener noreferrer nofollow" target="_blank">form</a> for us to look into your
 request.</p>
 </div>
 </details>
@@ -209,7 +209,7 @@ Vouchers under the enhanced Climate Friendly Households Programme.</p>
 <p>&nbsp;</p>
 <p>&nbsp;If you eligible for the Climate Vouchers, but see the following
 error message – “Sorry, you’re not eligible for the Climate Vouchers”,
-please fill in this <a href="go.gov.sg/cv-appeals" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+please fill in this <a href="https://form.gov.sg/66836907a9f8105b38b993d3" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -220,8 +220,9 @@ please fill in this <a href="go.gov.sg/cv-appeals" rel="noopener noreferrer nofo
 Jan 2025 and Mar 2025, please try to claim the vouchers again in May 2025.</p>
 <p>&nbsp;</p>
 <p>For private properties that received TOP after March 2025, please submit
-your request directly <a href="go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">here</a>. Please note that it will take 3-4 weeks
-for us to get back to you due to a high volume of requests.</p>
+your request directly <a href="https://form.gov.sg/66836907a9f8105b38b993d3" rel="noopener noreferrer nofollow" target="_blank">here</a>. Please note
+that it will take 3-4 weeks for us to get back to you due to a high volume
+of requests.</p>
 </div>
 </details>
 </div>
