@@ -188,7 +188,7 @@ file a police report by calling 1800 255 0000.</p>
 <p>As eligible residents will receive the vouchers based on their registered
 address at the point of claim, new homeowners should claim the Climate
 Vouchers under their new address, after they have updated their registered
-address with ICA.</p>
+address with ICA and their new address is visible on Singpass.</p>
 </div>
 </details>
 <details class="isomer-details">
