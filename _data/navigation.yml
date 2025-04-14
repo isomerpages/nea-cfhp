@@ -8,7 +8,7 @@ links:
     collection: where-to-spend
   - title: Contact
     collection: contact
-  - title: FAQS
-    collection: faqs
+  - title: FAQs
+    url: /cv-faqs
   - title: Resources
     collection: resources

@@ -1,25 +1,31 @@
 ---
 title: Climate Vouchers
 permalink: /about-cv/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2; } </style> <div class="light-blue-box"> To encourage greater involvement in climate action, the Climate Friendly Households Programme (CFHP) will be further enhanced through the provision of an additional $100 worth of Climate Vouchers for eligible HDB households, on top of the existing $300. The programme will also be expanded to include Singapore Citizen households registered and living in private residential properties. Eligible households may claim their Climate Vouchers from 15 April 2025 to 31 December 2027. <br><br> For more information, please refer to the Frequently Asked Questions <a href="/interim-faq">here</a>. </div>
-
-<h2><strong> Climate Friendly Households Programme</strong></h2>
+<h2><strong>Climate Friendly Households Programme</strong></h2>
 <p>Launched on 28 November 2020, the Climate Friendly Households Programme
 (CFHP) is a joint initiative by NEA and PUB which aims to encourage households
 to take climate actions to be more efficient in their energy and water
 consumption, while saving on utility bills in the long run.</p>
-<p>From 15 April 2024, the programme has been enhanced to benefit more households and provide
-more resource-efficient products to choose from. All
-HDB households* can claim <strong>$300 in Climate Vouchers</strong> to offset
-the purchase of<strong> 10 types of energy- and water-efficient appliances and fittings.</strong>
-</p>
-<p>Programme ends <strong>31 December 2027.</strong>
-</p>
-<p> * Multiple families/tenants living in the same registered address are collectively entitled to 1 set of Climate Vouchers for the same registered address/flat. </p>
+<p>On 15 April 2024, the programme was enhanced to benefit more households
+and provide more resource-efficient products to choose from. All HDB households*
+can claim $300 in Climate Vouchers to offset the purchase of 10 types of
+energy- and water-efficient appliances and fittings.</p>
+<p>From 15 April 2025, HDB households* can claim an additional $100 in Climate
+Vouchers, on top of the existing $300. The enhanced CFHP is also expanded
+to include Singapore Citizen households* living in private residential
+properties.</p>
+<p>This means that <strong>eligible HDB and private households* can claim a total of $400 worth of Climate Vouchers</strong>.
+The Climate Vouchers are valid until 31 December 2027 and can be used at
+over 150 participating retailers with over 500 outlets to purchase energy-
+and water-efficient household products.</p>
+<p>* Multiple families/tenants living in the same registered address are
+collectively entitled to one set of $300 and one set of $100 Climate Vouchers.</p>
 <p></p>
 <p></p>
-
-![](/images/Resident_Table.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/About_CVs.png">
+</div>
+<p></p>

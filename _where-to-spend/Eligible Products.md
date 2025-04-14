@@ -1,11 +1,9 @@
 ---
 title: Eligible Products
 permalink: /cv-products/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style> .light-blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 18px; line-height: 2; } </style> <div class="light-blue-box"> To encourage greater involvement in climate action, the Climate Friendly Households Programme (CFHP) will be further enhanced through the provision of an additional $100 worth of Climate Vouchers for eligible HDB households, on top of the existing $300. The programme will also be expanded to include Singapore Citizen households registered and living in private residential properties. Eligible households may claim their Climate Vouchers from 15 April 2025 to 31 December 2027. <br><br> For more information, please refer to the Frequently Asked Questions <a href="/interim-faq">here</a>. </div>
-
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels-refrigerator/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/With logo/Slide11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3 ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/air-conditioners/" class="isomer-card">
