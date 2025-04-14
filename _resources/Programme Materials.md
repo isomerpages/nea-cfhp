@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h4>How to claim your Climate Vouchers?</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=i6kUlAZNwL5h0yPk"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEA_CFHP_PostersEN_ML.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEA_CFHP_PostersCN_TL.jpg">
 </div>
 <p></p>
