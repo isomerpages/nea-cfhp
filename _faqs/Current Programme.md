@@ -168,7 +168,7 @@ Do not trust or click vouchers starting with other prefixes.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I</strong>  <strong>have received an SMS asking me to key in my bank account details to claim my Climate Vouchers. Is it a scam?</strong>
+<summary><strong>I have received an SMS asking me to key in my bank account details to claim my Climate Vouchers. Is it a scam?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NEA, PUB and RedeemSG will never send any SMS requesting for your bank
@@ -206,10 +206,9 @@ request.</p>
 <p>Singapore Citizens (SC) or Permanent Residents (PR) whose address is registered
 at an HDB flat are eligible to claim the $300 and additional $100 Climate
 Vouchers under the enhanced Climate Friendly Households Programme.</p>
-<p>&nbsp;</p>
-<p>&nbsp;If you eligible for the Climate Vouchers, but see the following
-error message – “Sorry, you’re not eligible for the Climate Vouchers”,
-please fill in this <a href="https://form.gov.sg/66836907a9f8105b38b993d3" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+<p>If you eligible for the Climate Vouchers, but see the following error
+message – “Sorry, you’re not eligible for the Climate Vouchers”, please
+fill in this <a href="https://form.gov.sg/66836907a9f8105b38b993d3" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
