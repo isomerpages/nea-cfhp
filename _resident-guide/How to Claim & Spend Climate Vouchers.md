@@ -6,11 +6,11 @@ description: ""
 ---
 <h3>How to claim your Climate Vouchers?</h3>
 
-<style> .iframe-wrapper { display: flex; justify-content: center; align-items: center; width: 100%; margin: 0 auto; } </style> <div class="iframe-wrapper"> <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=BTl1nBIKjJGkjxGm"></iframe> </div>
+<style> .iframe-wrapper { display: flex; justify-content: center; align-items: center; width: 100%; margin: 0 auto; } </style> <div class="iframe-wrapper"> <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=FDNgW3xt9_w"></iframe> </div>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Visit <a href="http://go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a></strong> and
-tap on ‘$100 Climate Vouchers’.</p>
+tap on ‘Climate Vouchers ($100)’.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 43%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/100_SELECT.png">
 </div>
@@ -27,8 +27,7 @@ to do this.</p>
 <p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Receive the SMS link to your Climate Vouchers </strong>from "gov.sg".
-Forward the SMS to share the vouchers only with household members.</p>
+<p><strong>Receive the SMS link to your Climate Vouchers </strong>from "gov.sg".</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/EN/11___SMS_message.png">
 </div>
