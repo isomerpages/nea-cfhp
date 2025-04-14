@@ -168,7 +168,7 @@ Do not trust or click vouchers starting with other prefixes.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>I</strong>  <strong>have received an SMS asking me to key in my bank account details to claim my Climate Vouchers. Is it a scam?</strong>
+<summary><strong>I have received an SMS asking me to key in my bank account details to claim my Climate Vouchers. Is it a scam?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>NEA, PUB and RedeemSG will never send any SMS requesting for your bank
