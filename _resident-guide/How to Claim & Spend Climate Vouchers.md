@@ -42,7 +42,7 @@ to do this.</p>
 <p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Repeat steps </strong>to claim $300 Climate Vouchers, if you have
+<p><strong>Repeat steps </strong>to claim Climate Vouchers ($300), if you have
 not done so</p>
 </li>
 </ol>
