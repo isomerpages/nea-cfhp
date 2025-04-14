@@ -43,7 +43,7 @@ to do this.</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Repeat steps </strong>to claim Climate Vouchers ($300), if you have
-not done so</p>
+not done so.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
