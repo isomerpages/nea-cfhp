@@ -6,15 +6,8 @@ description: ""
 ---
 <p></p>
 <h4>How to claim your Climate Vouchers?</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Video Guide</summary>
-<div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=aYYEx9liV2hQbOX8"></iframe>
-</div>
-</div>
-</details>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FDNgW3xt9_w?si=g9WOWpO07P7pEjMK"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
