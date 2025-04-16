@@ -20,6 +20,10 @@ sections:
         private properties.
       button: Find out more
       url: /about-cv
+  - infopic:
+      title: How much am I eligible to claim?
+      id: infopic
+      alt: Image alt text
   - textcards:
       title: Claim & Spend Climate Vouchers
       subtitle: How to
@@ -39,15 +43,15 @@ sections:
           linktext: Find Participating Retailers
           url: /cv-spend
   - infobar:
+      id: infobar
+      description: "* Multiple families/tenants living in the same registered address
+        are collectively entitled to one set of $300 and one set of $100 Climate
+        Vouchers."
+  - infobar:
       title: Frequently Asked Questions
       id: infobar
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
-  - infobar:
-      id: infobar
-      description: "* Multiple families/tenants living in the same registered address
-        are collectively entitled to one set of $300 and one set of $100 Climate
-        Vouchers."
 notification: ""
 ---
