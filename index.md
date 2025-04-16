@@ -15,8 +15,9 @@ sections:
   - infobar:
       title: Climate Vouchers
       id: infobar
-      description: Each eligible household* can claim one set of $300 vouchers and one
-        set of $100 vouchers.
+      description: Additional $100 Climate Vouchers (CVs) for eligible HDB households
+        on top of $300 CVs in 2024. $300 and $100 CVs for eligible households in
+        private properties.
       button: Find out more
       url: /about-cv
   - textcards:
@@ -48,7 +49,5 @@ sections:
       description: "* Multiple families/tenants living in the same registered address
         are collectively entitled to one set of $300 and one set of $100 Climate
         Vouchers."
-notification: "From 15 Apr 2025: Additional S$100 Climate Vouchers for eligible
-  HDB households on top of $300 Climate Vouchers provided in 2024. $300 and $100
-  in Climate Vouchers for eligible households in private properties."
+notification: ""
 ---
