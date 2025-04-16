@@ -15,8 +15,8 @@ sections:
   - infobar:
       title: Climate Vouchers
       id: infobar
-      description: Additional $100 Climate Vouchers (CVs) for eligible HDB households
-        on top of $300 CVs in 2024. $300 and $100 CVs for eligible households in
+      description: $100 Climate Vouchers (CVs) for eligible HDB households on top of
+        $300 CVs issued in 2024. $300 and $100 CVs for eligible households in
         private properties.
       button: Find out more
       url: /about-cv
