@@ -12,18 +12,17 @@ sections:
       background: /images/NEA_CFHP_Web_Banner.jpg
       button: Claim your vouchers anytime until 31 Dec 2027
       url: https://go.gov.sg/cv-claim
-  - infobar:
-      title: Climate Vouchers
-      id: infobar
-      description: $100 Climate Vouchers (CVs) for eligible HDB households on top of
-        $300 CVs issued in 2024. $300 and $100 CVs for eligible households in
-        private properties.
-      button: Find out more
-      url: /about-cv
   - infopic:
       title: How much am I eligible to claim?
       id: infopic
       alt: Image alt text
+  - infobar:
+      title: Climate Vouchers
+      id: infobar
+      description: Each eligible household* can claim one set of $300 vouchers and one
+        set of $100 vouchers.
+      button: Find out more
+      url: /about-cv
   - textcards:
       title: Claim & Spend Climate Vouchers
       subtitle: How to
