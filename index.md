@@ -16,7 +16,7 @@ sections:
       title: How much am I eligible to claim?
       id: infopic
       alt: Image alt text
-      image: /images/2025 Apr Launch/Table_for__300_and__100.png
+      image: /images/2025 Apr Launch/Updated__300_vs__100.png
   - infobar:
       title: Climate Vouchers
       id: infobar
