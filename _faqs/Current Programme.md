@@ -23,9 +23,7 @@ set of $100 vouchers.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Eligible households who have claimed their $300 Climate Vouchers can claim
 the additional $100 vouchers to offset the upfront cost of any of the eligible
-CFHP products during the programme period i.e. until 31 December 2027.
-Eligible residents will receive the vouchers based on their registered
-address at the point of claim.</p>
+CFHP products during the programme period i.e. until 31 December 2027.</p>
 </div>
 </details>
 <details class="isomer-details">
