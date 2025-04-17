@@ -37,7 +37,7 @@ and water-efficient household products.</p>
 <p>Claimed $300 before 15 April 2025?</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Amount that can be claimed on and after 15 April 2025</p>
+<p>Amount that can be claimed from 15 April 2025</p>
 </th>
 </tr>
 <tr>
