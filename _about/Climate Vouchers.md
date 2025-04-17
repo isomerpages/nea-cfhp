@@ -62,7 +62,7 @@ and water-efficient household products.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Eligible households in private properties</strong>
+<p><strong>Eligible Singaporean private residential households </strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
