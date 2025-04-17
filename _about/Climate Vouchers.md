@@ -21,6 +21,56 @@ properties.</p>
 The Climate Vouchers are valid until 31 December 2027 and can be used at
 over 150 participating retailers with over 500 outlets to purchase energy-
 and water-efficient household products.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Claimed $300 before 15 April 2025?</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Amount that can be claimed from 15 April 2025</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Eligible HDB households</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Can claim $100 only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Can claim a total of $400 (one set of $300 and one set of $100)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Eligible Singaporean private residential households </strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Can claim a total of $400 (one set of $300 and one set of $100)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>* Multiple families/tenants living in the same registered address are
 collectively entitled to one set of $300 and one set of $100 Climate Vouchers.</p>
 <p></p>

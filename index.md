@@ -12,6 +12,11 @@ sections:
       background: /images/NEA_CFHP_Web_Banner.jpg
       button: Claim your vouchers anytime until 31 Dec 2027
       url: https://go.gov.sg/cv-claim
+  - infopic:
+      title: How much am I eligible to claim?
+      id: infopic
+      alt: Image alt text
+      image: /images/2025 Apr Launch/Table_for__300_and__100.png
   - infobar:
       title: Climate Vouchers
       id: infobar
@@ -38,15 +43,15 @@ sections:
           linktext: Find Participating Retailers
           url: /cv-spend
   - infobar:
+      id: infobar
+      description: "* Multiple families/tenants living in the same registered address
+        are collectively entitled to one set of $300 and one set of $100 Climate
+        Vouchers."
+  - infobar:
       title: Frequently Asked Questions
       id: infobar
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
-  - infobar:
-      id: infobar
-      description: "* Multiple families/tenants living in the same registered address
-        are collectively entitled to one set of $300 and one set of $100 Climate
-        Vouchers."
 notification: ""
 ---
