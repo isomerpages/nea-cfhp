@@ -247,8 +247,10 @@ find out more.&nbsp;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can spend your Climate Vouchers on eligible items at any participating
-retail store. You may refer to the full list of participating retailers
-<a href="https://go.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+retailers' store. You may refer to the full list of participating retailers
+<a href="https://go.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;To prevent any misuse of your vouchers, you are strongly
+encouraged to purchase only from the participating retailers listed on
+our website.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -478,6 +480,18 @@ to encourage households to reduce their energy and water consumption, while
 saving costs in the long run. As such, we encourage you to use your vouchers
 to buy energy and/or water efficient appliances and/or fittings, if they
 need to be replaced.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can I send my voucher links or QR code to the retailer via social media or messaging platforms?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To prevent any misuse of your vouchers, please do not share your Climate
+Voucher links or QR codes through social media, messaging apps, or any
+digital platforms with non-participating retailers or with others who are
+not in your household. These vouchers are meant for in-person redemption
+at participating retail stores during checkout or upon delivery when the
+retail staff is present.</p>
 </div>
 </details>
 </div>
