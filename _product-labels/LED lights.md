@@ -11,7 +11,7 @@ with the old round energy label are not eligible<strong>.</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/LED_Lights_Label.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/LED_Lights_Label___New.png">
 </div>
 <p>Note:<strong> </strong>From 1 April 2025, it is mandatory for all lamps
 to carry the refreshed Energy Label with the 4-tick rating scale (<a href="https://www.nea.gov.sg/media/news/news/index/enhancing-energy-efficiency-requirements-of-home-appliances" rel="noopener noreferrer nofollow" target="_blank">news link</a>).</p>
