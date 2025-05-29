@@ -416,10 +416,13 @@ address) to the cashier at the point of purchase.</p>
 <summary><strong>Can I ask a non-household member to use my Climate Vouchers to buy eligible items for me?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, you may authorise a non-household member to buy eligible items for
-you using your household’s Climate Vouchers. However, the person will have
-to bring a copy of your personal identification document showing your address
-for verification by the participating retailer.</p>
+<p>Yes, you may authorise a non-household member (e.g. a family member or
+trusted friend) to buy eligible items for you using your household’s Climate
+Vouchers. The authorised person will have to bring a copy of your personal
+identification document showing your address for verification by the participating
+retailer. To prevent any misuse of your vouchers, please do not share your
+Climate Voucher links or QR codes through social media, messaging apps,
+or any digital platforms with external parties</p>
 </div>
 </details>
 <details class="isomer-details">
