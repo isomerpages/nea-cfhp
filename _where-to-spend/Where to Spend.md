@@ -10,9 +10,10 @@ description: ""
 
 <div class="iframe-wrapper">
 
-<iframe height="480" width="100%" src="https://www.google.com/maps/d/u/3/embed?mid=1KwC_1_N8wuye651wSVRiKPuecTLjfAI&amp;ehbc=2E312F"></iframe>
-	
+<iframe frameborder="0" height="600" width="100%" src="https://maps.gov.sg/spend-climatevouchers"></iframe>
 </div>
+
+<p> To view map in full screen, click <a href="https://maps.gov.sg/spend-climatevouchers">here</a> </p>
 <h4><em>Legend</em></h4>
 <p></p>
 <div class="isomer-image-wrapper">
