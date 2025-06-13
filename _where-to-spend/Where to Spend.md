@@ -10,7 +10,7 @@ description: ""
 
 <a href="https://maps.gov.sg/spend-climatevouchers">Click here to view the map fullscreen.</a> 
 
-<p>Zoom into the map until you see the hand icon <img style="height: 1.5em; width: auto; vertical-align: middle; display: inline-block;" alt="hand icon" src="/images/2025%20Apr%20Launch/hand.png">, then click on the dot to view retailer details.</p>
+<p></p>Zoom into the map until you see the hand icon <img style="height: 1.5em; width: auto; vertical-align: middle; display: inline-block;" alt="hand icon" src="/images/2025%20Apr%20Launch/hand.png">, then click on the dot to view retailer details.
 
 <div class="iframe-wrapper">
 
