@@ -8,7 +8,7 @@ description: ""
 
 <p>Locate your nearest participating retailer from the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>. For a full list of participating retail stores, please click <a href="/files/list_of_retailers___cfhp_website_20_may_2025.pdf" rel="noopener noreferrer nofollow" target="\_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p>
 
-<a href="https://maps.gov.sg/spend-climatevouchers">Click here to view the map fullscreen.</a> <p>Zoom into the map until you see the hand icon , then click on the dot to view retailer details.</p>
+<a href="https://maps.gov.sg/spend-climatevouchers">Click here to view the map fullscreen.</a> <p>Zoom into the map until you see the hand icon <img style="height: 1.5em; width: auto; vertical-align: middle; display: inline-block;" alt="hand icon" src="/images/2025%20Apr%20Launch/hand.png">, then click on the dot to view retailer details.</p>
 <div class="iframe-wrapper">
 
 <iframe frameborder="0" height="600" width="100%" src="https://maps.gov.sg/spend-climatevouchers"></iframe>
