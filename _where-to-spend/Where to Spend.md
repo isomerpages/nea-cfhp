@@ -10,13 +10,13 @@ description: ""
 
 <a href="https://maps.gov.sg/spend-climatevouchers">Click here to view the map fullscreen.</a> 
 
-<p></p>Zoom into the map until you see the hand icon <img style="height: 1.5em; width: auto; vertical-align: middle; display: inline-block;" alt="hand icon" src="/images/2025%20Apr%20Launch/hand.png">, then click on the dot to view retailer details.
+<p></p>To select the location, click on any of the dots around that location with the pointing finger icon <img style="height: 2em; width: auto; vertical-align: middle; display: inline-block;" alt="hand icon" src="/images/2025%20Apr%20Launch/hand.png">, and you will be able to view the retailer location details on the left. Alternatively, you can search by name or address of a retailer you have in mind, to check if the retailer is a Climate Vouchers retailer and view the location details.
+<p></p>
 
 <div class="iframe-wrapper">
 
 <iframe frameborder="0" height="600" width="100%" src="https://maps.gov.sg/spend-climatevouchers"></iframe>
 </div>
-
 
 <h4 id="participating-retailers">Participating Retailers</h4>
 <div class="iframe-wrapper">
