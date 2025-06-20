@@ -8,14 +8,14 @@ description: ""
 
 <p>Locate your nearest participating retailer from the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>. For a full list of participating retail stores, please click <a href="/files/List_of_Retailers___CFHP_Website_23_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="\_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p> 
 
-<a href="https://maps.gov.sg/spend-climatevouchers">Click here to view the map fullscreen.</a> 
+<a href="https://maps.gov.sg/spend-climatevouchers-jun2025">Click here to view the map fullscreen.</a> 
 
 <p></p>To select the location, click on any of the dots around that location with the pointing finger icon <img style="height: 2em; width: auto; vertical-align: middle; display: inline-block;" alt="hand icon" src="/images/2025%20Apr%20Launch/hand.png">, and you will be able to view the retailer location details on the left. Alternatively, you can search by name or address of a retailer you have in mind, to check if the retailer is a Climate Vouchers retailer and view the location details.
 <p></p>
 
 <div class="iframe-wrapper">
 
-<iframe frameborder="0" height="600" width="100%" src="https://maps.gov.sg/spend-climatevouchers"></iframe>
+<iframe frameborder="0" height="600" width="100%" src="https://maps.gov.sg/spend-climatevouchers-jun2025"></iframe>
 </div>
 
 <h4 id="participating-retailers">Participating Retailers</h4>
