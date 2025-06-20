@@ -20,6 +20,6 @@ description: ""
 
 <h4 id="participating-retailers">Participating Retailers</h4>
 <div class="iframe-wrapper">
-	<iframe allowfullscreen="true" height="389" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3v5uTqrJyUub7YHXfVvU9UaHZkOdfHUomZzMO2oHB2ewgNLdu_V-1023gmf6q_Q/pubembed?start=true&amp;loop=true&amp;delayms=2000"></iframe>
+	<iframe allowfullscreen="true" height="389" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWqkSOtS-ABgbTxW_WzvPixZlwKsMkkX-54bOq3eu9gH1bFWLA0_C6Zk8g0ySpnA/pubembed?start=false&amp;loop=false&amp;delayms=2000"></iframe>
 </div>
 <p></p>
