@@ -222,6 +222,18 @@ that it will take 3-4 weeks for us to get back to you due to a high volume
 of requests.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>I claimed the $300 and/or $100 vouchers at my previous address but have since sold the unit and moved out.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may retain the set of vouchers claimed at your previous address and
+provide any documentation of the previous address (e.g. utility bills,
+credit card bills, etc.) for verification by the cashier when making purchases
+with your Climate Vouchers. You may wish to inform the new owners of your
+previous address to visit <a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/cv-feedback</a> for
+their appeal for the Climate Vouchers.</p>
+</div>
+</details>
 </div>
 <p><em>*Multiple families/tenants living in the same registered address are collectively entitled to one set of $300 and one set of $100 Climate Vouchers for the address</em>
 </p>
