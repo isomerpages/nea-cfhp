@@ -175,7 +175,7 @@ do not click on the link or reply.</p>
 <p>&nbsp;</p>
 <p>If you detect any suspicious messages relating to RedeemSG or Climate
 Vouchers, please contact NEA at 6225 5632, or submit the information online
-at <a rel="noopener noreferrer nofollow" target="_blank">https://www.police.gov.sg/I-Witness</a> or
+at <a href="https://www.police.gov.sg/I-Witness" rel="noopener noreferrer nofollow" target="_blank">https://www.police.gov.sg/I-Witness</a> or
 file a police report by calling 1800 255 0000.</p>
 </div>
 </details>
