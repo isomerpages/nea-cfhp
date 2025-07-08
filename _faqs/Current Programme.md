@@ -125,7 +125,7 @@ Should you require further assistance, you may contact NEA at 6225 5632.
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
-<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
+<a href="https://go.gov.sg/cv-claim" rel="noopener nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
 to get your unique voucher link sent via an SMS from gov.sg.</p>
 </div>
 </details>
@@ -133,7 +133,7 @@ to get your unique voucher link sent via an SMS from gov.sg.</p>
 <summary><strong>I have lost / changed my mobile phone. How can I retrieve my link to the Climate Vouchers?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You may visit <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/cv-claim</a>,
+<p>You may visit <a href="https://go.gov.sg/cv-claim" rel="noopener nofollow" target="_blank">go.gov.sg/cv-claim</a>,
 log in to Singpass, and type in your new mobile phone number to have your
 voucher link sent to your new mobile device.</p>
 </div>
@@ -230,7 +230,7 @@ of requests.</p>
 provide any documentation of the previous address (e.g. utility bills,
 credit card bills, etc.) for verification by the cashier when making purchases
 with your Climate Vouchers. You may wish to inform the new owners of your
-previous address to visit <a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/cv-feedback</a> for
+previous address to visit <a href="www.go.gov.sg/cv-feedback" rel="noopener nofollow" target="_blank">go.gov.sg/cv-feedback</a> for
 their appeal for the Climate Vouchers.</p>
 </div>
 </details>
