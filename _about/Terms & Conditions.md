@@ -35,8 +35,8 @@ PUB's water efficiency label or (ii) LED lights, and direct current fans
 approved under the programme.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers can be redeemed at participating
 retailers’ stores. For a full list of retail stores and eligible products,
-please visit <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-spend</a> and
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cv-products</a>&nbsp; respectively.</p>
+please visit <a href="https://go.gov.sg/cv-spend" rel="noopener nofollow" target="_blank">https://go.gov.sg/cv-spend</a> and
+<a href="https://go.gov.sg/cv-products" rel="noopener nofollow" target="_blank">https://go.gov.sg/cv-products</a>&nbsp;respectively.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers will expire on 31 December
 2027. Any unutilised amount will be forfeited thereafter.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp; The Voucher-Holder should present his/her personal
