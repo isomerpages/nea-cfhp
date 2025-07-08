@@ -125,9 +125,8 @@ Should you require further assistance, you may contact NEA at 6225 5632.
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>To retrieve the voucher link for your Climate Vouchers, please visit
-<a rel="noopener noreferrer nofollow" target="_blank"></a><a href="https://go.gov.sg/cv-claim" rel="noopener nofollow" target="_blank">go.gov.sg/cv-claim</a> and
-log in with Singpass again. You will be able to get your unique voucher
-link sent via an SMS from gov.sg.</p>
+<a href="https://go.gov.sg/cv-claim" rel="noopener nofollow" target="_blank">go.gov.sg/cv-claim</a>and log in with Singpass again. You will be able
+to get your unique voucher link sent via an SMS from gov.sg.</p>
 </div>
 </details>
 <details class="isomer-details">
