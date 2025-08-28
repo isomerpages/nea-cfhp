@@ -6,7 +6,7 @@ description: ""
 ---
 <style> .blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 16x; line-height: 2;  } </style>   <p></p><div class="blue-box"> <p><b>You can now spend your Climate Vouchers at more participating retailers’ outlets! Scroll down to locate your nearest participating retailer and find out more about the types of eligible products offered at their various outlets. </b></p><p><b>To prevent any misuse of your vouchers, please purchase only from the participating retailers listed on this website.  </b></p> </div>  
 
-<p>Locate your nearest participating retailer from the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>. For a full list of participating retail stores, please click <a href="/files/List_of_Retailers___CFHP_Website_28_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="\_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p> 
+<p>Locate your nearest participating retailer from the map. You may also refer to the list of participating retailers <a href="#participating-retailers"> here</a>. For a full list of participating retail stores, please click <a href="/files/List_of_Retailers_CFHP_Website_28_Aug_2025.pdf" rel="noopener noreferrer nofollow" target="\_blank">here</a>. You may contact the retailers directly to confirm their latest operating hours.</p> 
 
 <a href="https://maps.gov.sg//spend-climatevouchers">Click here to view the map fullscreen.</a> 
 
