@@ -19,7 +19,7 @@ description: ""
 </div>
 
 <h4 id="participating-retailers">Participating Retailers</h4>
-    <p>You may click on the logo to visit the retailer's online site.</p>
+    <div class="instruction-text">You may click on the logo to visit the retailer's online site.</div>
 <div class="iframe-wrapper">
 	<iframe allowfullscreen="true" height="389" width="840" src="https://docs.google.com/presentation/d/e/2PACX-1vRZYiIn8MwSQsnEiI7WLk-E9u0BWUP4afSN6jkLwEP8nNDVxMpNvmnAyKL0ls9ztA/pubembed?start=true&amp;loop=true&amp;delayms=6000"></iframe>
 </div>
