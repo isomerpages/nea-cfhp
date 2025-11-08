@@ -15,7 +15,7 @@ description: ""
 
 <div class="iframe-wrapper">
 
-<iframe frameborder="0" height="600" width="100%" src="https://maps.gov.sg/spend-climatevouchers"></iframe>
+<iframe frameborder="0" height="600" width="100%" src="https://maps.gov.sg/spend-climatevouchers4"></iframe>
 </div>
 
 <h4 id="participating-retailers">Participating Retailers</h4>
