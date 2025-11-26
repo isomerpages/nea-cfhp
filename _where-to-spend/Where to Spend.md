@@ -24,10 +24,3 @@ description: ""
 <iframe allowfullscreen="true" height="389" width="820" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvygj8jl0Bj3IgV_-cw1LD7g_XA2LN8zmynr7HV3RrtgPpA98IbKldCSGvPH2SnQ/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
-
-
-
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" height="389" width="840" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvygj8jl0Bj3IgV\_-cw1LD7g\_XA2LN8zmynr7HV3RrtgPpA98IbKldCSGvPH2SnQ/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<p></p>
