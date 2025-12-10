@@ -1,6 +1,6 @@
 ---
 title: Programme Materials
-permalink: /unpublished2025-cv-prog-brochures/
+permalink: /unpublished2025-cv-prog-brochures-asoknasojfnoi/
 variant: markdown
 description: ""
 third_nav_title: Pre Apr 2025 launch materials

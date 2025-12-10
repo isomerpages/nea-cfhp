@@ -1,6 +1,6 @@
 ---
 title: Cara Menuntut & Menggunakan Baucar Iklim
-permalink: /unpublished2025-claim-spend-ml/
+permalink: /unpublished2025-claim-spend-ml-askmaopksfm/
 variant: markdown
 description: ""
 third_nav_title: Translated pages
