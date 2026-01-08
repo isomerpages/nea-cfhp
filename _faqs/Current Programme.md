@@ -205,12 +205,11 @@ request.</p>
 at an HDB flat and SCs registered at a private residential property are
 eligible to claim the $300 and $100 Climate Vouchers under the enhanced
 Climate Friendly Households Programme.</p>
-<p>&nbsp;</p>
 <p>If you receive the following error message on RedeemSG <strong>“Sorry, you’re not eligible for the Climate Vouchers”</strong>&nbsp;but
 reside at an eligible address <strong><u>for residential purpose</u></strong> (e.g.
-living quarters of shophouses, pre-war SIT flats, Kampong Lorong Buangkok)
-please fill in this <a href="www.go.gov.sg/cv-appeals" rel="noopener nofollow" target="_blank">form</a>&nbsp;for
-assistance. Should you have further clarifications, please visit <a href="www.go.gov.sg/cv-feedback" rel="noopener nofollow" target="_blank">www.go.gov.sg/cv-feedback</a>.</p>
+living quarters of shophouses, pre-war Singapore Improvement Trust flats,
+Kampong Lorong Buangkok) please fill in this <a href="www.go.gov.sg/cv-appeals" rel="noopener nofollow" target="_blank">form</a>&nbsp;for assistance. Should you
+have further clarifications, please visit <a href="www.go.gov.sg/cv-feedback" rel="noopener nofollow" target="_blank">www.go.gov.sg/cv-feedback</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
