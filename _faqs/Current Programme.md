@@ -202,11 +202,15 @@ request.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Singapore Citizens (SC) or Permanent Residents (PR) whose address is registered
-at an HDB flat are eligible to claim the $300 and additional $100 Climate
-Vouchers under the enhanced Climate Friendly Households Programme.</p>
-<p>If you eligible for the Climate Vouchers, but see the following error
-message – “Sorry, you’re not eligible for the Climate Vouchers”, please
-fill in this <a href="https://form.gov.sg/66836907a9f8105b38b993d3" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+at an HDB flat and SCs registered at a private residential property are
+eligible to claim the $300 and $100 Climate Vouchers under the enhanced
+Climate Friendly Households Programme.</p>
+<p>&nbsp;</p>
+<p>If you receive the following error message on RedeemSG <strong>“Sorry, you’re not eligible for the Climate Vouchers”</strong>&nbsp;but
+reside at an eligible address <strong><u>for residential purpose</u></strong> (e.g.
+living quarters of shophouses, pre-war SIT flats, Kampong Lorong Buangkok)
+please fill in this <a href="www.go.gov.sg/cv-appeals" rel="noopener nofollow" target="_blank">form</a>&nbsp;for
+assistance. Should you have further clarifications, please visit <a href="www.go.gov.sg/cv-feedback" rel="noopener nofollow" target="_blank">www.go.gov.sg/cv-feedback</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
