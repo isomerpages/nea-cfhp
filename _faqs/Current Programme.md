@@ -205,7 +205,6 @@ request.</p>
 at an HDB flat and SCs registered at a private residential property are
 eligible to claim the $300 and $100 Climate Vouchers under the enhanced
 Climate Friendly Households Programme.</p>
-<p>&nbsp;</p>
 <p>If you receive the following error message on RedeemSG <strong>“Sorry, you’re not eligible for the Climate Vouchers”</strong>&nbsp;but
 reside at an eligible address <strong><u>for residential purpose</u></strong> (e.g.
 living quarters of shophouses, pre-war Singapore Improvement Trust flats,
