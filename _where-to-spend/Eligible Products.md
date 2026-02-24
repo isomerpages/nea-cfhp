@@ -4,9 +4,12 @@ permalink: /cv-products/
 variant: tiptap
 description: ""
 ---
-<style> .blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 16x; line-height: 2;  } </style>   <p></p><div class="blue-box"> <p><b> To encourage greater involvement in climate action, the enhanced Climate Friendly Households Programme&nbsp;will be expanded from 15 Apr 2026 to include 5-tick clothes dryers and induction stoves, allowing households to use their unspent Climate Vouchers on a wider range of resource-efficient products</b></p><p><b> For more information, please refer to the Frequently Asked Questions&nbsp;here. </b></p> </div>  
-
-
+<p></p>
+<p><strong>To encourage greater involvement in climate action, the enhanced Climate Friendly Households Programme&nbsp;will be expanded from 15 Apr 2026 to include 5-tick clothes dryers and induction stoves, allowing households to use their unspent Climate Vouchers on a wider range of resource-efficient products</strong>
+</p>
+<p><strong>For more information, please refer to the Frequently Asked Questions&nbsp;</strong>
+<a href="https://staging-lite.d3gamm3th6c23.amplifyapp.com/expansion-of-products-2026/" rel="noopener nofollow" target="_blank">here</a><strong>.</strong>
+</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels-refrigerator/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/With logo/Slide11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3 ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/air-conditioners/" class="isomer-card">
