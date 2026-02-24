@@ -2,5 +2,5 @@ collections:
   faqs:
     output: true
     order:
-      - Expansion of Products 2026.md
       - Current Programme.md
+      - Expansion of Products 2026.md
