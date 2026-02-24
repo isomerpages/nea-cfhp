@@ -4,7 +4,7 @@ permalink: /cv-products/
 variant: markdown
 description: ""
 ---
-<style> .blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 16x; line-height: 2;  } </style>   <p></p><div class="blue-box"> <p><b> To encourage greater involvement in climate action, the enhanced Climate Friendly Households Programme&nbsp;will be expanded from 15 Apr 2026 to include 5-tick clothes dryers and induction stoves, allowing households to use their unspent Climate Vouchers on a wider range of resource-efficient products.&nbsp;&nbsp;</b></p> </div> <p></p>   For more information, please refer to the Frequently Asked Questions&nbsp;**here** <p></p> 
+<style> .blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 16x; line-height: 2;  } </style>   <p></p><div class="blue-box"> <p><b> To encourage greater involvement in climate action, the enhanced Climate Friendly Households Programme&nbsp;will be expanded from 15 Apr 2026 to include 5-tick clothes dryers and induction stoves, allowing households to use their unspent Climate Vouchers on a wider range of resource-efficient products</b></p><p><b> For more information, please refer to the Frequently Asked Questions&nbsp;here. </b></p> </div>  
 
 
 <p></p>
