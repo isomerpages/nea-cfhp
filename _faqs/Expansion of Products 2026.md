@@ -4,7 +4,7 @@ permalink: /expansion-of-products-2026/
 variant: tiptap
 description: ""
 ---
-<h3>Expansion of Products 2026</h3>
+<h3>Expansion of Products</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>When can I start spending my Climate Vouchers on the new products?</strong>&nbsp;</summary>
