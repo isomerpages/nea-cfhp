@@ -28,7 +28,7 @@ so at&nbsp;<a href="http://www.go.gov.sg/cv-claim" rel="noopener noreferrer nofo
 <summary><strong>I recently purchased a 5-tick clothes dryer/ induction stove and have yet to use my Climate Vouchers. Can I retrospectively apply the Climate Vouchers to my purchase?</strong>&nbsp;</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No, Climate Vouchers can only be used to buy 5-tick clothes dryers or
-induction stoves&nbsp;from&nbsp;15 Apr 2026.&nbsp;</p>
+induction stoves&nbsp;from&nbsp;15 April 2026.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
