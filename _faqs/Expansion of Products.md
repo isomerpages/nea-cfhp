@@ -20,7 +20,6 @@ including 5-tick clothes dryers and induction stoves.&nbsp;&nbsp;</p>
 eligible household is only entitled to one set of $300 and $100 Climate
 Vouchers over the programme period, which they can spend up to 31 December
 2027.&nbsp;</p>
-<p>&nbsp;</p>
 <p>Eligible households who have yet to claim their Climate Vouchers may do
 so at&nbsp;<a href="http://www.go.gov.sg/cv-claim" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/cv-claim</a>.&nbsp;</p>
 </div>
