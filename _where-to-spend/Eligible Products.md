@@ -78,4 +78,4 @@ consumer products such as Air-conditioners, Refrigerators and Washing Machines,
 is required to help you dispose of your unwanted/ old appliance of the
 same product type for <strong><u>free</u></strong> upon request.</p>
 	
-<p>You may also dispose your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="\_blank">E-Waste Collection Points</a> located island-wide.</p></b>
+<p>You may also dispose of your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="\_blank">E-Waste Collection Points</a> located island-wide.</p></b>
