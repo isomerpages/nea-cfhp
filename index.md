@@ -53,7 +53,8 @@ sections:
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam.
+notification: From 15 April 2026, the enhanced Climate Friendly Households
+  Programme will be expanded to include 5-tick clothes dryers and induction
+  stoves as eligible products, allowing households to use their remaining
+  Climate Vouchers on a wider range of resource-efficient products.
 ---
