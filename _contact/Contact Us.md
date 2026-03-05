@@ -22,7 +22,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cv-feedback" rel="noopener noreferrer nofollow" target="_blank">Feedback Form</a>
+<p><a href="https://go.gov.sg/cv-feedback" rel="noopener noreferrer nofollow" target="_blank">Enquiries/Feedback Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
