@@ -1,11 +1,14 @@
 ---
 title: Eligible Products
 permalink: /cv-products/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style> .blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 16x; line-height: 2;  } </style>   <p></p><div class="blue-box"> <p><b> To encourage greater involvement in climate action, the enhanced Climate Friendly Households Programme&nbsp;will be expanded from 15 April 2026 to include 5-tick clothes dryers and induction stoves, allowing households to use their unspent Climate Vouchers on a wider range of resource-efficient products. </b></p><p><b><b>For more information, please refer to the Frequently Asked Questions <a href="https://www.climate-friendly-households.gov.sg/expansion-of-products/" rel="noopener nofollow" target="\_blank">here</a>.</b></b></p></div>
-
+<p></p>
+<p><strong>To encourage greater involvement in climate action, the enhanced Climate Friendly Households Programme&nbsp;will be expanded from 15 April 2026 to include 5-tick clothes dryers and induction stoves, allowing households to use their unspent Climate Vouchers on a wider range of resource-efficient products.</strong>
+</p>
+<p><strong>For more information, please refer to the Frequently Asked Questions <a href="https://www.climate-friendly-households.gov.sg/expansion-of-products/" rel="noopener nofollow" target="\_blank">here</a>.</strong>
+</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels-refrigerator/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/With logo/Slide11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3 ticks and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/air-conditioners/" class="isomer-card">
@@ -67,6 +70,18 @@ description: ""
 <div class="isomer-card-description">3 ticks</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stove" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction Stove</div><div class="isomer-card-description">Uses only induction cooking methods to heat cookware directly and does not produce any flames.  </div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="This is an image of clothes dryer" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[New] Clothes Dryer</div>
+<div class="isomer-card-description">5-tick</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
 </a>
 </div>
 <p>Let’s play our part to recycle our electronic appliances when they are
@@ -77,5 +92,5 @@ but also protects human and environmental health.&nbsp;<strong>&nbsp;</strong>
 consumer products such as Air-conditioners, Refrigerators and Washing Machines,
 is required to help you dispose of your unwanted/ old appliance of the
 same product type for <strong><u>free</u></strong> upon request.</p>
-	
-<p>You may also dispose of your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="\_blank">E-Waste Collection Points</a> located island-wide.</p>
+<p>You may also dispose of your old/spoilt LED light bulbs at <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/extended-producer-responsibility-(epr)-system-for-e-waste-management-system" rel="noopener noreferrer nofollow" target="\_blank">E-Waste Collection Points</a> located
+island-wide.</p>
