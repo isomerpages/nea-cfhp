@@ -8,19 +8,6 @@ description: ""
 <p>Induction stoves are any&nbsp;stove&nbsp;that uses&nbsp;only&nbsp;induction&nbsp;cooking
 methods&nbsp;(i.e.&nbsp;electromagnetic energy)&nbsp;to heat cookware&nbsp;directly&nbsp;and&nbsp;does
 not&nbsp;produce&nbsp;any&nbsp;flames</p>
-<p>The following type of Induction Stoves are eligible for purchase with
-the Climate Vouchers:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Built-in induction stove</p>
-</li>
-<li>
-<p>Portable induction stove</p>
-</li>
-<li>
-<p>All-in-one built-in induction stove and integrated hood</p>
-</li>
-</ul>
 <p>Given that retailers may offer different models, it is advisable to enquire
 with them about the specific models that are eligible for purchase with
 the Climate Vouchers.</p>
