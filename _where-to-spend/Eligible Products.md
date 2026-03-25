@@ -70,7 +70,7 @@ description: ""
 <div class="isomer-card-description">3 ticks</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stove" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction Stove</div><div class="isomer-card-description">Uses only induction cooking methods to heat cookware directly and does not produce any flames.  </div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stove" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction Stove</div><div class="isomer-card-description">Uses only induction cooking methods to heat cookware directly and does not produce any flames.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
