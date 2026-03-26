@@ -72,7 +72,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[New] Clothes dryer</div>
+<div class="isomer-card-title">[New] Clothes dryers</div>
 <div class="isomer-card-description">5-ticks</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
