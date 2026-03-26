@@ -208,8 +208,8 @@ Climate Friendly Households Programme.</p>
 <p>If you receive the following error message on RedeemSG <strong>“Sorry, you’re not eligible for the Climate Vouchers”</strong>&nbsp;but
 reside at an eligible address <strong><u>for residential purpose</u></strong> (e.g.
 living quarters of shophouses, pre-war Singapore Improvement Trust flats,
-Kampong Lorong Buangkok) please fill in this <a href="www.go.gov.sg/cv-appeals" rel="noopener nofollow" target="_blank">form</a>&nbsp;for assistance. Should you
-have further clarifications, please visit <a href="www.go.gov.sg/cv-feedback" rel="noopener nofollow" target="_blank">www.go.gov.sg/cv-feedback</a>.</p>
+Kampong Lorong Buangkok) please fill in this <a href="" rel="noopener nofollow" target="_blank">form</a>&nbsp;for assistance. Should you have further clarifications,
+please visit <a href="" rel="noopener nofollow" target="_blank">www.go.gov.sg/cv-feedback</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -233,7 +233,7 @@ of requests.</p>
 provide any documentation of the previous address (e.g. utility bills,
 credit card bills, etc.) for verification by the cashier when making purchases
 with your Climate Vouchers. You may wish to inform the new owners of your
-previous address to visit <a href="www.go.gov.sg/cv-feedback" rel="noopener nofollow" target="_blank">go.gov.sg/cv-feedback</a> for
+previous address to visit <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/cv-feedback</a> for
 their appeal for the Climate Vouchers.</p>
 </div>
 </details>
@@ -248,10 +248,10 @@ their appeal for the Climate Vouchers.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
 household products. These includes Refrigerators (3 tick and above), Air-conditioners
-(5 tick), Direct current fans, LED lights (2 tick and above), Heat pump
-water heaters, Washing machines (4 tick), Shower fittings (3 tick), Water
-closets (3 tick), Sink/Bib taps and mixers (3 tick) and Basin taps and
-mixers (3 tick).</p>
+(5 tick), Direct current fans, LED lights (2 tick and above), Water heaters
+(5 tick), Washing machines (4 tick), Shower fittings (3 tick), Water closets
+(3 tick), Sink/Bib taps and mixers (3 tick) and Basin taps and mixers (3
+tick).</p>
 <p></p>
 <p>Click <a href="https://go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more.&nbsp;</p>
