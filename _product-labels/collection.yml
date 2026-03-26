@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Clothes Dryer.md
-      - Induction Stove.md
+      - Induction Stoves.md
       - Refrigerators.md
       - Air Conditioners.md
       - Direct Current Fans.md
