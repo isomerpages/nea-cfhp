@@ -11,6 +11,3 @@ not&nbsp;produce&nbsp;any&nbsp;flames</p>
 <p>Given that retailers may offer different models, it is advisable to enquire
 with them about the specific models that are eligible for purchase with
 the Climate Vouchers.</p>
-<p></p>
-<p>You may visit <a href="http://www.go.gov.sg/cv-spend" class="Hyperlink SCXW28153244 BCX8" rel="noreferrer noopener" target="\_blank"><u>www.go.gov.sg/cv-spend</u></a> to
-locate your nearest participating retailer selling induction stoves.</p>
