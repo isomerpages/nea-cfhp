@@ -4,7 +4,7 @@ permalink: /clothes-dryer/
 variant: tiptap
 description: ""
 ---
-<h4><strong>How do I identify an eligible Clothes Dryer in stores?</strong>&nbsp;</h4>
+<h4><strong>How do I identify an eligible Clothes dryer in stores?</strong>&nbsp;</h4>
 <p>Look out for this label in stores!</p>
 <table style="minWidth: 25px">
 <colgroup>
