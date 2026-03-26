@@ -4,7 +4,7 @@ permalink: /induction-stove/
 variant: tiptap
 description: ""
 ---
-<h4><strong>How do I identify an eligible Induction Stove in stores?</strong></h4>
+<h4><strong>How do I identify an eligible Induction stoves in stores?</strong></h4>
 <p>Induction stoves are any&nbsp;stove&nbsp;that uses&nbsp;only&nbsp;induction&nbsp;cooking
 methods&nbsp;(i.e.&nbsp;electromagnetic energy)&nbsp;to heat cookware&nbsp;directly&nbsp;and&nbsp;does
 not&nbsp;produce&nbsp;any&nbsp;flames</p>
