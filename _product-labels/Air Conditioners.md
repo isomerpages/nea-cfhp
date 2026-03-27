@@ -1,7 +1,7 @@
 ---
 title: Air Conditioners
 permalink: /air-conditioners/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>How do I identify an eligible air-conditioner in stores?</strong>&nbsp;</h4>
