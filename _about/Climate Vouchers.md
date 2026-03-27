@@ -11,7 +11,7 @@ to take climate actions to be more efficient in their energy and water
 consumption, while saving on utility bills in the long run.</p>
 <p>On 15 April 2024, the programme was enhanced to benefit more households
 and provide more resource-efficient products to choose from. All HDB households*
-can claim $300 in Climate Vouchers to offset the purchase of 12 types of
+can claim $300 in Climate Vouchers to offset the purchase of 10 types of
 energy- and water-efficient appliances and fittings.</p>
 <p>From 15 April 2025, HDB households* can claim an additional $100 in Climate
 Vouchers, on top of the existing $300. The enhanced CFHP is also expanded
