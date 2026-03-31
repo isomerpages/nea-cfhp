@@ -53,7 +53,7 @@ For more information, please refer to the Frequently Asked Questions [here](http
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sink/Bib taps and mixers</div>
-<div class="isomer-card-description">3 ticks</div>
+<div class="isomer-card-description">3 tick</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Basin taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide18.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Basin taps and mixers</div><div class="isomer-card-description">3 tick</div><div class="isomer-card-link">Find out more</div></div></a>
