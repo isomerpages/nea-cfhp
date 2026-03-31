@@ -13,7 +13,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>5 ticks</p>
+<p>5 tick</p>
 </th>
 </tr>
 <tr>
