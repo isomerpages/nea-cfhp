@@ -14,10 +14,10 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>3 ticks</p>
+<p>3 tick</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>4 ticks</p>
+<p>4 tick</p>
 </th>
 </tr>
 <tr>
