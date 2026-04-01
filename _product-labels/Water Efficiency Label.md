@@ -33,7 +33,7 @@ fittings</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 48%;" height="auto" width="100%" alt="" src="/images/Labels/WELS_3_tick.png">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/Labels/WELS_3_tick.png">
 </div>
 </td>
 </tr>

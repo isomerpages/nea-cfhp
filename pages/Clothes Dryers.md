@@ -1,10 +1,10 @@
 ---
-title: Air Conditioners
-permalink: /air-conditioners/
+title: Clothes Dryers
+permalink: /clothes-dryers/
 variant: tiptap
 description: ""
 ---
-<h4><strong>How do I identify an eligible air-conditioner in stores?</strong>&nbsp;</h4>
+<h4><strong>How do I identify an eligible Clothes dryers in stores?</strong>&nbsp;</h4>
 <p>Look out for this label in stores!</p>
 <table style="minWidth: 25px">
 <colgroup>
