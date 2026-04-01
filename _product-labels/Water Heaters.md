@@ -9,6 +9,6 @@ description: ""
 heaters,&nbsp;the&nbsp;eligibility criteria for water heaters&nbsp;has&nbsp;been&nbsp;revised
 to&nbsp;“5-tick&nbsp;water heaters” from 1 Apr 2026.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/download.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/download.jpg">
 </div>
 <p></p>
