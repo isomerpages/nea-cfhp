@@ -20,7 +20,6 @@ properties.</p>
 <p>This means that <strong>eligible HDB and private households* can claim a total of $400 worth of Climate Vouchers</strong>.
 The Climate Vouchers are valid until 31 December 2027 for the purchase
 of energy- and water-efficient household products at participating&nbsp;retailers’&nbsp;stores.&nbsp;</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -72,8 +71,6 @@ of energy- and water-efficient household products at participating&nbsp;retailer
 </table>
 <p>* Multiple families/tenants living in the same registered address are
 collectively entitled to one set of $300 and one set of $100 Climate Vouchers.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/About_CVs.png">
 </div>
