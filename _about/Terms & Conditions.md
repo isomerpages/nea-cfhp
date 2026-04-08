@@ -29,10 +29,10 @@ Vouchers (“Voucher-Holder”) for his/her valid registered address during
 the programme period.</p>
 <p><strong><br>Use of Climate Vouchers</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers are only valid for the
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;The Climate Vouchers are only valid for the
 purchase of (i) eligible products that carry NEA's energy label and/or
-PUB's water efficiency label or (ii) LED lights, and direct current fans
-approved under the programme.</p>
+PUB's water efficiency label or (ii) LED lights,&nbsp;and&nbsp;direct current
+fans&nbsp;and induction stoves&nbsp;approved under the programme.&nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp; The Climate Vouchers can be redeemed at participating
 retailers’ stores. For a full list of retail stores and eligible products,
 please visit <a href="https://go.gov.sg/cv-spend" rel="noopener nofollow" target="_blank">https://go.gov.sg/cv-spend</a> and
