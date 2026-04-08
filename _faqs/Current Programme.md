@@ -246,12 +246,12 @@ their appeal for the Climate Vouchers.</p>
 <summary><strong>What can I use my Climate Vouchers on?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Climate Vouchers can be used to purchase 10 types of energy- and water-efficient
-household products. These includes Refrigerators (3 tick and above), Air-conditioners
-(5 tick), Direct current fans, LED lights (2 tick and above), Water heaters
-(5 tick), Washing machines (4 tick), Shower fittings (3 tick), Water closets
-(3 tick), Sink/Bib taps and mixers (3 tick) and Basin taps and mixers (3
-tick).</p>
+<p>The Climate Vouchers can be used to&nbsp;purchase&nbsp;12&nbsp;types of
+energy- and water-efficient household products. These includes Refrigerators
+(3 tick and above), Air-conditioners&nbsp;(5 tick), Direct current fans,
+LED lights (2 tick and above), Water heaters (5 tick), Washing machines
+(4 tick), Shower fittings (3 tick), Water closets (3 tick), Sink/Bib taps
+and mixers (3 tick) and Basin taps and mixers (3 tick).&nbsp;</p>
 <p></p>
 <p>Click <a href="https://go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more.&nbsp;</p>
@@ -512,6 +512,14 @@ at participating retail stores during checkout or upon delivery when the
 retail staff is present.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Can households retrospectively apply Climate Vouchers to products&nbsp;purchased&nbsp;before they were included in the programme?&nbsp;</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, Climate Vouchers can only be applied to eligible products&nbsp;at
+the point of purchase, and&nbsp;after their inclusion in the programme.&nbsp;</p>
+</div>
+</details>
 </div>
 <h3>Refunds &amp; Exchanges</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -556,7 +564,7 @@ with the purchase.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The requirements are:</p>
-<p>a. Sell at least one of the <a href="https://go.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">10 eligible products</a>, and&nbsp;</p>
+<p>a. Sell at least one of the <a href="https://go.gov.sg/cv-spend" rel="noopener noreferrer nofollow" target="_blank">12 eligible products</a>, and&nbsp;</p>
 <p>b. Use a physical Point of Sales (POS) system (i.e. online transactions
 are not supported) that can:</p>
 <p>i. connect to the internet to redeem Climate Vouchers in real-time via
