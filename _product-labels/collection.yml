@@ -2,7 +2,6 @@ collections:
   product-labels:
     output: true
     order:
-      - Induction Stoves.md
       - Clothes Dryers.md
       - Refrigerators.md
       - Air Conditioners.md
