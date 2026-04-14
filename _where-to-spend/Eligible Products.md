@@ -68,7 +68,7 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/clothes-dryers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="This is an image of clothes dryer" src="/images/Dryer.png">
+<img style="width: 100%" height="auto" width="100%" alt="This is an image of clothes dryer" src="/images/Untitled.png">
 </div>
 </div>
 <div class="isomer-card-body">
