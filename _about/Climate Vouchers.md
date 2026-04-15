@@ -15,7 +15,7 @@ of energy- and water-efficient household appliances and fittings</p>
 <p>From 15 April 2025, HDB households also became eligible to claim an additional
 $100 in Climate Vouchers, on top of the existing $300. The programme was
 also expanded to include Singapore Citizen households living in private
-residential properties. This means that&nbsp;<strong>eligible HDB and private households* can claim a total of $400 worth of Climate Vouchers</strong>
+residential properties. This means that&nbsp;<strong>eligible HDB and private households* can claim a total of $400 worth of Climate Vouchers.</strong>
 </p>
 <p>From 15 April 2026, households can utilize their Climate Vouchers to offset
 the purchase of 12 types of energy- and water-efficient appliances and
