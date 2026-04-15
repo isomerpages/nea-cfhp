@@ -252,7 +252,7 @@ energy- and water-efficient household products. These includes Refrigerators
 LED lights (2 tick and above), Water heaters (5 tick), Washing machines
 (4 tick), Shower fittings (3 tick), Water closets (3 tick), Sink/Bib taps
 and mixers (3 tick), Basin taps and mixers (3 tick), Induction Stoves,
-and Clothes Dryer (5 tick).&nbsp;</p>
+and Clothes Dryers (5 tick).&nbsp;</p>
 <p></p>
 <p>Click <a href="https://go.gov.sg/cv-products" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more.&nbsp;</p>
