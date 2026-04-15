@@ -1,13 +1,9 @@
 ---
 title: Eligible Products
 permalink: /cv-products/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<style> .blue-box { background-color: #E6F1FD; padding: 20px; border-radius: 5px; font-weight: bold; font-size: 16x; line-height: 2;  } </style>   <p></p><div class="blue-box"> <p>To encourage greater involvement in climate action, the enhanced Climate Friendly Households Programme will be expanded from 15 Apr 2026 to include 5-tick clothes dryers and induction stoves, allowing households to use their remaining Climate Vouchers on a wider range of resource-efficient products.   
-  
-For more information, please refer to the Frequently Asked Questions [here](https://www.climate-friendly-households.gov.sg/expansion-of-products/). </p> </div>  
-
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels-refrigerator/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/With logo/Slide11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3 tick and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/air-conditioners/" class="isomer-card">
 <div class="isomer-card-image">
@@ -32,7 +28,7 @@ For more information, please refer to the Frequently Asked Questions [here](http
 <div class="isomer-card-description">2 tick and above LED lights (Includes LED circular lights and LED downlights)</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/water-heaters/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water Heaters" src="/images/ECFHP   Eligible Products/Slide5.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water Heaters</div><div class="isomer-card-description">5 tick</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/water-heaters/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water Heaters" src="/images/Water__Heater.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water Heaters</div><div class="isomer-card-description">5 tick</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -66,6 +62,18 @@ For more information, please refer to the Frequently Asked Questions [here](http
 <div class="isomer-card-body">
 <div class="isomer-card-title">Shower fittings</div>
 <div class="isomer-card-description">3 tick</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/induction-stoves/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stoves" src="/images/Induction_Stove.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction Stoves</div><div class="isomer-card-description">Use only induction cooking methods (i.e. electromagnetic energy) to heat cookware directly and does not produce any flames.</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/clothes-dryers/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="This is an image of clothes dryer" src="/images/Untitled.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[New] Clothes Dryers</div>
+<div class="isomer-card-description">5 tick</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a>
