@@ -28,7 +28,7 @@ description: ""
 <div class="isomer-card-description">2 tick and above LED lights (Includes LED circular lights and LED downlights)</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/water-heaters/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water Heaters" src="/images/Water__Heater.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water Heaters</div><div class="isomer-card-description">5 tick</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/water-heaters/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water Heaters" src="/images/Water__Heater.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water heaters</div><div class="isomer-card-description">5 tick</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -64,7 +64,7 @@ description: ""
 <div class="isomer-card-description">3 tick</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/induction-stoves/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stoves" src="/images/Induction_Stove.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction Stoves</div><div class="isomer-card-description">Use only induction cooking methods (i.e. electromagnetic energy) to heat cookware directly and does not produce any flames.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/induction-stoves/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stoves" src="/images/Induction_Stove.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction stoves</div><div class="isomer-card-description">Use only induction cooking methods (i.e. electromagnetic energy) to heat cookware directly and does not produce any flames.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/clothes-dryers/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -72,7 +72,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[New] Clothes Dryers</div>
+<div class="isomer-card-title">[New] Clothes dryers</div>
 <div class="isomer-card-description">5 tick</div>
 <div class="isomer-card-link">Find out more</div>
 </div>

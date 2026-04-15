@@ -9,17 +9,18 @@ description: ""
 (CFHP) is a joint initiative by NEA and PUB which aims to encourage households
 to take climate actions to be more efficient in their energy and water
 consumption, while saving on utility bills in the long run.</p>
-<p>On 15 April 2024, the programme was enhanced to benefit more households
-and provide more resource-efficient products to choose from. All HDB households*
-can claim $300 in Climate Vouchers to offset the purchase of 12 types of
-energy- and water-efficient appliances and fittings.</p>
-<p>From 15 April 2025, HDB households* can claim an additional $100 in Climate
-Vouchers, on top of the existing $300. The enhanced CFHP is also expanded
-to include Singapore Citizen households* living in private residential
-properties.</p>
-<p>This means that <strong>eligible HDB and private households* can claim a total of $400 worth of Climate Vouchers</strong>.
-The Climate Vouchers are valid until 31 December 2027 for the purchase
-of energy- and water-efficient household products at participating&nbsp;retailers’&nbsp;stores.&nbsp;</p>
+<p>On 15 April 2024, the programme was enhanced to allow all&nbsp;HDB households
+to&nbsp;claim $300 in Climate Vouchers to offset the purchase of 10 types
+of energy- and water-efficient household appliances and fittings</p>
+<p>From 15 April 2025, HDB households also became eligible to claim an additional
+$100 in Climate Vouchers, on top of the existing $300. The programme was
+also expanded to include Singapore Citizen households living in private
+residential properties. This means that&nbsp;<strong>eligible HDB and private households* can claim a total of $400 worth of Climate Vouchers.</strong>
+</p>
+<p>From 15 April 2026, households can utilize their Climate Vouchers to offset
+the purchase of 12 types of energy- and water-efficient appliances and
+fittings.</p>
+<p>The Climate Vouchers are valid until 31 December 2027.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
