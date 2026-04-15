@@ -2,12 +2,12 @@ collections:
   product-labels:
     output: true
     order:
-      - Induction Stoves.md
-      - Clothes Dryers.md
-      - Refrigerators.md
       - Air Conditioners.md
+      - Clothes Dryers.md
       - Direct Current Fans.md
+      - Induction Stoves.md
       - LED lights.md
+      - Refrigerators.md
+      - Sink or Bib Taps and Mixers.md
       - Water Heaters.md
       - Water Efficiency Label.md
-      - Sink or Bib Taps and Mixers.md
