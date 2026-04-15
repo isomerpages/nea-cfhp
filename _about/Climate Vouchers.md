@@ -72,6 +72,6 @@ of energy- and water-efficient household products at participating&nbsp;retailer
 <p>* Multiple families/tenants living in the same registered address are
 collectively entitled to one set of $300 and one set of $100 Climate Vouchers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Apr Launch/About_CVs.png">
+<img style="width: 100%" height="auto" width="100%" alt="Informing you that CVs is $400 total and can be spent on 12 appliances, expiring in 2027" src="/images/Total_of__400_worth_of_Climate_Vouchers_to_spend_at_participating_retailers.png">
 </div>
 <p></p>
