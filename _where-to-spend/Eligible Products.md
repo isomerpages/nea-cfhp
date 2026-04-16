@@ -4,19 +4,31 @@ permalink: /cv-products/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/mels-refrigerator/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/With logo/Slide11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3 tick and above</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/air-conditioners/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/air-conditioners/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Air-conditioners" src="/images/ECFHP   Eligible Products/With logo/Slide12.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Air-conditioners</div><div class="isomer-card-description">5 tick</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Air-conditioners" src="/images/ECFHP   Eligible Products/With logo/Slide12.png">
+<img style="width: 100%" height="auto" width="100%" alt="Basin taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide18.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Air-conditioners</div>
-<div class="isomer-card-description">5 tick</div>
+<div class="isomer-card-title">Basin taps and mixers</div>
+<div class="isomer-card-description">3 tick</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/direct-current-fans" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Direct current (DC) fans</div><div class="isomer-card-description">Uses DC motor (excludes those with non-LED lights)</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/clothes-dryers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="This is an image of clothes dryer" src="/images/Clothes_Dryer_Image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Clothes dryers</div><div class="isomer-card-description">5 tick</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/direct-current-fans" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Direct Current Fans" src="/images/ECFHP   Eligible Products/Slide4.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Direct current (DC) fans</div>
+<div class="isomer-card-description">Uses DC motor (excludes those with non-LED lights)</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/induction-stoves/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stoves" src="/images/Induction_Stove.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction stoves</div><div class="isomer-card-description">Use only induction cooking methods (i.e. electromagnetic energy) to heat cookware directly and does not produce any flames.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/led-lights/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -28,31 +40,7 @@ description: ""
 <div class="isomer-card-description">2 tick and above LED lights (Includes LED circular lights and LED downlights)</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/water-heaters/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water Heaters" src="/images/Water__Heater.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water heaters</div><div class="isomer-card-description">5 tick</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Washing machines" src="/images/ECFHP   Eligible Products/With logo/Slide20.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Washing machines</div>
-<div class="isomer-card-description">4 tick</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Water closets" src="/images/ECFHP   Eligible Products/With logo/Slide16.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Water closets</div><div class="isomer-card-description">3 tick</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/sink-or-bib-taps-and-mixers/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sink/Bib taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide19.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Sink/Bib taps and mixers</div>
-<div class="isomer-card-description">3 tick</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Basin taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide18.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Basin taps and mixers</div><div class="isomer-card-description">3 tick</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/mels-refrigerator/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Refrigerators" src="/images/ECFHP   Eligible Products/With logo/Slide11.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Refrigerators</div><div class="isomer-card-description">3 tick and above</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -64,16 +52,28 @@ description: ""
 <div class="isomer-card-description">3 tick</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/induction-stoves/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Image of an Induction Stoves" src="/images/Induction_Stove.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[New] Induction stoves</div><div class="isomer-card-description">Use only induction cooking methods (i.e. electromagnetic energy) to heat cookware directly and does not produce any flames.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/clothes-dryers/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/sink-or-bib-taps-and-mixers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sink/Bib taps and mixers" src="/images/ECFHP   Eligible Products/With logo/Slide19.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sink/Bib taps and mixers</div><div class="isomer-card-description">3 tick</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.climate-friendly-households.gov.sg/water-heaters/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="This is an image of clothes dryer" src="/images/Untitled.png">
+<img style="width: 100%" height="auto" width="100%" alt="Water Heaters" src="/images/Water__Heater.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">[New] Clothes dryers</div>
+<div class="isomer-card-title">Water heaters</div>
 <div class="isomer-card-description">5 tick</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Washing machines" src="/images/ECFHP   Eligible Products/With logo/Slide20.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Washing machines</div><div class="isomer-card-description">4 tick</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/wels" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Water closets" src="/images/ECFHP   Eligible Products/With logo/Slide16.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Water closets</div>
+<div class="isomer-card-description">3 tick</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a>
