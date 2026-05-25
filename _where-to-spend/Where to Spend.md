@@ -21,6 +21,6 @@ description: ""
 <h4 id="participating-retailers">Participating Retailers</h4>
 
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" height="389" width="820" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRvygj8jl0Bj3IgV_-cw1LD7g_XA2LN8zmynr7HV3RrtgPpA98IbKldCSGvPH2SnQ/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="389" width="820" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSSkJ1P-yL0fF3tedhbJLoreFVG5mIpYiis\_fD9nDpmE8qk0HbyU8MSEwwB\_Yr-g/pub?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
