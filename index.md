@@ -53,5 +53,8 @@ sections:
       description: Have questions? Check out the Frequently Asked Questions.
       button: Read the FAQ here
       url: /cv-faqs
-notification: ""
+notification: Thew website will be undergoing scheduled maintenance on Thursday,
+  23 July 2026, from 8:00 PM to Friday, 24 July 2026, 12:00AM. During this
+  period, the website will not be accessible. We apologise for any inconvenience
+  caused. Please check back after 12:00 AM on 24 July 2026.
 ---
